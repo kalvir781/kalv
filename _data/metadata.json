@@ -1,0 +1,21 @@
+{
+  "title": "Kalv",
+  "url": "https://kalv.dev/",
+  "language": "en",
+  "description": "Kalv's little digital space on the internet ",
+  "feed": {
+    "subtitle": "Kalv's little digital space on the internet.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://kalv.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "Kalv Sandhu",
+    "email": "kalv@kalv.co.uk",
+    "url": "https://kalv.dev/about-me/"
+  }
+}

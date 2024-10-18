@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+<p>Hello. I'm Kalv.</p>
+
+{% set postslist = collections.posts | head(-15) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>View all <a href="{{ '/posts/' | url }}">posts</a> .</p>
