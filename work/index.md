@@ -4,7 +4,7 @@ title: About me
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
-  order: 4
+  order: 5
 ---
 
 I've been working in technology as a developer and a leader in many areas and still loving it.
