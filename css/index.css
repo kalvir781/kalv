@@ -3,7 +3,7 @@
   --text-color: #111;
   --title-color: #333;
   --muted-text-color: #888;
-  --link-color: blue;
+  --link-color: #118cc5;
   --background-color: #fff;
   --lightgray: #e0e0e0;
 }
@@ -142,7 +142,6 @@ code {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
 }
 .home :link:not(:hover) {
   text-decoration: none;

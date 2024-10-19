@@ -10,12 +10,6 @@
     <meta property="og:title" content="{{ title or metadata.title }}">
     <meta property="og:description" content="{{description or metadata.description}}">
 
-    <meta name="twitter:card" content="summary">
-    <meta property="twitter:domain" content="kalv.dev">
-    <meta property="twitter:url" content="{{ page.url | canonical }}">
-    <meta name="twitter:title" content="{{ title or metadata.title }}">
-    <meta name="twitter:description" content="{{description or metadata.description}}">
-
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
@@ -23,18 +17,11 @@
     <link rel="canonical" href="{{ page.url | canonical }}"/>
     {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap' %}
     {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400&display=swap' %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GRK9E0C8CK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-GRK9E0C8CK');
-    </script>
   </head>
   <body>
     <header>
       <h1 class="home">
+        <img style="width:50px" src="/img/1728916304100.jpg">
         <a href="{{ '/' | url }}">{{ metadata.title }}</a>
       </h1>
 
