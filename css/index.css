@@ -56,6 +56,9 @@ a[href], a[href]:visited {
   text-decoration: underline;
   text-underline-offset: 1px;
 }
+.tmpl-post a {
+  text-underline-offset: 3px;
+}
 main {
   max-width: 700px;
   margin: 0 auto;
