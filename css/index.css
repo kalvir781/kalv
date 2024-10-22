@@ -50,9 +50,11 @@ p,
 .tmpl-post li {
   line-height: 1.7;
 }
+
 a[href], a[href]:visited {
   color: var(--link-color);
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 1px;
 }
 main {
   max-width: 700px;
