@@ -11,7 +11,7 @@ So I sipped my coffee this month and got to work.
 
 This is what I've found so far.
 
-First off, there is a lof of lightning every day, almost 12-13k strikes, which amounts to about 3,808,800 million Volts (*yes one bolt is 300m volts*) blasted into our earth every 24 hours. Don't believe me, [check out this site](http://www.blitzortung.org/) every day and look at the number increase in the corner. The lines on the map show which weather station validated the detection of ionization in the sky. I've been validating it for over 2 weeks. If anyone is interesed to work on designs to contain this elecricity to re-use to power a lot of things, I'm interested to talk to you.
+First off, there is a lot of lightning every day, almost 12-13k strikes, which amounts to about 3,808,800 million Volts (*yes one bolt is 300m volts*) blasted into our earth every 24 hours. Don't believe me, [check out this site](http://www.blitzortung.org/) every day and look at the number increase in the corner. The lines on the map show which weather station validated the detection of ionization in the sky. I've been validating it for over 2 weeks. If anyone is interesed to work on designs to contain this elecricity to re-use to power a lot of things, I'm interested to talk to you.
 
 [http://www.blitzortung.org/](http://www.blitzortung.org/)
 
