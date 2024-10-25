@@ -1,5 +1,5 @@
 ---
-title: Keyboard only experience review note
+title: Couch Computing
 description: Keyboard only experience review note that turned into something else
 date: 2024-04-09
 layout: layouts/post.njk

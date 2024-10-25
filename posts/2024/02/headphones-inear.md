@@ -1,5 +1,5 @@
 ---
-title: In ear headphones 2024
+title: Sound Quality
 description: Why using wired in ear headphones are better for me than high priced bluetooth fancy ones
 date: 2024-02-02
 layout: layouts/post.njk

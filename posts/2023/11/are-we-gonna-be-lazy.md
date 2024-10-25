@@ -1,5 +1,5 @@
 ---
-title: Was Wall-E right?
+title: Are we gonna be lazy?
 description: Are we going to get really lazy
 date: 2023-11-03
 layout: layouts/post.njk
