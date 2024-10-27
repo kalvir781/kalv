@@ -40,7 +40,3 @@ More of me on the internet.
 
 - [Instagram](https://instagram.com/kalv)
 
-- [Threads](https://www.threads.net/@kalv)
-
-- [Soundcloud](https://soundcloud.com/kalvir-sandhu-493975180)
-
