@@ -1,9 +1,15 @@
+// todo
+// - add button to save image of the canvas
 class DrawingApp {
 	constructor(canvas) {
 		this.canvas = canvas;
 		this.context = canvas.getContext("2d");
 		this.canvas.addEventListener("pointerdown", this.startDrawing.bind(this));
 		this.canvas.addEventListener("pointerup", this.stopDrawing.bind(this));
+
+		this.saveLink = document.getElementById("board-save-link")
+		this.saveLink.addEventListener("click", this.handleSave.bind(this));
+
 		this.previousPosition = {
 			x: 0, y: 0
 		};
@@ -40,6 +46,11 @@ class DrawingApp {
 		this.context.lineTo(to.x, to.y);
 		this.context.stroke();
 		this.context.closePath();
+	}
+
+	handleSave() {
+		const image = this.canvas.toDataURL("image/webp");	
+		this.saveLink.href = image;
 	}
 }
 document.addEventListener("DOMContentLoaded", () => {

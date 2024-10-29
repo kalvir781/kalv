@@ -278,3 +278,12 @@ footer {
 	border: 1px solid blue;
 	touch-action: none;
 }
+#board-controls {
+	padding-bottom: 10px;
+	a {
+		font-size: 16px;
+		border: 1px solid blue;
+		padding: 5px;
+		text-decoration: none;
+	}
+}
