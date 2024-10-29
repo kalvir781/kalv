@@ -1,5 +1,3 @@
-// todo
-// - add button to save image of the canvas
 class DrawingApp {
 	constructor(canvas) {
 		this.canvas = canvas;
