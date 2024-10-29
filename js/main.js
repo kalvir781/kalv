@@ -1,10 +1,6 @@
 class DrawingApp {
-	constructor(id) {
-		this.canvas = document.getElementById(id);
-		console.log(this.canvas);
-		//if (this.canvas == undefined) {
-		//	return;
-		//}
+	constructor(canvas) {
+		this.canvas = canvas;
 		this.context = canvas.getContext("2d");
 		this.canvas.addEventListener("pointerdown", this.startDrawing.bind(this));
 		this.canvas.addEventListener("pointerup", this.stopDrawing.bind(this));
@@ -47,6 +43,8 @@ class DrawingApp {
 	}
 }
 document.addEventListener("DOMContentLoaded", () => {
-	console.log('loaded');
-	new DrawingApp("canvas");
+	const canvas = document.getElementById("canvas");
+	if (canvas !== null) {
+		new DrawingApp(canvas);
+	}
 });
