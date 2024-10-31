@@ -4,7 +4,7 @@ title: About me
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
-  order: 5
+  order: 6
 ---
 
 ![/img/profile-pic.avif](/img/profile-pic.avif)

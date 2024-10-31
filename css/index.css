@@ -288,3 +288,7 @@ footer {
 		margin-right: 30px;
 	}
 }
+
+audio {
+	width: 100%;
+}

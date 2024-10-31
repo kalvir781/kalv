@@ -14,6 +14,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("files");
 
+  eleventyConfig.addPassthroughCopy("media");
+
   // Allow for development reload
   eleventyConfig.addWatchTarget("./js");
 
