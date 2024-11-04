@@ -292,3 +292,13 @@ footer {
 audio {
 	width: 100%;
 }
+
+.clock {
+  time {
+    display: block;
+    font-size: 2em;
+    color: black;
+    height: 100px;
+    border: 1px solid black;
+  }
+}
