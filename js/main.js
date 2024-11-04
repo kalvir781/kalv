@@ -67,7 +67,7 @@ class Clock {
     this.lastMarker = " - o";
     setInterval(this.startCurrentPst.bind(this), 1000);
 
-    if (document.cookie.indexOf("clock=1") > 0) {
+    if (document.cookie.indexOf("clock=1") !== -1) {
       setTimeout(this.start.bind(this), this.currentInterval * 1000);
     }
   }
