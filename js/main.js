@@ -81,7 +81,7 @@ class Clock {
     // work out next mars interval
     this.lastMarker = this.currentInterval;
     this.currentInterval = getRandomInt(1,60);
-    console.log('fuck tick - ' + this.currentInterval);
+    console.log('um - ' + this.currentInterval);
 
     // fire next sun mars ping
     setTimeout(this.start.bind(this), this.currentInterval * 1000);
