@@ -5,7 +5,7 @@ date: 2024-08-13
 layout: layouts/post.njk
 ---
 
-I'm not sure where things are in the news with the current burning of our forests in the world, but know that there are a number ongoing, so as always stay away from the depressing news. Since my [last post](https://kalv.dev/posts/2023/08/ok-wildfire/) on whether technology will help us fighting our fires. I've since reached out and spoken to a number of people, prototyped and researched a lot more while I've been applying for jobs.
+I'm not sure where things are in the news with the current burning of our forests in the world, but know that there are a number ongoing, so as always stay away from the depressing news. Since my [last post](https://kalv.life/posts/2023/08/ok-wildfire/) on whether technology will help us fighting our fires. I've since reached out and spoken to a number of people, prototyped and researched a lot more while I've been applying for jobs.
 
 Had a lovely chat with a gentleman that worked with BC parks to fight fires to learn their methods and what they use. Learnt a lot about the hard work they do to manage the fires and react to them, their techniques and gaps in tooling. I spoke to an [ML company in Alberta](https://altaml.com/industry/forestry-and-agriculture/#:~:text=Using%20data%20analysis%2C%20pattern%20recognition,risk%20for%20the%20following%20day.) about how they were using ML modelling of data to predict the movements of fires of which they were able to process data that they were able to access from previous seasons rather than realtime ML prediction of any going fires. Found a number of companies that build devices like weather stations that won't measure the amount of data or coverage required.
 
@@ -27,5 +27,3 @@ Other areas that I've covered so far:
 - Prototype build designs, for small forest coverage, am currently planning to see if I can get enough money to buy a plot near a forest where I can prototype with the community.
 - Low powered compute to allow for low powered solar/charging lifecycle. Low light pigment sensor power conversion and other methods of power generation.
 - Data transmission protocol for low amounts of data over radio.
-
-I'm seeking help with collaboration on designs, partners that are working to create a network such as this for our forests as always, if you're reading this and interested to help, please email me a@kalv.dev.

@@ -43,7 +43,7 @@ Here are some steps that I use to copy a photo from the SD card using my termina
 - `cd /Volumes/NAME OF SD`
 - Most of the time you can `cd` into the directories and find the `JPG`, for me it's `cd /Volumnes/Untitled/DCIM`. If you're finding it difficult to understand the directory structure, I love firing this command `find .` and then scrolling through the files.
 - When in the right directory, I use `ls -alrt` such that the last image taken is listed
-- `cp ./_123.jpg ~/me/projects/kalv-dev/img/posts`
+- `cp ./_123.jpg ~/me/projects/kalv/img/posts`
 - To reduce the size of the image so that it's easily embeddable in my blog. `brew install imagemagick` (to ensure I had convert installed).
 - `convert keyboard-only-setup.jpg -resize 800x800^ keyboard-only-setup-small.jpg`, this gives me a fixed width of 800px on the image
 - I use `mv` and `cp` commands to change the filename if need be after.

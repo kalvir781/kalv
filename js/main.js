@@ -91,6 +91,24 @@ class Clock {
   }
 }
 
+class MotionPicture {
+  constructor(interview) {
+    this.interview = this.interview;
+    this.context = this.interview.getContext("2d");
+
+    //const image = new Image();
+    //image.src = "/img/out581.png.avif";
+
+    //this.context.drawImage(image, 480, 360);
+  }
+}
+
+class Something {
+  constructor() {
+    console.log("something");
+  }
+}
+
 function setCookie() {
   var url = window.location.search;
   if(url.indexOf('?clock=1') !== -1)
@@ -103,9 +121,12 @@ document.addEventListener("DOMContentLoaded", () => {
 	if (canvas !== null) {
 		new DrawingApp(canvas);
 	}
+
   const clock = document.getElementById("clock");
   if (clock !== null) {
     new Clock(clock);
   }
+
   setCookie();
 });
+

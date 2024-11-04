@@ -40,7 +40,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("canonical", (url) => {
-    return "https://kalv.dev" + url;
+    return "https://kalv.life" + url;
   });
 
   // Get the first `n` elements of a collection.

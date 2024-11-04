@@ -5,7 +5,7 @@ date: 2023-07-12
 layout: layouts/post.njk
 ---
 
-First off, I didn't make it to [Argentina](https://kalv.dev/posts/2023/pre-summer-sols/) on the cheap. Had too much work and research to do.
+First off, I didn't make it to [Argentina](https://kalv.life/posts/2023/pre-summer-sols/) on the cheap. Had too much work and research to do.
 
 Wanted to share more on what I referenced in my last post about AI. How I think private data models are something that we all are going to want. Whether as a company, agency, family or individuals.
 

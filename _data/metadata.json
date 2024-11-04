@@ -1,21 +1,21 @@
 {
   "title": "Kalv",
-  "url": "https://kalv.dev/",
+  "url": "https://kalv.life/",
   "language": "en",
   "description": "Kalv's little digital space on the internet ",
   "feed": {
     "subtitle": "Kalv's little digital space on the internet.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://kalv.life/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://kalv.dev/feed/feed.json"
+    "url": "https://kalv.life/feed/feed.json"
   },
   "author": {
-    "name": "Kalv Sandhu",
-    "email": "kalv@kalv.co.uk",
-    "url": "https://kalv.dev/about-me/"
+    "name": "Kalvir Sandhu",
+    "email": "kalvir.sandhu@gmail.com",
+    "url": "https://kalv.life/work/"
   }
 }
