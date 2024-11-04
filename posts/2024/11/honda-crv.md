@@ -9,7 +9,7 @@ I love my honda CRV, it's been great to use for the last 2 years. I wanted to qu
 
 First off, I've driven 50,000 KM on it, without a service and it still drives like a new car.
 
-When I first drove this car, I knew immediately that it was a car. It moved off when accelerating like a mercedes, it had 50% torque front and read engaged all the time, it was brilliant. Amazing for handling the road, when there is a lot of rain, which happens a lot here in Vancouver, BC.
+When I first drove this car, I knew immediately that it was a car. It moved off when accelerating like a mercedes, it had 50% torque front and rear engaged all the time, it was brilliant. Amazing for handling the road, when there is a lot of rain, which happens a lot here in Vancouver, BC.
 
 It has amazing efficiency, I've been able to push a full tank for 800km. I think this is because of the method that I use to drive the car with low acceleration and move off to ensure good use of the hybrid battery and engine.
 
