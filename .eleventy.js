@@ -1,6 +1,8 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const eleventyGoogleFonts = require("eleventy-google-fonts");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
@@ -18,8 +20,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./js");
 
   // Add plugins
+  eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(eleventyGoogleFonts);
 
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
@@ -36,7 +40,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("canonical", (url) => {
-    return "https://kalv.life" + url;
+    return "https://kalv.dev" + url;
   });
 
   // Get the first `n` elements of a collection.
