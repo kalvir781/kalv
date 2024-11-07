@@ -19,11 +19,12 @@ eleventyNavigation:
 <source src="/media/2_sunny.mp3" type="audio/mp3">
 </audio>
 
-# 3. Will You
+# 3. Will You Take Me Now
 
 <audio controls preload="none">
 <source src="/media/3_will_you.mp3" type="audio/mp3">
 </audio>
+<small>Explicit</small>
 
 # 4. Whistler
 
@@ -37,7 +38,7 @@ eleventyNavigation:
 <source src="/media/5_1330.mp3" type="audio/mp3">
 </audio>
 
-# 6. Slate Mate
+# 6. Stale Mate
 
 <audio controls preload="none">
 <source src="/media/6_slate_mate.mp3" type="audio/mp3">
