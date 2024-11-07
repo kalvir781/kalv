@@ -107,5 +107,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (clock !== null) {
     new Clock(clock);
   }
+  
   setCookie();
 });
