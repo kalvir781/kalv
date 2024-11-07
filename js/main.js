@@ -52,61 +52,11 @@ class DrawingApp {
 	}
 }
 
-function getRandomInt(min, max) {
-  min = Math.ceil(min);
-  max = Math.floor(max);
-  return Math.floor(Math.random() * (max - min + 1) + min);
-}
-
-/* Mars Clock */
-class Clock {
-	constructor(clock) {
-		this.clock = clock;
-    this.currentPst = document.getElementById("current-pst-time");
-    this.currentInterval = getRandomInt(1,5);
-    this.lastMarker = " - o";
-    setInterval(this.startCurrentPst.bind(this), 1000);
-
-    if (document.cookie.indexOf("clock=1") !== -1) {
-      setTimeout(this.start.bind(this), this.currentInterval * 1000);
-    }
-  }
-
-  startCurrentPst() {
-    this.currentPst.innerHTML = new Date().toLocaleString('en', {timeZone: 'America/Vancouver'});
-  }
-
-  start() {
-    // render
-    this.clock.innerHTML = this.currentInterval + "::" + this.lastMarker;
-
-    // work out next mars interval
-    this.lastMarker = this.currentInterval;
-    this.currentInterval = getRandomInt(1,60);
-    console.log('um - ' + this.currentInterval);
-
-    // fire next sun mars ping
-    setTimeout(this.start.bind(this), this.currentInterval * 1000);
-
-  }
-}
-
-function setCookie() {
-  var url = window.location.search;
-  if(url.indexOf('?clock=1') !== -1)
-    document.cookie="clock=1";
-}
-
 /* Built by Kalvir Sandhu aka Kalv */
 document.addEventListener("DOMContentLoaded", () => {
 	const canvas = document.getElementById("canvas");
 	if (canvas !== null) {
 		new DrawingApp(canvas);
 	}
-  const clock = document.getElementById("clock");
-  if (clock !== null) {
-    new Clock(clock);
-  }
   
-  setCookie();
 });
