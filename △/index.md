@@ -11,10 +11,8 @@ eleventyNavigation:
 
 <input id="box" value="" placeholder="SOMETHING TO SAY"></input>
 
-My project this weekend.
+My project this weekend. I made a young child erupt with laughter yesterday and I wanted to make something that might help young children communicate with something fun and words that make sounds. But making it accessible to all. So I constructed this tool to work on my website anytime anyone would want to use it.
 
 Only works in the browser for now (updated on Nov 8th 2024).
 
-To build a text to speech service in under 50kb. Thanks to the lovely [SamJS](https://github.com/HeraldOD/sam) library, well written and maintained, thanks.
-
-I want this to be used by those with listening difficulties and children with learning challenges that want to communicate with others for free.
+Thanks to the lovely [SamJS](https://github.com/HeraldOD/sam) JS library, it is well written and well maintained.
