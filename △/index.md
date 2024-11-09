@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
-title: △
+title: Text-2-Speech
 templateClass: tmpl-post
 eleventyNavigation:
-  key: △
-  order: 7
+  key: Text-2-Speech
+  order: 3
 ---
 
 △
