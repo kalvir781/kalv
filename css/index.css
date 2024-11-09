@@ -302,3 +302,12 @@ audio {
     border: 1px solid black;
   }
 }
+
+#box {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid orange;
+}
+input:focus {
+  border: 1px solid orange;
+}
