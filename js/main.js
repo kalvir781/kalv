@@ -61,13 +61,18 @@ class Box {
     this.inputElement.addEventListener('input', (event) => {
       const newValue = event.target.value;
 
-      // Clear any existing timeout
+    //  // Clear any existing timeout
       clearTimeout(this.timeoutId);
 
       this.timeoutId = setTimeout(() => {
+
         this.myString = newValue;
-        console.log('Updated string:', this.myString);
-// Fire SAM CODE TO Speak this.myString
+
+        new SamJs(
+          {debug: 1, speed: 92, pitch: 60, throat: 190, mouth: 190}
+        ).speak(this.myString);
+
+        console.log('Speaking: ', this.myString);
       }, 1000);
     });
   }
