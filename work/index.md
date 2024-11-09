@@ -34,14 +34,10 @@ I've had the pleasure to work at some great companies and with wonderful people.
 - Led Information Retrieval Computer Science (What people call AI today) at Complinet which was [acquired by Thomson Reuter](https://ir.thomsonreuters.com/news-releases/news-release-details/thomson-reuters-acquire-complinet)
 - There are a number of other people, teams and companies that I've had the pleasure to work with that I will list out in time.
 
-More of me on the internet.
-
-- [LinkedIn](https://linkedin.com/in/kalvir)
-
-- [Instagram](https://instagram.com/kalv)
-
 Mirrors
 
 - [Kalv.me](https://kalv.me)
 - [Kalv.life](https://kalv.life)
 - [Kalv.online](https://kalv.online)
+
+△
