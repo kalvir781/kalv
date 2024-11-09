@@ -52,11 +52,43 @@ class DrawingApp {
 	}
 }
 
+class Box {
+  constructor(box) {
+    this.inputElement = box;
+    this.myString = '';
+    this.timeoutId = null;
+
+    this.inputElement.addEventListener('input', (event) => {
+      const newValue = event.target.value;
+
+    //  // Clear any existing timeout
+      clearTimeout(this.timeoutId);
+
+      this.timeoutId = setTimeout(() => {
+
+        this.myString = newValue;
+
+        new SamJs(
+          {debug: 1, speed: 92, pitch: 60, throat: 190, mouth: 190}
+        ).speak(this.myString);
+
+        console.log('Speaking: ', this.myString);
+      }, 1000);
+    });
+  }
+}
+	
+
 /* Built by Kalvir Sandhu aka Kalv */
 document.addEventListener("DOMContentLoaded", () => {
 	const canvas = document.getElementById("canvas");
 	if (canvas !== null) {
 		new DrawingApp(canvas);
 	}
+
+  const box = document.getElementById("box");
+  if (box !== null) {
+    new Box(box);
+  }
   
 });
