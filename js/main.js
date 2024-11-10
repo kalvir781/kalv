@@ -94,9 +94,7 @@ class Clock {
     this.lastMarker = " - o";
     setInterval(this.startCurrentPst.bind(this), 1000);
 
-    if (document.cookie.indexOf("clock=1") !== -1) {
-      setTimeout(this.start.bind(this), this.currentInterval * 1000);
-    }
+    setTimeout(this.start.bind(this), this.currentInterval * 1000);
   }
 
   startCurrentPst() {
@@ -117,14 +115,6 @@ class Clock {
 
   }
 }
-
-function setCookie() {
-  var url = window.location.search;
-  if(url.indexOf('?clock=1') !== -1)
-    document.cookie="clock=1";
-}
-
-
 
 /* Built by Kalvir Sandhu aka Kalv */
 document.addEventListener("DOMContentLoaded", () => {
