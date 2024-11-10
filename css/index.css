@@ -176,6 +176,10 @@ code {
   text-decoration: underline;
 }
 
+.nav li:last-child {
+  font-size: 2em;
+}
+
 /* Posts list */
 .postlist {
   list-style: none;
