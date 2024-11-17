@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-△
+Text 2 Speech
 
 Only works on desktop web browsers like Chrome, Safari and Edge. Not on Mobile. Sorry.
 
