@@ -7,8 +7,6 @@ eleventyNavigation:
   order: 4
 ---
 
-![/img/profile-pic.avif](/img/profile-pic.avif)
-
 I've been working in technology as a developer and a leader in many areas and still loving it.
 
 A little overview of some tech I've worked with:
