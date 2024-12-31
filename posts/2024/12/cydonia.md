@@ -10,7 +10,7 @@ Most people in the world have been fascinated by a human face on Mars, or what l
 
 This picture below is a sat photo of the region of Mars that contained the picture of the human face. Originally obtained from the ESA, which now seems to only have a picture of a smaller area.
 
-The area below is one that I've been looking at a lot, because of the circles on it, they don't look like man mand circles. The size of them are too big, or must've taken people a very long time to make. These circles wouldn't of formed with water or other natural resources that Earth is aware of. So I left them as question marks. But when drawing lines they depict patterns, almost like star patterns similiar to work from the greeks.
+The area below is one that I've been looking at a lot, because of the circles on it, they don't look like man maid circles. The size of them are too big, or must've taken people a very long time to make. These circles wouldn't of formed with water or other natural resources that Earth is aware of. So I left them as question marks. But when drawing lines they depict patterns, almost like star patterns similiar to work from the greeks.
 
 Here is an overlay pattern on the picture of Mars to show some of the possibilities of structure on something we don't fully understand yet. Enjoy.
 
