@@ -153,6 +153,7 @@ code {
   padding: 0 1rem;
   float: left;
   margin: 0;
+  font-size: 4em;
 }
 .home :link:not(:hover) {
   text-decoration: none;

@@ -1,12 +1,6 @@
-# Kalv.dev blog
+# KON's blog
 
 Originally started with [Eleventy](https://github.com/11ty/eleventy) static site generator.
-
-## Deploy
-
-When pushed up to `main` will automatically deploy to [https://kalv.dev](https://kalv.dev)
-
-Hosted at Cloudflare
 
 ## Running
 
