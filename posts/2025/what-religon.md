@@ -1,7 +1,7 @@
 ---
 title: What religon? What God?
 description: Review of what I've been up to in the last 2 years.
-date: 2025-01-11
+date: 2025-01-13
 layout: layouts/post.njk
 ---
 
