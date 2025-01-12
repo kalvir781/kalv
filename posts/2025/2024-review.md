@@ -18,7 +18,7 @@ During 2023, I took 2 trips. One to mexico city where I used the time to explore
 The second trip I made was a month long trip to Puerto Escondido, MX in November, it was great. I used the time to work and train my body.
 I won't go into too much about the trip as there would be too much to write down. One thing I'll share is the best place to eat in the area I found was Ala Burger, it was one man, a grill and his wife cooking and delivering the food. I ate there all the time. The other places to eat in the area were very fancy, overpriced and seemed to have the wrong crowd in.
 
-It had a lovely market that allowed to get fresh fruit and ingredients. It had the best fresh orange juice that I jugged down after my morning routing of wave chi and hot sand walking. Was a great way to add to my methods of large weight loss and body conditioning. That market had a lovely tapioca desert pot that was super cheap but really high quailty, something I always had in my fridge.
+It had a lovely market that allowed me to get fresh fruit and ingredients. It had the best fresh orange juice that I chugged down after my morning routing of wave chi and hot sand walking. Was a great way to add to my methods of large weight loss and body conditioning. That market had a lovely tapioca desert pot that was super cheap but really high quailty, something I always had in my fridge.
 
 I had a lovely friend that met up with me at sunsets and a corona which was great to end the days. I didn't get to surf but will do when I go next time.
 
