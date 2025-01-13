@@ -1,5 +1,5 @@
 ---
-title: Mental Health
+title: Candian Mental Health Services
 description: Notes on my progress with services on mental health in Canada
 date: 2025-01-12
 layout: layouts/post.njk
