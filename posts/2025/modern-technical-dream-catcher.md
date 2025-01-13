@@ -1,3 +1,10 @@
+---
+title: Modern dream catcher
+description: Notes on using new techniques to have a peaceful mind
+date: 2025-01-12
+layout: layouts/post.njk
+---
+
 Modern dream catcher.
 
 There used to be a time that mothers and fathers would put a dreamcatcher by the window to allow their child to sleep in peace and allow them to develop correctly. This post follows on that theme in relation in what you could do as an adult or for your children. I have experiemented with these techniques and have found in the last month they have brought me a lot of peace.
