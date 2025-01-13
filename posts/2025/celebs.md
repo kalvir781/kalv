@@ -13,4 +13,4 @@ But it seems that no one reached out, I'm unsure why no one wants to build anyth
 
 Just know that trying to build technology with arts and creative industry, won't work. It seems that they are spending their money on something else.
 
-![https://gist.github.com/kalv/b71bc9968d828922ff75be854a4cd341](https://gist.github.com/kalv/b71bc9968d828922ff75be854a4cd341)
+[https://gist.github.com/kalv/b71bc9968d828922ff75be854a4cd341](https://gist.github.com/kalv/b71bc9968d828922ff75be854a4cd341)
