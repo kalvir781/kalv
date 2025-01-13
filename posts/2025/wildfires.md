@@ -5,7 +5,7 @@ date: 2025-01-12
 layout: layouts/post.njk
 ---
 
-Wildfires. Insane. Over the last couple of years, I've seen so many fires around BC/Alberta. And they are just growing and growing.
+Wildfires. Insane. Over the last couple of years, I've seen so many fires around BC/Alberta. Even last late summer, I drove to Jasper, and was shocked to see it burnt down, it looked like an apocalypse. And they are just growing and growing.
 
 About 2 years ago, I designed a system of engineering and electronics that would affordable for all countries in the world and no one wanted to work with me.
 
