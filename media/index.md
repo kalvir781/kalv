@@ -4,7 +4,7 @@ title: Media
 templateClass: tmpl-post
 eleventyNavigation:
   key: Media
-  order: 5
+  order: 2
 ---
 
 # 1. Zero

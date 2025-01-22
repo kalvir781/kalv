@@ -3,7 +3,7 @@ layout: layouts/home.njk
 title: About me
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Me
   order: 4
 ---
 
@@ -37,3 +37,5 @@ Mirrors
 - [Kalv.me](https://kalv.me)
 - [Kalv.life](https://kalv.life)
 - [Kalv.online](https://kalv.online)
+
+△ .
