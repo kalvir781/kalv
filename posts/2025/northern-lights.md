@@ -1,5 +1,5 @@
 ---
-title: Northern Lights
+title: Found Northern Lights
 description: My bucket list acheievement of seeing the northern lights.
 date: 2025-01-10
 layout: layouts/post.njk
