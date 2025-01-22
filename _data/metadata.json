@@ -1,10 +1,10 @@
 {
-  "title": "Kon",
+  "title": "Kalv",
   "url": "https://kalv.online/",
   "language": "en",
-  "description": "Kon's space on the internet ",
+  "description": "Kalv's space on the internet ",
   "feed": {
-    "subtitle": "Kon's space on the internet.",
+    "subtitle": "Kalv's space on the internet.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://kalv.online/"
