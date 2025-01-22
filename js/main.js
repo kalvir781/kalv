@@ -71,7 +71,7 @@ class Box {
         new SamJs(
           //{speed: 72, pitch: 64, throat: 110, mouth: 160} 
 {speed: 94, pitch: 37, throat: 191, mouth: 193}
-        ).speak(this.myString + ", From Kalv");
+        ).speak(this.myString);
 
         console.log('Speaking: ', this.myString);
       }, 1000);
