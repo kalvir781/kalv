@@ -38,4 +38,4 @@ Mirrors
 - [Kalv.life](https://kalv.life)
 - [Kalv.online](https://kalv.online)
 
-△ .
+△ kalvir.sandhu@gmail.com
