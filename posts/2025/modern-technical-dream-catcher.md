@@ -17,6 +17,8 @@ But here is a list of things you can do to protect your brain such that you can 
 
 2. Even putting a pack of chewing gum (foil) in a cap will work. This will be great for kids that perhaps have confusing thoughts or troubled to speak.
 
+3. If you find your head arch back or you have neck issues, top spinal mis-alignments that you can never align with as much pysio-therapy you get or chiropractors. Try when doing your yoga or stretches with a hockey teeth mouth guard and see if it helps.
+
 Water.
 It's really important to have healthy clean water. And I've found the water in Canada quite bad. So have always been filtering my water. I use a brita stone magnetic based bottle, but you can get the simple brita one anytime you need. Here is a link.
 
