@@ -28,4 +28,4 @@ Other areas that I've covered so far:
 - Low powered compute to allow for low powered solar/charging lifecycle. Low light pigment sensor power conversion and other methods of power generation.
 - Data transmission protocol for low amounts of data over radio.
 
-I'm seeking help with collaboration on designs, partners that are working to create a network such as this for our forests as always, if you're reading this and interested to help, please email me a@kalv.dev.
+I'm seeking help with collaboration on designs, partners that are working to create a network such as this for our forests as always, if you're reading this and interested to help, please email me kalvir.sandhu@gmail.com.

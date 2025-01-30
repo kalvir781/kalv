@@ -55,4 +55,4 @@ I went ahead and started building a prototype with the [Blues stack](https://git
 
 There are some areas I have yet to work through such as background work but am confident that the architecture will form itself, following the philosophy set with Remix.
 
-If I get time, I will share again how it goes building out [Path.dev](https://path.dev).
+If I get time, I will share again how it goes building out Path.dev.

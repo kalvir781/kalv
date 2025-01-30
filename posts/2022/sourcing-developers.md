@@ -60,7 +60,7 @@ Here's an example of a outreach message via Twitter, LinkedIn or other. Make it 
 
 That's just an example, but try to work on your own tone, be genuine.
 
-It's hard to truly know where someone is in their career journey. I feel we can do better at this to prevent spamming developers, a reason I'm investing a lot of time into [Path](https://path.dev).
+It's hard to truly know where someone is in their career journey. I feel we can do better at this to prevent spamming developers, a reason I'm investing a lot of time into Path.
 
 ## Don’t undervalue your small team
 
