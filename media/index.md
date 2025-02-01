@@ -19,7 +19,7 @@ eleventyNavigation:
 <source src="/media/2_sunny.mp3" type="audio/mp3">
 </audio>
 
-# 3. Will You
+# 3. Will You Take Me Now
 
 <audio controls preload="none">
 <source src="/media/3_will_you.mp3" type="audio/mp3">
