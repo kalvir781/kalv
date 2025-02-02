@@ -1,4 +1,3 @@
-
 ---
 title: Advanced therapies
 description: Therapy theories

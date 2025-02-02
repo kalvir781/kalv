@@ -1,4 +1,3 @@
-
 ---
 title: Cancer healing theory 
 description: Cancer healing theory using musicology
