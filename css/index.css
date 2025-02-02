@@ -295,13 +295,11 @@ audio {
 }
 
 .clock {
-  time {
-    display: block;
-    font-size: 2em;
-    color: black;
-    height: 100px;
-    border: 1px solid black;
-  }
+  display: block;
+  font-size: 2em;
+  color: black;;
+  border: 1px solid black;
+  padding: 10px;
 }
 
 #box {
@@ -312,3 +310,4 @@ audio {
 input:focus {
   border: 1px solid orange;
 }
+
