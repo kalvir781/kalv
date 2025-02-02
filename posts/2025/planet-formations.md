@@ -20,4 +20,5 @@ I believe that there a number of other forces at work (No not aliens forming pla
 - Sound. Space is a vacuum but does sound travel through materials, rocks? It does, so what would happen if a sound signature is one rock compared to another. Do they attract or detract. Would they need to be different frequencies. Are these sounds we don't know about? 
 
 - Earth has the Van Allen belt (two radiation belts trapping charged particles) around earth. How was it formed, why did it form? Were these created by the sun to help contain what was required to form Earth?
-- Proton analysis △, as a flower gets sunshine to allow it to grow, what were the protons that came from the sun to the planet and why. Why wasn’t that proton of energy sent to another planet. My theory is that our planet asked for it, in the way that we individually.
+
+- Proton analysis △, as a flower gets sunshine to allow it to grow, what were the protons that came from the sun to the planet and why. How can we better understand healthy sunshine even just for our bodies. Then be able to take the concept further and understand what it would it do to materials that were being fused together at the creation of the planet.
