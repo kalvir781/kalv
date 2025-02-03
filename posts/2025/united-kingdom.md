@@ -1,5 +1,5 @@
 ---
-title: United Kingdom
+title: UK Travel highlights 2025
 description: Sharing my highlights of travelling around the United Kingdom
 date: 2025-02-03
 layout: layouts/post.njk
