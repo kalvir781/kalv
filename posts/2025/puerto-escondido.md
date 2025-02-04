@@ -9,6 +9,8 @@ I stayed in Brisas de Zicatela for a month, training and working through my comp
 
 Everyday I started with a morning walk and ended with a sunset walk. The one in the morning was great as it was cooler and then warmed up as the sun rose. Walking bear foot with the hot sand, created great energy flows for the blood flow from the feet to the head. Good sweat out. After the morning hike, I went to the the local market for fresh orange juice, a lovely tapioca desert, fresh apples, bannanas, pineapple and other fresh fruit. From there I also purchased local rice and other grains to make unique dishes at home to save money.
 
+![/img/posts/2025/pe-sunset.avif](/img/posts/2025/pe-sunset.avif)
+
 The bars were crap, I didn’t find a good social circle or friends to hang with. They all seemed to care about other things which I don’t know about. There are fancy eateries, with fun Spotify playlists but they seem to always be filled with people that are just wierd. Almost lost. They never connected with conversation and never wanted to meet up again after having one drink. To be fair this wasn’t the mexicans, it was people from England, Canada, USA and even Scotland, which surprised me. I had lovely conversations with locals that came in from Oaxaca.
 
 Ala Burger is the best place to eat in the whole area. It’s a man and his wife cooking wonderful burgers. I was able to get him to make a mean cheeseburger, ate here all the time when I wanted to eat out.
