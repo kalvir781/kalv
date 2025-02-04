@@ -52,3 +52,7 @@ Now for the best drive youâ€™d have in your life. Head up to isle of skye. Youâ€
 Make sure to check out the amazing castles if you see any.
 
 ![/img/posts/2025/uk/castle.avif](/img/posts/2025/uk/castle.avif)
+
+The one pre-historic english heritage site you must visit, even though today it's fenced, is Stone Henge.
+
+![/img/posts/2025/uk/stone-henge.avif](/img/posts/2025/uk/stone-henge.avif)
