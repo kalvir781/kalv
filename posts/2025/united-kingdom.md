@@ -41,7 +41,14 @@ If you like your flowers, gardens and great architecture buildings, make sure to
 
 Cumbria, loose yourself at lake windermere and all the ice cream you can eat. Make sure to try kendal mint cake, the one substance you’d eat on long hikes. If you do decide to walk up a hill (or mountain if you want to call it that), make sure to take a rock from the bottom and place it at the top.
 
+![/img/posts/2025/uk/windermere.avif](/img/posts/2025/uk/windermere.avif)
+
 If you’re feeling ambitious and want to see unique rock formations on the south coast, head to the https://jurassiccoast.org/, park up at one of the spots and then walk along the coast. And stop at a pub for a somerset local beer.
 
 Now for the best drive you’d have in your life. Head up to isle of skye. You’ll need to make stops and stay at other locations on the way if you’re heading from London. When you’re there, you’ll release the epicness of the island. I’d want to stay there the rest of my life if I had a choice. Checkout the Talisker tour if you want to check out one whiskey distillery.
 
+![/img/posts/2025/uk/isle-of-skye.avif](/img/posts/2025/uk/isle-of-skye.avif)
+
+Make sure to check out the amazing castles if you see any.
+
+![/img/posts/2025/uk/castle.avif](/img/posts/2025/uk/castle.avif)
