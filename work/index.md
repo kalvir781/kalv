@@ -37,5 +37,6 @@ Mirrors
 - [Kalv.me](https://kalv.me)
 - [Kalv.life](https://kalv.life)
 - [Kalv.online](https://kalv.online)
+- [Kalv.co.uk](https://kalv.co.uk)
 
 △ kalvir.sandhu@gmail.com
