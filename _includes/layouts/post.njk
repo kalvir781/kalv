@@ -4,7 +4,14 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
+{% for tag  in tags %}
+  {% if tag !== "posts" %}
+    <span class="post-tag"><a href="/{{ tag }}">{{tag}}</a></span>
+  {% endif %}
+{% endfor %}
+
 <time class="post-date" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+
 
 {{ content | safe }}
 
