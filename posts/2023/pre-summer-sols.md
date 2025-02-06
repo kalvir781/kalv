@@ -3,6 +3,7 @@ title: Pre Summer Solstice
 description: A small update
 date: 2023-06-14
 layout: layouts/post.njk
+tags: ["life"]
 ---
 A small update. I’ve been quiet. Personally and professionally. For a couple of reasons.
 

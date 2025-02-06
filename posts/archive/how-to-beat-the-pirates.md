@@ -3,6 +3,7 @@ title: How to beat the pirates
 description: How to beat the pirates
 date: 2009-06-17
 layout: layouts/post.njk
+tags: ["computers", "theory"]
 ---
 I have been talking and debating on downloading pirate videos and music for a while now, I think it would stop if there was a quick, easy and cheap alternative. Reading the [Digital Britain](http://en.wikipedia.org/wiki/Digital_Britain) full report today a point made me want to post this and find out what others think.
 

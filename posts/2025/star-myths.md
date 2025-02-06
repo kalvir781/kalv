@@ -3,6 +3,7 @@ title: Star Myths
 description: Outlining some aspects of star myths after my studying
 date: 2025-02-01
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 I’ve been interested in astronomy since childhood and it seems I’ve heard a lot of myths on what stars can do for humanity, friend discussions and debates. From my reading and knowledge, here is what I think in 2025.

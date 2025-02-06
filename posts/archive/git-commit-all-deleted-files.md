@@ -3,10 +3,11 @@ title: Git commit all deleted files
 description: Git commit all deleted files
 date: 2010-10-21
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 When deleting a folder or a bunch files from a project that uses [Git](http://git-scm.com/) I've always added the deleted files manually. `git add .` never staged those deletions.
 
-Thanks to [Chris](http://chrisroos.co.uk) today, finally found out a way to just stage all the deleted files. Simply:
+Finally found out a way to just stage all the deleted files. Simply:
 
     $ git add -u
 

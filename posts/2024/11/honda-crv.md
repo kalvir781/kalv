@@ -3,6 +3,7 @@ title: My Honda CRV
 description: Little review of my Honda CRV 2024
 date: 2024-11-03
 layout: layouts/post.njk
+tags: ["life"]
 ---
 
 I love my honda CRV, it's been great to use for the last 2 years. I wanted to quickly highlight some amazing advantages of the car.

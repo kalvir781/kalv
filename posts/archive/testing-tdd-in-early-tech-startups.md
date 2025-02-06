@@ -3,6 +3,7 @@ title: Testing (TDD) in early Tech Startups?
 description: Testing (TDD) in early Tech Startups?
 date: 2010-01-21
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 As a developer and working on early stage startups I always debate with founders on whether to follow Test Driven Development (TDD) or to just code the idea up and get it out, then later to write tests. I'm going to outline some things that I've found to be advantages and disadvantages.
 

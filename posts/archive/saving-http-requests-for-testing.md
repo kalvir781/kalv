@@ -3,6 +3,7 @@ title: Saving HTTP requests for testing
 description: Saving HTTP requests for testing
 date: 2009-10-13
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I have been working with quite a few HTTP API services, so testing has been fun. Setting up lots of mock responses from URL endpoints.
 

@@ -3,6 +3,7 @@ title: Smaller Digital Images
 description: How to make your images smaller than JPG
 date: 2025-01-30
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 I've been investigating a number of techniques in computer science to reduce the footprinte of image frames for my new video service that I'd like to release. My mission to make multiple streams be able to viewed from Formula 1 on the same amount of bandwidth used today for their livestream and if possible higher quality and higher frame rates.

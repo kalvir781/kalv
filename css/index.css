@@ -1,6 +1,6 @@
 /* Colors - Light theme*/
 :root {
-  --text-color: #111;
+  --text-color: #333;
   --title-color: #333;
   --muted-text-color: #888;
   --link-color: #118cc5;
@@ -31,16 +31,15 @@ body {
   background-color: var(--background-color);
 }
 h1, h2, h3, h4, h5, h6, .nav-item, .postlist-item, .post-date {
-  font-family: "Merriweather Sans", -apple-system, system-ui, sans-serif;
+  font-family: "Poppins", -apple-system, system-ui, sans-serif;
   font-weight: 400;
   color: var(--title-color);
 }
+
 p:last-child {
   margin-bottom: 0;
 }
-p, li {
-  font-size: 17px;
-}
+
 p,
 .tmpl-post li,
 img {
@@ -48,7 +47,8 @@ img {
 }
 p,
 .tmpl-post li {
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.8;
 }
 
 a[href], a[href]:visited {
@@ -309,5 +309,20 @@ audio {
 }
 input:focus {
   border: 1px solid orange;
+}
+
+.tag-filters {
+  a[href] {
+    margin-right: 10px;
+    border: 1px solid #111;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #111;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
+  a:visited, a:hover {
+    text-decoration: none;
+  }
 }
 

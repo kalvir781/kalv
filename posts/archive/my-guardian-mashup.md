@@ -3,6 +3,7 @@ title: My Guardian Mashup
 description: My Guardian Mashup
 date: 2009-03-10
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 This morning I was invited to the [Guardian](http://www.guardian.co.uk/) at their new shiny office at Kings Cross for the launch of [Open Platform API](http://www.guardian.co.uk/open-platform).
 

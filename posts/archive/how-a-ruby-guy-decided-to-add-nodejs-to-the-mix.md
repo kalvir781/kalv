@@ -3,6 +3,7 @@ title: How a Ruby guy decided to add node.js to the mix
 description: How a Ruby guy decided to add node.js to the mix
 date: 2012-01-17
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I've been a Ruby guy for over 4 years now and have always found the language fun and the frameworks suitable for building web based applications, I love it.
 

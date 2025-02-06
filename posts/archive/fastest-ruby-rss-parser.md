@@ -3,6 +3,7 @@ title: Fastest Ruby RSS Parser?
 description: Fastest Ruby RSS Parser?
 date: 2010-12-10
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I was working on a project the other day that needed to parse a lot of RSS feeds and would need to poll & parse them frequently. So once again I had the question 'which ruby rss parser should i use?' in my mind.
 

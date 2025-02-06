@@ -3,6 +3,7 @@ title: Learning Ruby / Rails
 description: Learning Ruby / Rails
 date: 2011-11-23
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I'm often asked about where to go and what to read to learn about Rails. In fact just the other day, so I'm going to outline some details here so to not repeat myself in the future or even forget! This is not a definitive guide but rather some links to things you should read and think about.
 

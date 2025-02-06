@@ -3,6 +3,7 @@ title: Puerto Escondido
 description: Sharing my thoughts and highlights from Puerto Escondido
 date: 2025-02-03
 layout: layouts/post.njk
+tags: ["life", "earth"]
 ---
 
 I stayed in Brisas de Zicatela for a month, training and working through my computer science studies.

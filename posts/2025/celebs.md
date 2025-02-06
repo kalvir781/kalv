@@ -3,6 +3,7 @@ title: Celeb investments
 description: A little blurb about my no experience with celebrities and technology
 date: 2025-01-12
 layout: layouts/post.njk
+tags: ["life"]
 ---
 
 Last year, I spent a long time seeking investment. And it seems that I was only able to get some early angel funding from some canadians. And after that period of time, I upgraded my designs and research and continued to reach out to others that would potentially help me.

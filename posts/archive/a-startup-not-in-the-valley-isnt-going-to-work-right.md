@@ -3,6 +3,7 @@ title: A startup not in the valley isn't going to work, right?
 description: A startup not in the valley isn't going to work, right?
 date: 2013-03-26
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 Yep this is a rant and an attempt to think through some things.
 
@@ -29,8 +30,6 @@ Yeah sure you can get more money, it'll mean you have a larger runway or can inc
 - Amazing tax initiatives provided by the government for innovation, you heard of [SR&ED](http://www.cra-arc.gc.ca/txcrdt/sred-rsde/)?
 - More bang for your buck, we have great talent around that don't demand massive salaries to sway them from other companies.
 - Having less money around means we have to triple think our budget, there is no safety net to go knock on the investors doors again, we have fear on every $ spent because we have less.
-
-[Boris Wertz](http://versiononeventures.com/about-us/) (a very active investor) said in response to an entrepreneur asking "where is Vancouver going to get more money from?", which was "Just get on building the business, get traction & product market fit, the money will come" (Sorry Boris if it's not word for word exact). But the point was essentially build the business get the paying clients, just put your heads down and get on, the money will come.
 
 ## Senior Talent
 

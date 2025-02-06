@@ -3,6 +3,7 @@ title: Soul Signatures
 description: Theories on other data we can measure on better understanding humans
 date: 2025-02-01
 layout: layouts/post.njk
+tags: ["theory", "life"]
 ---
 
 I'm sharing some theories on what makes a soul and a mind. Concepts like this can help you find yourself but also your soul mate or other aspects of right friends and your community. This is a theory I’ve been developing for a number of years. When I first put it together I became scared in what people might be able to do with the theory. I’ll explain later.

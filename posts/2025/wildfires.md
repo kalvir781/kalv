@@ -3,6 +3,7 @@ title: Wildfires across our globe
 description: Sad that I did not get any help to do my work on the wildfires.
 date: 2025-01-12
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 Wildfires. Insane. Over the last couple of years, I've seen so many fires around BC/Alberta. Even last late summer, I drove to Jasper, and was shocked to see it burnt down, it looked like an apocalypse. And they are just growing and growing.
@@ -18,3 +19,8 @@ The designs I had, not only helped fire reduction but also model the terrain to 
 It’s been a shame that I couldn’t get to do the work on this topic and see the forests burn over the last 2 years. And even today, now I read in the news the california fires are still going.
 
 I worked with as many as I could but it seems that no one wants to work with me on it. So this is a topic of work that I'm no longer going to continue in 2025.
+
+One quick tip for all wildfire firefighers today.
+
+Literally buy this [one device](https://www.amazon.co.uk/AcuRite-02020-Portable-Lightning-Detector/dp/B00EO1H3X8) that costs $70 and it’ll detect your lightning up to 25miles. I'm sure there are larger range devices like this that are affordable. It will be an earlier warning to when there might be a fire, such that that you could then move your accessible satellites to see if there is a growing heat signature and deploy people to save the forests.
+

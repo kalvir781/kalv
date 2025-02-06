@@ -3,6 +3,7 @@ title: Forestry sensor design
 description: Update on wildfire design thinking
 date: 2024-08-13
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 I'm not sure where things are in the news with the current burning of our forests in the world, but know that there are a number ongoing, so as always stay away from the depressing news. Since my [last post](https://kalv.dev/posts/2023/08/ok-wildfire/) on whether technology will help us fighting our fires. I've since reached out and spoken to a number of people, prototyped and researched a lot more while I've been applying for jobs.

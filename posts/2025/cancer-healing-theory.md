@@ -3,6 +3,7 @@ title: Cancer healing theory
 description: Cancer healing theory using musicology
 date: 2025-02-02
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 I believe that there is a theory that connects cells to sound. Cells can vibrate as we do with most exercising and gym work so theoretically cells could vibrate in a way that could heal themselves. 

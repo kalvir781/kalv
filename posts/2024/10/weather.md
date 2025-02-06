@@ -3,6 +3,7 @@ title: Our Weather
 description: List of links, insights and data dashboards to monitor our geology, geophysics and geography.
 date: 2024-10-22
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 Sitting here in BC, with an atmospheric river over our heads and seeing the awful damage to BC properties here in North Vancouver, I've been interested to see what technology, applications are out there for data to better visualize what is happening in the world. So that people can better prepare.

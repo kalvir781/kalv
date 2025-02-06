@@ -1,8 +1,9 @@
 ---
-title: Region of Mars
+title: Region of Mars - Cydonia
 description: Investigation on a region of Mars
 date: 2024-11-02
 layout: layouts/post.njk
+tags: ["theory", "earth"]
 ---
 
 Since childhood, I've been fascinated by what is left on other planets that might've had civilization before us. Even things like is Pluto a planet? Or a dwarf something? I think today it's a planet at the time of writing.

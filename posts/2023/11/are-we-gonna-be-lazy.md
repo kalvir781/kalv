@@ -3,6 +3,7 @@ title: Was Wall-E right?
 description: Are we going to get really lazy
 date: 2023-11-03
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 ![Lazy chilling office](/img/posts/2023/lazy-office.jpg "A lazy office (generated with DallE)")

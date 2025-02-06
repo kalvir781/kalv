@@ -3,6 +3,7 @@ title: Forget Tender, Get satisfaction, is an email address enough?
 description: Forget Tender, Get satisfaction, is an email address enough?
 date: 2013-02-01
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I have a working theory that perhaps providing a simple email address for customers in a web application is enough to get good quality feedback. Let me try to explain why.
 

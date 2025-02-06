@@ -3,6 +3,7 @@ title: Time unfolding planning
 description: How to plan a time unfold
 date: 2025-02-01
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 I remember being in a library with a lovely lady in my past discussing different methods of planning long term strategy that would encompass years of different deliveries from different companies or departments within a large enterprise company.

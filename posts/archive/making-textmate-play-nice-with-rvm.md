@@ -3,6 +3,7 @@ title: Making Textmate play nice with RVM
 description: Making Textmate play nice with RVM
 date: 2011-07-27
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I finally sat down for a while this morning to get [RVM](https://rvm.beginrescueend.com/) working well with [Textmate](http://macromates.com/) ruby running commands. Whilst pairing with the team at [GoFreeRange](http://gofreerange.com) we tend to stay in Textmate, write tests and then run them from there. But recently using RVM and .rvmrc config files within 1.9.2 projects we haven't been able to get the tests to run.
 

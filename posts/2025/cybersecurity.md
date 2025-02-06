@@ -3,6 +3,7 @@ title: Cybersecurity
 description: Cybersecurity
 date: 2025-02-02
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 Concepts to ensure privacy of data and secrecy of your ideas.

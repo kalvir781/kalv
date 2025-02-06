@@ -3,6 +3,7 @@ title: Better task management and more cloud please
 description: Better task management and more cloud please
 date: 2013-02-08
 layout: layouts/post.njk
+tags: ["computers", "theory"]
 ---
 I wrote a post the other week about what tools I use today. It got me thinking on how I would want to improve that setup.
 

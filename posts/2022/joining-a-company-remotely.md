@@ -3,6 +3,7 @@ title: Joining a company remotely
 description: Experiences and practises when joining remotely as an engineering leader
 date: 2022-03-29
 layout: layouts/post.njk
+tags: ["computers", "life"]
 ---
 Edit: Nov 15th 2023, since I posted this, there are a number of aspects in remote work that I've learnt, will be posting an update when I have time.
 

@@ -3,6 +3,7 @@ title: Hello Remix
 description: Learnings of new JS frameworks
 date: 2022-08-05
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 I've been making things for the web since mid 90s. Static HTML, server side rendering (cgi-bin, dyanmic languages), mobile, and front end rendering. For the most time, my default stack has been Ruby & Rails. Love all that it has brought to everyone and my career.

@@ -3,6 +3,7 @@ title: My 2013 setup of hardware & software
 description: My 2013 setup of hardware & software
 date: 2013-01-28
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I started developing on a HP unix machine that had a green screen, I forget what processor it was, but all I had was a c-shell and I loved it. Things have moved on from then. I'm dumping out what I use today so I can look back later in the years ahead.
 

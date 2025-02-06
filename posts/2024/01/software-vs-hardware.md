@@ -3,6 +3,7 @@ title: Software vs Hardware
 description: Software vs Hardware and how it's led me to use an old linux thinkpad.
 date: 2024-01-28
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 It's a Sunday morning, I'm drinking my aeropress espresso, reviewing some old scanned fuji velvia photos from Japan. I started to wonder something.

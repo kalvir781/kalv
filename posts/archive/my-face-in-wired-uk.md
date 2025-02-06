@@ -3,6 +3,7 @@ title: My face in wired uk
 description: My face in wired uk
 date: 2009-11-10
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 When Wired came out in the UK a couple of months ago, I thought it would be cool to get in there for some of the work I do. The other month I was asked to be in a photo shoot about the work I've been doing in the twitter world as a developer for projects.
 

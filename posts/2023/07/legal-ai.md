@@ -3,6 +3,7 @@ title: Legal in AI
 description: How legal will need to consider different aspects in AI
 date: 2023-07-23
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 This all started when I was starting to index content for an engineering manager assistant that would help our original thesis for Path.dev, in the hope to raise funds cause we were running out of money. Which we did, story for another time.

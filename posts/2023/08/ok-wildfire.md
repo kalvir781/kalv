@@ -1,8 +1,9 @@
 ---
-title: OK wildfire
+title: Wildfire and AI
 description: Thoughts on how tech might be able to help us with Wildfires in the long run
 date: 2023-08-29
 layout: layouts/post.njk
+tags: ["earth", "computers"]
 ---
 
 I'm devastated daily. When reading the news. Looking at the orange sky. Seeing the scenes of fires across BC, Canada and other regions breaks my heart. Our world is literally burning.

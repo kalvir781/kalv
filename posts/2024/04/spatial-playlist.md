@@ -1,8 +1,9 @@
 ---
-title: Curated Spatial selection
+title: Curated Apple Spatial selection
 description: Apple Spatial music curated selection
 date: 2024-04-04
 layout: layouts/post.njk
+tags: ["music"]
 ---
 
 Short post but perhaps one that will bring joy to many. I've been collecting specific spatial audio tracks that I believe really demonstrate improving the experience of listening to specific tracks.

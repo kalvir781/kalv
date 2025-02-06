@@ -3,6 +3,7 @@ title: Creating a safe mind space
 description: Creating a safe mind space to work on complex problems of the world.
 date: 2025-01-31
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 I've struggled to create a space to work in silence and not have conflicting thoughts on the progress of complex designs and implementations in computer science.

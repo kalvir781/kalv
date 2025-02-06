@@ -3,6 +3,7 @@ title: Small things I like about HTML 5
 description: Small things I like about HTML 5
 date: 2011-06-14
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 Most people are talking about the big things that HTML 5 is bringing to the table, video, audio, Websockets APIs, etc. I thought I'd share a small selection of the small attributes that I've used so far.
 

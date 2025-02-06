@@ -3,6 +3,7 @@ title: Farming and Food
 description: Sharing my research theories on farming and food
 date: 2025-02-03
 layout: layouts/post.njk
+tags: ["earth", "theory"]
 ---
 
 Theory on ensuring our seeds grow the best produce they can. Seeds can get healthier when kept over seasons, ensuring that the seeds will grow the best it can on the soil and environmental conditions of the land. Getting new seeds from another land area and growing them on your land would obviously might not germinate or grow the best crops as your own seeds.

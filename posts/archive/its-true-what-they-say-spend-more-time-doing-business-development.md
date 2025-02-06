@@ -3,6 +3,7 @@ title: It's true what they say, spend more time doing Business Development
 description: It's true what they say, spend more time doing Business Development
 date: 2013-01-23
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 When working on a new startup idea, it's easy as a developer to get comfy working through the backlog and getting on with product delivery.
 

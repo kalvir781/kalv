@@ -3,6 +3,7 @@ title: Modern dream catcher
 description: Notes on using new techniques to have a peaceful mind
 date: 2025-01-12
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 Modern dream catcher.

@@ -3,6 +3,7 @@ title: Stop being clever Capybara
 description: Stop being clever Capybara
 date: 2010-10-27
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 Today we realised that there was a bunch of functionality being tested that didn't work when javascript was disabled and had to spend a while figuring it out.
 

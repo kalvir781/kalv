@@ -3,6 +3,7 @@ title: The Vitruvian Man
 description: Theories on what Leonardo was trying to share.
 date: 2025-02-03
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 The vitruvian man, a drawing by Leonardo da Vinci has always fascinated me. Last year I noticed the symetrical lines at the bottom of the drawing and took a stab at trying to understand what he would've meant with these markers.

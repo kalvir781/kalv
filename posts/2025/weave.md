@@ -3,6 +3,7 @@ title: Weave
 description: Sharing a design for better compression of video and images
 date: 2025-02-04
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 Sharing a design for faster video and research I’ve done in the multimedia space.

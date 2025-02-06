@@ -3,6 +3,7 @@ title: Favourite Quote
 description: My quote that has led me through life.
 date: 2025-01-30
 layout: layouts/post.njk
+tags: ["life"]
 ---
 
 This is quote that I've lived my life on and one that I respect the most.

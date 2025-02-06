@@ -3,6 +3,7 @@ title: Ember.js learning resources and libraries
 description: Ember.js learning resources and libraries
 date: 2013-10-25
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 We ran the first [Vancouver Ember.js meetup](http://www.meetup.com/Vancouver-Ember-js) last night and it was fun to hear from other developers in town developing applications using the great framework. We very much treated the evening as a pre-first event to understand what we'll do in the future meetups. Thanks to [FullStack](fullstack.ca/stackhaus/) for letting us use their offices.
 

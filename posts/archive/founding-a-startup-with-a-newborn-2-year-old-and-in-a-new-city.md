@@ -3,6 +3,7 @@ title: Founding a startup with a newborn, 2 year old and in a new city
 description: Founding a startup with a newborn, 2 year old and in a new city
 date: 2012-05-23
 layout: layouts/post.njk
+tags: ["computers", "life"]
 ---
 Founding a startup with a newborn, 2 year old and in a new city
 

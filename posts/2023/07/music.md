@@ -1,9 +1,13 @@
 ---
-title: Music AI and how it can lead us to better understanding ourselves
+title: Musicology for better health
 description: Music AI and how it can lead us to better understanding ourselves
 date: 2023-08-18
 layout: layouts/post.njk
+tags: ["music"]
 ---
+
+Sharing a little about musicology and how it can lead us to better understanding ourselves and heal our mind, body and spirit.
+
 I love listening to music in the background when I work, whether that be creativity sketching, coding, making a watches, keyboards or just building ikea furniture. I'm even [learning to play music](https://www.twitch.tv/kalv192) to help me better understand the technology we have but mainly cause it's fun.
 
 This morning I wanted to bang on some tunes while I was working on something that I’m excited to demo to a group of underserved individuals.

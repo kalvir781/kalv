@@ -3,6 +3,7 @@ title: Planet formations
 description: Sharing my notes on what might've formed planets
 date: 2025-02-02
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 Sharing my notes on a theory on how planets are formed. This is a topic that I will continue to research and ponder throughout my life. Nor do I know that this is all true, but like to believe that these aspects that I'll cover will be great to dig into and further develop with funding.

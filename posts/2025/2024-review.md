@@ -3,6 +3,7 @@ title: 2023 & 2024
 description: Review of what I've been up to in the last 2 years.
 date: 2025-01-11
 layout: layouts/post.njk
+tags: ["life"]
 ---
 It's been a while since I've written a full post of an update to the internet on what I've been up to and my thoughts around what has happened to me over the last 2 years.
 

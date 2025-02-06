@@ -3,6 +3,7 @@ title: Sourcing developer talent
 description: Notes and advice I've been giving on how to source for engineering teams
 date: 2022-07-15
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 I've been asked multiple times over my career, if I know of any developers that are looking for work. I'm writing this up to share what my thoughts are today in 2022 but also for folk reaching out to me in the future. Some of what I'm sharing applies to other R&amp;D talent.

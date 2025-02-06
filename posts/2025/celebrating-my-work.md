@@ -3,6 +3,7 @@ title: Celebrating my work.
 description: Outlining my work that I'd like to celebrate.
 date: 2025-02-01
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 I've taken some time to put together my most successful projects with my time working with computer science, teams and businesses. I've throughly enjoyed the work and am very humbled and lucky to learn all I have for the future of my career.

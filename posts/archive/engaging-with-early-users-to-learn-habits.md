@@ -3,6 +3,7 @@ title: Engaging with early users to learn Habits
 description: Engaging with early users to learn Habits
 date: 2012-04-12
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 As I've been working to get our startup [Goodbits](http://www.goodbits.co) up and running I've been using many different tools to get as much insight on our customers activity. The one tool that I've been using the most has been [Kissmetrics](http://www.kissmetrics.com) which has allowed me to look at specific events or actions that a user carried out on the site. Making it far more useful than the popular choice of [Google Analytics](http://google.com/analytics) or similar.
 

@@ -1,9 +1,8 @@
 ---
 layout: layouts/home.njk
 ---
-<p>Hello. I'm Kalvir Sandhu. Known as Kalv to friends.</p>
+{% set postslist = collections.theory | head(-30) %}
 
-{% set postslist = collections.posts | head(-30) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 

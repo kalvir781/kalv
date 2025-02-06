@@ -3,6 +3,7 @@ title: Keyboard only experience review note
 description: Keyboard only experience review note that turned into something else
 date: 2024-04-09
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 This post originally was intended to be about sharing that I couldn'n turn on bluetooth on the couch and there is probably a really easy shortcut but I'm old school and just expect tab and space to work on UIs. I ended up outlining more of the couch setup I used to publish this post.

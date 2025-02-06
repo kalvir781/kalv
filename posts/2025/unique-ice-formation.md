@@ -3,6 +3,7 @@ title: Unique Ice Formation
 description: Noticed a unique ice formation in 2024
 date: 2025-02-04
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 I was out for a hike on Valentines day in 2024 on my own and enjoying a great trail I went out a lot in 2023/2024 for exercise. The trail is Golden Ears in BC.

@@ -3,6 +3,7 @@ title: Playing with Macvim
 description: Playing with Macvim
 date: 2010-11-29
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I have been spending some time over the last week of so with macvim. Thought I'd share my experiences so far.
 

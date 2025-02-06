@@ -3,6 +3,7 @@ title: LRUG talk on websockets
 description: LRUG talk on websockets
 date: 2010-11-10
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 I had the pleasure of giving a talk at [LRUG](http://lrug.org) this month on [Websockets](http://en.wikipedia.org/wiki/WebSockets) and [Cramp](http://github.com/lifo/cramp).
 

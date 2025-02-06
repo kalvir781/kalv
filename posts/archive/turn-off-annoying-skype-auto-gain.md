@@ -3,6 +3,7 @@ title: Turn off annoying Skype auto gain
 description: Turn off annoying Skype auto gain
 date: 2011-11-24
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 If you like me use Skype quite bit for calls or coding together with other developers, you might find that when you're quiet Skype tries to be clever and automatically increase the microphone gain. This is crap as it starts to pick up the background noise.
 

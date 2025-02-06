@@ -3,6 +3,7 @@ title: Old is Great Again
 description: Amazing sounds and music of the time ago and how I want to use it to model sound better with AI
 date: 2023-08-29
 layout: layouts/post.njk
+tags: ["music"]
 ---
 
 Some thoughts that are a continuation of my tweet on the [Roland Space Echo RE-201](https://twitter.com/kalv/status/1692495425427902730?ref_src=kalv-dev)

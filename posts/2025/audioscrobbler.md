@@ -3,6 +3,7 @@ title: Remembering Audioscrobbler
 description: Remembering Audioscrobbler
 date: 2025-02-03
 layout: layouts/post.njk
+tags: ["music"]
 ---
 
 Remembering Last.fm, or should I say Audioscrobbler. It was a great service that I used in the mid 2000s for new music suggestions.

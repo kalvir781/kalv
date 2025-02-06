@@ -3,6 +3,7 @@ title: Northern Lights
 description: Best way to see northern lights
 date: 2024-10-23
 layout: layouts/post.njk
+tags: ["earth"]
 ---
 
 Best way to see the northern lights that are visible a lot more across the whole north of our planet as the earth rotates in this model photo.

@@ -3,6 +3,7 @@ title: In ear headphones 2024
 description: Why using wired in ear headphones are better for me than high priced bluetooth fancy ones
 date: 2024-02-02
 layout: layouts/post.njk
+tags: ["computers", "music"]
 ---
 
 I have been investigating sound quality on in ear headphones you can buy from consumer stores rather than any professional stores. What I end up using might surprise you. The best sound I get, comfort, portability, affordability, fit, are a set of wired [JBL endurance](https://ca.jbl.com/JBL+Endurance+RUN.html) headphones that are fully waterproof, which has been great for my [hikes](https://www.instagram.com/reel/C2x_rJUy29m/) and cost me only $60 CAD. Beating out Airpods Pro, Beats+ Pro and Shure 215s for me.

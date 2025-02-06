@@ -3,6 +3,7 @@ title: Private AI
 description: Do we need private AI
 date: 2023-07-12
 layout: layouts/post.njk
+tags: ["computers"]
 ---
 
 First off, I didn't make it to [Argentina](https://kalv.dev/posts/2023/pre-summer-sols/) on the cheap. Had too much work and research to do.

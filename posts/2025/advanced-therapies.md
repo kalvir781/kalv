@@ -3,6 +3,7 @@ title: Advanced therapies
 description: Therapy theories
 date: 2025-02-02
 layout: layouts/post.njk
+tags: ["theory"]
 ---
 
 Musicology for healing. here are some approaches you can use on top of Yoga or Tai chi to better heal your body and mind.
