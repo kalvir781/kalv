@@ -18,5 +18,9 @@ Either way these are some options I've worked on if it were possible:
 - Shielding ones brain, take a look at my article on modern dream catchers.
 - Loop yourself, literally your voice and play it over some headphones if you're troubled with thoughts that don't make sense, almost like evil intentions.
 - Magnets, magnetic formations around ones mind allows us humans to 'sync' with the core of our earth, ensuring we are one with it. Even wearing an automatic watch movement device on your wrist will help. Always.
+- Set up a triangle of coins with magnets on it around a space that you can think clearly in. Similiar to what wicca would describe as a protected space, concepts like salt or other forms of ground ones mind wouldn't work with what they would use with the sun.
+- This one might sound a little bizzare, but leading a pure/righteous life, as you'd have more pure sunshine being able to hit your body. Like a beatiful flower.
+- Self ionizing water. Water would be one last medium that helps a mind ground themselves. But to those that would use the Sun as a method to pentrate a mind, the water wouldn't be enough. This could be as simple as dipping a 9V battery into some water before drinking it.
+- If you're body has trouble moving, you trip a lot, or your feet feel misaligned if you train Tai Chi, then it could be your muscle and nervous system is misaligned. To better train here, use a BPM/music sync. Take out a PO-33 or similar device and set the BPM to the same as your heart rate and then train against that music. Think of this is a modern 432hz Budda bell frequency that others have meditated with.
 
 ⧋
