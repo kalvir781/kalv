@@ -1,5 +1,5 @@
 ---
-title: Alternative Alient theory
+title: Alternative Alien theory
 description: Some thoughts on what we could do if this is real
 date: 2025-02-07
 layout: layouts/post.njk
