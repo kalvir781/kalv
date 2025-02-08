@@ -3,6 +3,7 @@ title: Flash back
 description: Flash back to my first post
 date: 2022-04-04
 layout: layouts/post.njk
+tags: ["draft"]
 ---
 
 As I was getting this blog back up and running. It was lovely reading through posts I wrote quite a while ago. A trip down memory lane. What's also interesting is how I think of those moments differently today with the learnings I've made and am still making.

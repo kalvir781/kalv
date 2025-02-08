@@ -1,0 +1,9 @@
+---
+layout: layouts/home.njk
+permalink: /drafts/
+---
+<h1>un-published drafts</h1>
+
+{% set postslist = collections.draft %}
+
+{% include "postslist.njk" %}

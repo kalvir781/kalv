@@ -3,6 +3,7 @@ title: What is Fast in 2022?
 description: Do we have a new expectation of what fast needs to be in 2022?
 date: 2022-03-18
 layout: layouts/post.njk
+tags: ["draft"]
 ---
 Over the last couple of months, I've noticed a shift in my expectation on how fast software needs to be. I took a moment to think through it. I feel this is because of some new technology that is available and over time is going to change the way we perceive what fast is and whether the service we're using is 'good'.
 

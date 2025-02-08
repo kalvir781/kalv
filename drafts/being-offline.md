@@ -3,6 +3,7 @@ title: Being offline
 description: Sharing some insights about being offline
 date: 2023-06-15
 layout: layouts/post.njk
+tags: ["draft"]
 ---
 
 As my previous post mentioned, I've been working remotely and offline a bunch, as I return to the world of online. I'm going to try and write up some of my findings on being offline.
