@@ -1,7 +1,7 @@
 ---
 title: Why colonize Mars?
 description: Thoughts on what I think about colonizing Mars.
-date: 2025-01-11
+date: 2025-02-08
 layout: layouts/post.njk
 tags: ["theory", "space"]
 ---
