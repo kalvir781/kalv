@@ -1,0 +1,31 @@
+---
+title: UK tech thoughts
+description: Thoughts on the tech in the UK
+date: 2025-02-26
+layout: layouts/post.njk
+tags: ["computers"]
+---
+
+I've been back in the UK for a month and it's been amazing! It's much better than Canada and I feel great! I've been able to heal a number of injuries on my body, which has been my neck, shoulders, hip and feet. Then even my mental trauma since my move to Canada in 2011. For the first time in 3 years I'm excited about my future with the opportunites in technology here in the UK.
+
+I've been researching all technology since arriving and this country is doing spectacular work. And there is a lot to mention. But I wanted to share a couple of things.
+
+First off the [BBC](https://bbc.com/), it's the shining example of great people working together and ensuring the news, media, music, movies and TV are top notch. The other day I lost myself in the Saturday morning cooking show. So many great dishes to cook for the family in the evening. Their technology is leaps and bounds higher than Netflix, Apple TV, Disney and I don't even want to mention any of the broadcast companies in Canada such as CBC.
+
+Their iPlayer is still the leading streaming platform, even though they don't have offline content as yet for those that go camping. But I'm sure they're working on it. The Radio station playback for amazing DJs such as the funk n soul show from Craig Charles is still going strong. One of my favourite DJs that always has the best selection for a unique show weekly. I saw the Baftas on YouTube which made me laugh for hours. And the actors here in the UK are so talented they never get typecasted. DAB radio still works for all their stations which is wonderful for all the people in the UK. Brining joy to their drives to work and home to see their family.
+
+[Nothing phone company](https://nothing.tech/). I want to mention this company, as their phones are beyond what Apple are making for their iPhones and Google for their Pixels, which always seem to just add more cameras. The iPhone has had a lidar sensor for ages and nothing has been built for it. The Nothing phone company has the best slogan, they are making tech fun again. And they are proud to engineer it in the UK. What they've done with the lighting on the back of the phones and integrating it with the operating system creates a whole new interaction with mobile phones that I haven't seen since the introduction of touch on mobile phones. The opportunity for developers to integrate applications or tools with music is huge. And I'm excited about it. Perhaps even the ability to create better mind clocks for creatives with the use of the lighting. What I've seen so far, is an integration with the wait time of Uber orders as a bar graph on the light behind it. It's huge. As most people don't need to see a full screen UI.
+
+[MG](https://www.mg.co.uk/) Motors, the fact that they are alive and thriving. MG has been around since 1924 and is now supported by China which should be celebrated. The [MG cyberstar](https://www.mgcyberster.co.uk/) is a car I'd love to have if I was ever to own an EV supercar or even the MG4, which looks an amazing competitor to the so many Tesla's I saw drive around in Vancouver, BC. And they don't seem to have plans to send one out into space like Mr Elon Musk.
+
+[Barclays](https://www.barclays.co.uk/) banking has been a joy to use since arriving to the UK. The security of using the Pin Sentry instead of a text message is much better to verify the use of the VISA debit card. And the fact that the card works as a VISA rather than a fake one that I had in Canada. Both CIBC and Simplii which I used wouldn't allow the VISA debit card to work as a VISA transaction at many places. The online services and the speed in which banking works here in the UK is in days, in Canada to get a new card from a bank takes 14 days. Barclays also seems to have gone fully digital and not require cashiers which I believe is the future.
+
+My home has BT internet and it's been stable and has amazing low latency. The internet is stable and doesn't seem to change much. Telus in Vancouver always seemed to have issues with certain IP addresses and the DNS was always flaky, I had to always use Cloudflare's free DNS or switch to VPNs to access sites that would work correctly such as the BBC.
+
+Google services are much better here, their Maps have many features that weren't in Canada. Their search results are more on point and don't show as much gemini AI results for questions. YouTube always seems to suggest the best content here in the UK, the reels are always want I want to view and be entertaiend with. In Canada they take their time to release new features on their platforms, which has always confused me. I had enquired about this many times and teams had said that it's because they need to use English and French in their manuals, so it takes longer for them to ship. It was like when Google Wave was released, they didn't release in Canada. Another point here is services like Spotify that didn't allow their accounts to be used in Canada but able to be transfered to the USA from the UK, when I moved to Canada I was only able to create a new account. But now that I'm back in the UK, I can setup my original Spotify account. Which is going to be fun, I'll have playlists from pre-2011.
+
+Google Maps even has cycling routes where as in Vancouver where so many people cycle, it doesn't have cycle routes, so the Mapping team have done an excellent job improving what is available in the UK. Even the 3D mapping is available for small towns like Maidenhead.
+
+With telephoney, I'm so happy to just pay £10 a month for my phone and it always works. No signal issues with 4G speeds being plenty, not 5G as I offline most of my music when out for hikes. It's great to see phone towers have been upgraded. Just by my old school Altwood C of E, they have new shiny towers. There are two towers though, which seems odd. From my telephoney days one should've been enough, but I guess the UK infrastructure is being prepped for the future. And I can't complain because my phone is always working.
+
+I'll share more as I continue to investigate technology development here in the British Isles.
