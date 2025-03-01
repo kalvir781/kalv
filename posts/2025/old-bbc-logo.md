@@ -16,4 +16,4 @@ The color is a beautiful aqua blue, like rare coast lines around the world that 
 
 Then there is the two eagles, the condors, protecting those that would be working to speak peace.
 
-![img/posts/2025/bbc-blue.avif](img/posts/2025/bbc-blue.avif)
+![/img/posts/2025/bbc-blue.avif](/img/posts/2025/bbc-blue.avif)
