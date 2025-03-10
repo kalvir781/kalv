@@ -7,6 +7,9 @@ eleventyNavigation:
   order: 2
 ---
 
+My [last.fm scrobbles](https://www.last.fm/user/kon581), the music I'm listening to, you'll see when I'm listening to something live:
+[Last.fm scrobbles](https://www.last.fm/user/kon581)
+
 I've been working in technology as a developer and a leader in many areas and still loving it.
 
 A little overview of some tech I've worked with:
