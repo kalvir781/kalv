@@ -220,9 +220,22 @@ code {
 }
 .postlist-item {
   display: flex;
+  align-items: center;
+  /* justify-content: center; */
   flex-wrap: wrap;
   align-items: baseline;
   line-height: 1.8;
+}
+.postlist-title {
+  flex-grow: 1;
+}
+.postlist-right {
+  display: flex;
+  align-items: center; 
+}
+.postlist-tag {
+  margin-right: 10px;
+  font-size: 0.8em;
 }
 .postlist-date,
 .postlist-item:before {

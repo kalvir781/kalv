@@ -3,7 +3,7 @@ title: Digital Britain 2009
 description: 
 date: 2009-06-17
 layout: layouts/post.njk
-tags: ["computers", "theories"]
+tags: ["computers"]
 ---
 I have been talking and debating on downloading movies and music for a while now, I think it would stop if there was a quick, easy and cheap alternative. Reading the [Digital Britain](http://en.wikipedia.org/wiki/Digital_Britain) full report today a point made me want to post this and find out what others think.
 
