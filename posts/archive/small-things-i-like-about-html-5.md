@@ -1,6 +1,6 @@
 ---
-title: Small things I like about HTML 5
-description: Small things I like about HTML 5
+title: HTML 5 is the future
+description: HTML 5 is the future
 date: 2011-06-14
 layout: layouts/post.njk
 tags: ["computers"]

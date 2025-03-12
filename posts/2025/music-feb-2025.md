@@ -3,7 +3,7 @@ title: Music Feb 2025
 description: Sharing my artists for Feb 2025
 date: 2025-02-05
 layout: layouts/post.njk
-tags: ["music"]
+tags: ["media"]
 ---
 
 This isn't really a Feb 2025 highlight of music but the artists and music I've been listening to over the last year or so. These are my highlights, some old and some new for the month of Feb 2025.

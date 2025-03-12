@@ -1,6 +1,6 @@
 ---
-title: My 2013 setup of hardware & software
-description: My 2013 setup of hardware & software
+title: 2013 setup of computers
+description: My 2013 setup of computers
 date: 2013-01-28
 layout: layouts/post.njk
 tags: ["computers"]

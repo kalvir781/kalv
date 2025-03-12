@@ -1,6 +1,6 @@
 ---
-title: Hello Remix
-description: Learnings of new JS frameworks
+title: Alternative JS frameworks
+description: Alternative JS frameworks
 date: 2022-08-05
 layout: layouts/post.njk
 tags: ["computers"]

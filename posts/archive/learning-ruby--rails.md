@@ -1,6 +1,6 @@
 ---
-title: Learning Ruby / Rails
-description: Learning Ruby / Rails
+title: Ruby / Rails Guides
+description: Ruby / Rails Guides
 date: 2011-11-23
 layout: layouts/post.njk
 tags: ["computers"]

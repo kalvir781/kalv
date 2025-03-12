@@ -1,5 +1,5 @@
 ---
-title: Keyboard only experience review note
+title: Concepts for the impaired
 description: Keyboard only experience review note that turned into something else
 date: 2024-04-09
 layout: layouts/post.njk
@@ -35,7 +35,7 @@ To navigate around the operating system I use spotlight. `Cmd+space` to open Ter
 Here's a photo the setup.
 ![Keyboard Only Setup](/img/posts/2024/keyboard-only-setup.jpg "Keyboard Only Setup")
 
-Before hitting `git push` on this article, I did get the trackpad working in the end, just had to plug in a cable and charge it up. △
+Before hitting `git push` on this article, I did get the trackpad working in the end, just had to plug in a cable and charge it up.
 
 ## A little extra
 Here are some steps that I use to copy a photo from the SD card using my terminal setup.

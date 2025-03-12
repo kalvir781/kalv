@@ -1,13 +1,13 @@
 ---
-title: How a Ruby guy decided to add node.js to the mix
-description: How a Ruby guy decided to add node.js to the mix
+title: Adding Node.js to Ruby/Rails
+description: Adding Node.js to Ruby/Rails
 date: 2012-01-17
 layout: layouts/post.njk
 tags: ["computers"]
 ---
 I've been a Ruby guy for over 4 years now and have always found the language fun and the frameworks suitable for building web based applications, I love it.
 
-Since the release of [Node.js](http://nodejs.org) in 2009, I and my colleagues at[GoFreeRange](http://www.gofreerange.com) were very excited about the event loop, non-blocking IO goodness for scalability and speed on the web. We had even played on something to help[testing](https://github.com/freerange/nodetest) (was only for a day, just to learn more about the tech).
+Since the release of [Node.js](http://nodejs.org) in 2009, I and my colleagues at [GoFreeRange](http://www.gofreerange.com) were very excited about the event loop, non-blocking IO goodness for scalability and speed on the web. We had even played on something to help[testing](https://github.com/freerange/nodetest) (was only for a day, just to learn more about the tech).
 
 So I've been looking for the right time to start developing a real application that benefits from what Node.js has to offer over what I can do quickly and efficiently in Ruby.
 
@@ -31,7 +31,7 @@ HTTP feed fetching is going to increase, one of our upcoming milestones is to ta
 
 To make this faster I needed to use less memory and be able to fetch multiple HTTP requests in parallel. The shortlist that I came up with was:
 
-- [Eventmachine](http://rubyeventmachine.com/) &[em-http-request](https://github.com/igrigorik/em-http-request) - A ruby event loop allowing async processing
+- [Eventmachine](http://rubyeventmachine.com/) & [em-http-request](https://github.com/igrigorik/em-http-request) - A ruby event loop allowing async processing
 - [Typhoeus](https://github.com/dbalatero/typhoeus) - Http fetching using curb (curl)
 - [Node.js](http://nodejs.org) - event driven, non-blocking IO
 
@@ -39,7 +39,7 @@ So to figure out which was best I set a time box of 1/2 day to spike on each met
 
 With each test setup I used [Redis pubsub](http://redis.io/topics/pubsub) to push urls to be fetched onto a channel and have the fetching code consume that channel. This would allow easy integration from the existing rails app.
 
-Also to remove bandwidth fluctuations from my ISP I ran the tests on a[Linode](http://www.linode.com/) server.
+Also to remove bandwidth fluctuations from my ISP I ran the tests on a [Linode](http://www.linode.com/) server.
 
 ## Eventmachine
 

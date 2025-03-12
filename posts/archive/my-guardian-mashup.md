@@ -1,5 +1,5 @@
 ---
-title: My Guardian Mashup
+title: Guardian Open Data Platform API
 description: My Guardian Mashup
 date: 2009-03-10
 layout: layouts/post.njk

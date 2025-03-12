@@ -1,6 +1,6 @@
 ---
-title: Fastest Ruby RSS Parser?
-description: Fastest Ruby RSS Parser?
+title: The fastest Ruby RSS Parser
+description: The fastest Ruby RSS Parser
 date: 2010-12-10
 layout: layouts/post.njk
 tags: ["computers"]

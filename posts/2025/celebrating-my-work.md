@@ -1,6 +1,6 @@
 ---
-title: Celebrating my work.
-description: Outlining my work that I'd like to celebrate.
+title: Remembering my work.
+description: Outlining my work that I want to remember
 date: 2025-02-01
 layout: layouts/post.njk
 tags: ["computers"]

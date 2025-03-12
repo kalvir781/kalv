@@ -1,5 +1,5 @@
 ---
-title: UK tech thoughts
+title: UK Tech Thoughts
 description: Thoughts on the tech in the UK
 date: 2025-02-26
 layout: layouts/post.njk

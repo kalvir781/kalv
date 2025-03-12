@@ -3,7 +3,7 @@ title: Fascinating Celebrities
 description: Outlining some amazing celebrities that look great for their age
 date: 2025-03-05
 layout: layouts/post.njk
-tags: ["life"]
+tags: ["media"]
 ---
 
 It took me by surprise seeing Zoe win an oscar the other night, mainly because she is from Dominican Republic. She is going to celebrate for the next year I'm sure. Zoe Saldaña that played roles as a young lady as roles typed as ages between 28-32 year olds in movies like Marvel where as she's 47! What is she putting on her skin and what is her work out plan.

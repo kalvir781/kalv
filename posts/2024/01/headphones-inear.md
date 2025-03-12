@@ -3,7 +3,7 @@ title: In ear headphones 2024
 description: Why using wired in ear headphones are better for me than high priced bluetooth fancy ones
 date: 2024-02-02
 layout: layouts/post.njk
-tags: ["computers", "music"]
+tags: ["media"]
 ---
 
 I have been investigating sound quality on in ear headphones you can buy from consumer stores rather than any professional stores. What I end up using might surprise you. The best sound I get, comfort, portability, affordability, fit, are a set of wired [JBL endurance](https://ca.jbl.com/JBL+Endurance+RUN.html) headphones that are fully waterproof, which has been great for my [hikes](https://www.instagram.com/reel/C2x_rJUy29m/) and cost me only $60 CAD. Beating out Airpods Pro, Beats+ Pro and Shure 215s for me.
@@ -20,6 +20,8 @@ Once we're using the headphone jack, you have already achieved a massive step up
 
 "But Kalv, what about the cable? It gets in the way" you're probably thinking. Yes there is a cable, your choice do you want to manage a cable which isn't that hard to do and spend only $60 for high quality sound quality when you need it or $200+ for the convenience. One more advantage in case it matters to you, these wired headphones will work on planes. Bluetooth earbuds don't.
 
+The longest battery life headphones I own and have used many times for bluetooth that always fit in my ears, are the [Jarbird Tarah Pro](https://www.techradar.com/reviews/jaybird-tarah-pro-review) headphones. Rare to buy so I have looked after them very well.
+
 For the last week I've been using these wired set of headphones over my [Beats Studio Pro+ earbuds](https://www.beatsbydre.com/ca/earbuds/studio-buds-plus-wireless-noise-cancelling). Which I picked up after loosing an Airpod when running on the beach in [Puerto Escondido](https://www.instagram.com/p/CzsNETGMhq9/)
 
 The massive win for me is also, no battery. Yep another battery that I can now remove from my every day carry and also stress about charging.
@@ -35,5 +37,3 @@ Accidental discoveries worth sharing:
 - For some reason the Beats Studio earbuds sounded way quieter on Android, I tried to reset it, disable some Developer options but couldn't get it to sound as high as they'd work on Apple.
 - [Roland S-1](https://www.audio-technica.com/en-ca/ath-m50x) USB DAC output with a set of [Audio Technica ATH-M50x](https://www.audio-technica.com/en-ca/ath-m50x), wired. Best portable movie sound experience and you get a synth for free :)
 - Thinkpad X250 which cost me $200 CAD a couple of years ago has the best headphone output, the volume just keeps going up and up. Using it for sample offloading to op-1 and op-z has been the best. If the headphone drivers them, the sound keeps getting larger and more spacious.
-
-If you liked this post, would like to me to share further insights and support my work, head over to my [Patreon](https://patreon.com/KalvDev).

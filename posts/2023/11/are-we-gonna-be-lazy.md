@@ -1,12 +1,13 @@
 ---
-title: Was Wall-E right?
-description: Are we going to get really lazy
+title: Is AI making us Lazy?
+description: Is AI making us Lazy?
 date: 2023-11-03
 layout: layouts/post.njk
 tags: ["computers"]
 ---
 
 ![Lazy chilling office](/img/posts/2023/lazy-office.jpg "A lazy office (generated with DallE)")
+<small>Image generated with an AI service based on the text in this article for fun</small>
 
 During my walk this morning, I listened to the [Latent Space](https://www.latent.space/podcast) podcast, which praised the innovations of [imbue.com](https://imbue.com/) in the realm of AI autonomous agents.
 
@@ -24,4 +25,4 @@ However, for those without an entrepreneurial spirit, there's a pressing need to
 
 I'm genuinely excited about the potential societal shift. I firmly believe everyone has a unique passion or talent, often pursued in their free time rather than in their day jobs. Imagine if people could channel this passion into their careers, immersing themselves in endeavors that truly resonate with them. This depth of engagement and creativity might surpass anything AI could achieve.
 
-On a side note, if you haven't seen [Wall-E](https://www.pixar.com/feature-films/walle) yet, make it your weekend watch.
+On a side note, if you haven't seen [Wall-E](https://www.pixar.com/feature-films/walle) yet, make it your weekend movie to watch.

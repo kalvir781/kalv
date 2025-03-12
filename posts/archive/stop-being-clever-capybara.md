@@ -1,6 +1,6 @@
 ---
-title: Stop being clever Capybara
-description: Stop being clever Capybara
+title: Software Integration Testing
+description: Software Integration Testing
 date: 2010-10-27
 layout: layouts/post.njk
 tags: ["computers"]

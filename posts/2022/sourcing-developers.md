@@ -1,5 +1,5 @@
 ---
-title: Sourcing developer talent
+title: Finding and retaining developer talent
 description: Notes and advice I've been giving on how to source for engineering teams
 date: 2022-07-15
 layout: layouts/post.njk

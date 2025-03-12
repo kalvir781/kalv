@@ -3,9 +3,8 @@ title: Joining a company remotely
 description: Experiences and practises when joining remotely as an engineering leader
 date: 2022-03-29
 layout: layouts/post.njk
-tags: ["computers", "life"]
+tags: ["computers"]
 ---
-Edit: Nov 15th 2023, since I posted this, there are a number of aspects in remote work that I've learnt, will be posting an update when I have time.
 
 It was difficult when I started working with [Shopify](https://shopify.com) in March 2020. The pandemic hit and we went into lock down. I was meant to fly out meet teams in Ottawa, but that didn't happen. All I had was video calls to get to know others on the team.
 

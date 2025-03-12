@@ -3,7 +3,7 @@ title: Found Northern Lights
 description: My bucket list acheievement of seeing the northern lights.
 date: 2025-01-10
 layout: layouts/post.njk
-tags: ["earth"]
+tags: ["travel"]
 ---
 
 I've always had it on my bucket list to see the northern lights. I was very lucky to find myself in the oldest BC park north of Whistler. There I found a lovely spot to camp and was blown away at what I saw in the sky at around 11:45pm. At which I found myself staring until the early morning hours.

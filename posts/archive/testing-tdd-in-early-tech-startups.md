@@ -1,6 +1,6 @@
 ---
-title: Testing (TDD) in early Tech Startups?
-description: Testing (TDD) in early Tech Startups?
+title: Testing (TDD)
+description: Testing (TDD)
 date: 2010-01-21
 layout: layouts/post.njk
 tags: ["computers"]

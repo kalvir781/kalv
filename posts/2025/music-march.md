@@ -3,7 +3,7 @@ title: March Music 2025
 description: Selection of music I've been loving to highlight this month
 date: 2025-03-08
 layout: layouts/post.njk
-tags: ["music"]
+tags: ["media"]
 ---
 
 As I've been cleaning up my music collection for my new found love, the hiby r4 mp3 player I decided to listen to some albums back to back and wanted to highlight a couple for the month of March.

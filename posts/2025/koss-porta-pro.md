@@ -3,7 +3,7 @@ title: Koss Porta Pro
 description: Little review of the Koss Porta Pro headphones
 date: 2025-03-11
 layout: layouts/post.njk
-tags: ["music"]
+tags: ["media"]
 ---
 
 My HiFiMAN Sundara headphones, which are planar magnetic no longer work well and I don't have my headphone dac and amplifier to use them like I used to when working at Shopify. So I've been looking for the best over ear headphones that are affordable (under 40 pounds) and sound just as great on any headphone jack.

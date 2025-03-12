@@ -16,4 +16,4 @@ Take this image of kyoto, it was originally 17M as a high resolution TIF that I 
 
 For the geeks, it's as simple to use `imagemagick` by running `convert image.tif image.avif` and it'll work. You can install that with homebrew on a mac.
 
-My image on [region of mars](/posts/2024/11/mars/) is of higher quality, the original image was 55MB and the one on the page is 3.5MB as a lossless image.
+My image on [the region of mars](/posts/2025/light-fox/) is of higher quality, the original image was 55MB and the one on the page is 3.5MB as a lossless image.

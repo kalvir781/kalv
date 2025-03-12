@@ -1,6 +1,6 @@
 ---
-title: Playing with Macvim
-description: Playing with Macvim
+title: My Macvim setup
+description: My Macvim setup
 date: 2010-11-29
 layout: layouts/post.njk
 tags: ["computers"]

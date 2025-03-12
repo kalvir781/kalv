@@ -1,6 +1,6 @@
 ---
-title: Engaging with early users to learn Habits
-description: Engaging with early users to learn Habits
+title: Modern Human Computer Interaction
+description: Gaining insight on user interactions
 date: 2012-04-12
 layout: layouts/post.njk
 tags: ["computers"]

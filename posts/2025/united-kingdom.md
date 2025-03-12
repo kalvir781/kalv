@@ -1,9 +1,9 @@
 ---
-title: UK Travel highlights 2025
+title: UK highlights 2025
 description: Sharing my highlights of travelling around the United Kingdom
 date: 2025-02-03
 layout: layouts/post.njk
-tags: ["earth", "life"]
+tags: ["travel"]
 ---
 
 I've travelled a lot through the United Kingdom and want to highlight some of my experiences and the amazing things I saw.

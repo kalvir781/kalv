@@ -1,9 +1,9 @@
 ---
-title: Founding a startup with a newborn, 2 year old and in a new city
+title: Time & Life management with software
 description: Founding a startup with a newborn, 2 year old and in a new city
 date: 2012-05-23
 layout: layouts/post.njk
-tags: ["computers", "life"]
+tags: ["computers"]
 ---
 Founding a startup with a newborn, 2 year old and in a new city
 
@@ -47,7 +47,7 @@ Having an empty inbox or near enough is good for me so that **I procrastinate le
 
 ## Zero bugs
 
-This is something applicable to product development and something that was first told to me by a collegue of mine [Ben Griffiths](http://twitter.com/beng). Simply **don't store bugs in a tracker or backlog** , put them at the top of your backlog. Your product should not be broken so fix it immediately everything else is not important, you'll always have things to fix and improve. This encourages you to not stack up lots of bugs and force defining 'new feature' requirements rather than bugs which can be better prioritized.
+This is something applicable to product development and something that was first told to me by a collegue of mine [Ben Griffiths](https://mastodon.social/@beng). Simply **don't store bugs in a tracker or backlog** , put them at the top of your backlog. Your product should not be broken so fix it immediately everything else is not important, you'll always have things to fix and improve. This encourages you to not stack up lots of bugs and force defining 'new feature' requirements rather than bugs which can be better prioritized.
 
 This means that we only worry about what we need to worry about, only until all the big things have been implemented and fixed do we get around to feeling the small things are important enough to work on.
 

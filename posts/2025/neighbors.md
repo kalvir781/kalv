@@ -1,9 +1,9 @@
 ---
-title: Neighbors - you won't believe it
+title: Celebs that were in Neighbors
 description: Celebs that were in Neighbors
 date: 2025-03-11
 layout: layouts/post.njk
-tags: ["life"]
+tags: ["media"]
 ---
 
 You won't believe this. But these actors were in Neighbors and some weren't what they look like today in Hollywood. Almost like they were normal people.

@@ -1,9 +1,9 @@
 ---
-title: Ideas on Carplay
+title: Ideas on music in the car
 description: Sharing ideas and concepts that would help those using tech in the car
 date: 2025-01-31
 layout: layouts/post.njk
-tags: ["music"]
+tags: ["media"]
 ---
 
 I've been using a lot of carplay and android auto whilst I drove around in 2023 investigating forests and environmental aspects of my work at the time. During which I observed a lot of improvements we could do to the system.

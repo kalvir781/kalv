@@ -1,5 +1,5 @@
 ---
-title: Turn off annoying Skype auto gain
+title: Tips for Skype
 description: Turn off annoying Skype auto gain
 date: 2011-11-24
 layout: layouts/post.njk

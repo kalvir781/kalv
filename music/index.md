@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
-title: Media
+title: My Music
 templateClass: tmpl-post
 eleventyNavigation:
-  key: Media
-  order: 2
+  key: My Music
+  order: 1
 ---
 
 # 1. Zero

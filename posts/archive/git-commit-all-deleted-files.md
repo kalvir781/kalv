@@ -1,5 +1,5 @@
 ---
-title: Git commit all deleted files
+title: Git tips
 description: Git commit all deleted files
 date: 2010-10-21
 layout: layouts/post.njk
