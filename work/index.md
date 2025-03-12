@@ -25,7 +25,7 @@ A little overview of some tech I've worked with:
 - Leadership since 11 / CEO / CTO / Director of Engineering
 - Looking for what's next in 2024.
 
-I've had the pleasure to work at some great companies and with wonderful people. Highlights that I'm proud and thankful for.
+I've had the pleasure to work at great companies and with wonderful people. 
 
 - Shopify as a Director of Engineering.
 - Founded [Holopod](https://holopod.com).
