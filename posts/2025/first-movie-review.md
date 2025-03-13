@@ -10,7 +10,7 @@ I don't normally do this on my blog. But this is a movie review.
 
 Probably the best movie I've watched in 3 years. [Road House 2024](https://www.imdb.com/title/tt3359350), it was recommended from my dad. And damn it's good. The acting is on point, it's violent but realistic in how the police would act in a society of evil and dispair.
 
-Jake Gyllenhaal is a bad ass, solid stone throughout the movie with ethics to never kill anyone, I might be giving things away, but I won't go into detail about it.
+Jake Gyllenhaal is a bad ass, solid stone throughout the movie with ethics to never kill anyone, I might be giving the plot away, but I won't reveal any more spoilers.
 
 It's a modern cowboy story of a man coming to a town of evil and cleaning it up or does he, you'll have to watch it to see what happens.
 
