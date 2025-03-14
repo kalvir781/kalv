@@ -7,9 +7,8 @@ eleventyNavigation:
   order: 1
 ---
 
-Special wow
-<div id="visualizer">
-</div>
+<canvas id="visualizer">
+</canvas>
 
 <div id="clock">
 </div>
