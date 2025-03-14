@@ -8,7 +8,9 @@
     "watch": "eleventy --watch",
     "serve": "run-p dev:js dev:11ty",
     "debug": "DEBUG=* eleventy",
-    "build": "eleventy"
+    "prod:js": "esbuild --minify --bundle --outfile=_site/js/index.js src/js/index.js",
+    "prod:11ty": "eleventy",
+    "build": "run-p prod:js prod:11ty"
   },
   "repository": {
     "type": "git",
