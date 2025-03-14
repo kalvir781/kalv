@@ -4,7 +4,7 @@ title: My Music
 templateClass: tmpl-post
 eleventyNavigation:
   key: My Music
-  order: 1
+  order: 2
 ---
 
 # 1. Zero
