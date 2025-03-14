@@ -9,6 +9,8 @@ class ThreeJsLoop {
     }
 
     this.scene = new THREE.Scene();
+    this.scene.background = new THREE.Color( 0xffffff );
+
     this.camera = new THREE.PerspectiveCamera(
       75,
       this.canvas.clientWidth / this.canvas.clientHeight,
@@ -30,10 +32,15 @@ class ThreeJsLoop {
 
   setupScene() {
     // Override this method to add objects to the scene
-    const geometry = new THREE.BoxGeometry(1, 1, 1);
-    const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
+    const geometry = new THREE.BoxGeometry(3, 3, 3);
+    const material = new THREE.MeshBasicMaterial({ color: "#03fcdf" });
     this.cube = new THREE.Mesh(geometry, material);
     this.scene.add(this.cube);
+
+    const edges = new THREE.EdgesGeometry(geometry);
+    const lineMaterial = new THREE.LineBasicMaterial({ color: 0x000000 }); // Black color
+    this.line = new THREE.LineSegments(edges, lineMaterial);
+    this.scene.add(this.line);
 
     this.camera.position.z = 5;
   }
@@ -49,6 +56,9 @@ class ThreeJsLoop {
     if (this.cube) {
       this.cube.rotation.x += 0.01;
       this.cube.rotation.y += 0.01;
+      this.line.rotation.x += 0.01;
+      this.line.rotation.y += 0.01;
+
     }
   }
 
@@ -75,8 +85,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const myLoop = new ThreeJsLoop('visualizer');
 
     //Example of adding and removing objects after the loop has started.
+    const geometry = new THREE.BoxGeometry( 1, 1, 1 );
+    const material = new THREE.MeshBasicMaterial( { color: "#03fcdf" } );
+    const cube = new THREE.Mesh( geometry, material );
+    scene.add( cube );
+
     const geometry2 = new THREE.SphereGeometry( 0.5, 32, 16 );
-    const material2 = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
     const sphere = new THREE.Mesh( geometry2, material2 );
     sphere.position.x = 2;
     myLoop.addObject(sphere);
