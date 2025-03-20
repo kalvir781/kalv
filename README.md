@@ -1,8 +1,10 @@
-# KON's blog
+# Kalv's blog
 
 Originally started with [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-## Running
+Using esbuild to work with prototypes in Three.js and other complex JS/TypeScript when required.
+
+## Running it for development
 
 ```
 npm install
