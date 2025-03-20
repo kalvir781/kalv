@@ -1,0 +1,363 @@
+/* Colors - Light theme*/
+:root {
+  --text-color: #333;
+  --title-color: #333;
+  --muted-text-color: #888;
+  --link-color: #118cc5;
+  --background-color: #fff;
+  --lightgray: #e0e0e0;
+}
+
+[data-theme="dark"] {
+  --text-color: #fff;
+  --title-color: #ddd;
+  --muted-text-color: #aaa;
+  --link-color: #ff79c6;
+  --background-color: #282a36;
+}
+
+/* Global stylesheet */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 15px;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+h1, h2, h3, h4, h5, h6, .nav-item, .postlist-item, .post-date {
+  font-family: "Poppins", -apple-system, system-ui, sans-serif;
+  font-weight: 400;
+  color: var(--title-color);
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+p,
+.tmpl-post li,
+img {
+  max-width: 700px;
+}
+p,
+.tmpl-post li {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+a[href], a[href]:visited {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-underline-offset: 1px;
+}
+.tmpl-post a {
+  text-underline-offset: 3px;
+}
+.tmpl-post h1 {
+  margin: 0 0 10px 0;
+}
+
+.tag-filters {
+  margin: 10px 0;
+  a[href] {
+    margin-right: 10px;
+    border: 1px solid #111;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #111;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
+  a:visited, a:hover {
+    text-decoration: none;
+  }
+  
+}
+
+.post-tag {
+  font-size: 12px;
+  border: 1px solid #999;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #999;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  a[href] {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
+  a:visited, a:hover {
+    text-decoration: none;
+  }
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+header {
+  max-width: 700px;
+  margin: 0 auto;
+  padding-top:20px;
+}
+header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+table {
+  margin: 1em 0;
+}
+table td,
+table th {
+  padding-right: 1em;
+}
+
+pre,
+code {
+  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  line-height: 1.5;
+}
+pre {
+  font-size: 14px;
+  line-height: 1.375;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  padding: 1em;
+  margin: .5em 0;
+  background-color: #f6f6f6;
+}
+code {
+  word-break: break-all;
+}
+.highlight-line {
+  display: block;
+  padding: 0.125em 1em;
+  text-decoration: none; /* override del, ins, mark defaults */
+  color: inherit; /* override del, ins, mark defaults */
+}
+
+/* allow highlighting empty lines */
+.highlight-line:empty:before {
+  content: " ";
+}
+/* avoid double line breaks when using display: block; */
+.highlight-line + br {
+  display: none;
+}
+
+.highlight-line-isdir {
+  color: #b0b0b0;
+  background-color: #222;
+}
+.highlight-line-active {
+  background-color: #444;
+  background-color: hsla(0, 0%, 27%, .8);
+}
+.highlight-line-add {
+  background-color: #45844b;
+}
+.highlight-line-remove {
+  background-color: #902f2f;
+}
+
+/* Header */
+.current-project {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.home {
+  padding: 0 1rem;
+  float: left;
+  margin: 0;
+  font-size: 1em;
+}
+.home :link:not(:hover) {
+  text-decoration: none;
+}
+
+/* Nav */
+.nav {
+  padding: 0;
+  list-style: none;
+  float: right;
+  margin: 0;
+}
+.nav-item {
+  display: inline-block;
+  margin-right: 1em;
+}
+.nav-item a[href]:not(:hover) {
+  text-decoration: none;
+}
+.nav-item-active {
+  text-decoration: underline;
+}
+
+/* Posts list */
+.postlist {
+  list-style: none;
+  padding: 0;
+  margin: 30px 0;
+}
+.postlist-item {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  align-items: baseline;
+  line-height: 1.8;
+}
+.postlist-title {
+  flex-grow: 1;
+}
+.postlist-right {
+  display: flex;
+  align-items: center; 
+}
+.postlist-tag {
+  margin-right: 10px;
+  font-size: 0.8em;
+}
+.postlist-date,
+.postlist-item:before {
+  font-size: 0.8125em; /* 13px /16 */
+  color: var(--darkgray);
+}
+.postlist-date {
+  word-spacing: -0.5px;
+  margin-right: 0.6666666666667em; /* 8px /12 */
+}
+.postlist-link {
+  padding-right: .25em;
+  text-underline-position: from-font;
+  text-underline-offset: 0;
+  text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+  font-weight: bold;
+}
+.tmpl-home .postlist-link {
+  font-size: 1.1875em; /* 19px /16 */
+  font-weight: 700;
+}
+
+
+.post-date {
+  display: block;
+  margin: 10px 0;
+  font-size: 0.9em;
+}
+
+.post-date, .postlist-date {
+  color: var(--muted-text-color);
+}
+
+/* Warning */
+.warning {
+  background-color: #ffc;
+  padding: 1em 0.625em; /* 16px 10px /16 */
+}
+.warning ol:only-child {
+  margin: 0;
+}
+
+/* Direct Links / Markdown Headers */
+.direct-link {
+  font-family: sans-serif;
+  text-decoration: none;
+  font-style: normal;
+  margin-left: .1em;
+}
+a[href].direct-link,
+a[href].direct-link:visited {
+  color: transparent;
+}
+a[href].direct-link:focus,
+a[href].direct-link:focus:visited,
+:hover > a[href].direct-link,
+:hover > a[href].direct-link:visited {
+  color: #aaa;
+}
+
+/* dark / light icon */
+.theme-icon {
+  display: none;
+  float: left;
+  cursor: pointer;
+  /* padding: 0 1rem; */
+  margin: 1.1rem 0 0.9em 0;
+  font-size: 1em;
+}
+
+footer {
+  width: 700px;
+  margin: 0 auto;
+  padding: 0 1rem 1rem 1rem;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+.columns{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.col {
+  width: 100%;
+}
+#drawing-app {
+	border: 1px solid blue;
+	touch-action: none;
+}
+#board-controls {
+	padding-bottom: 10px;
+	a {
+		font-size: 16px;
+		border: 1px solid blue;
+		padding: 5px;
+		text-decoration: none;
+		margin-right: 30px;
+	}
+}
+
+audio {
+	width: 100%;
+}
+
+.clock {
+  display: block;
+  font-size: 2em;
+  color: black;;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#t2v {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid orange;
+}
+input:focus {
+  border: 1px solid orange;
+}
+
+
