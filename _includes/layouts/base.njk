@@ -16,15 +16,19 @@
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <link rel="canonical" href="{{ page.url | canonical }}"/>
     {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap' %}
-    {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap' %}
+    {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap' %}
     <script src="/js/index.js"></script>
   </head>
   <body>
     <header>
-      <h1 class="home">
-        <a href="/"><img style="border-radius: 50%;width:70px" src="/img/profile-pic.avif"></a>
-        K△LV
-     </h1>
+      <div>
+        <a href="/">
+          <img style="border-radius: 50%;width:70px" src="/img/profile-pic.avif">
+          <h1 class="home">
+            K△LV
+          </h1>
+        </a>
+      </div>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">

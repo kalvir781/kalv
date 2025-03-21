@@ -188,7 +188,8 @@ code {
   padding: 0 1rem;
   float: left;
   margin: 0;
-  font-size: 1em;
+  font-size: 3em;
+  font-weight: 600;
 }
 .home :link:not(:hover) {
   text-decoration: none;
