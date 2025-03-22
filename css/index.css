@@ -184,12 +184,18 @@ code {
   padding: 10px 0;
 }
 
+.profile-pic {
+  border-radius: 50%;
+  float: left;
+  width:70px
+}
 .home {
   padding: 0 1rem;
   float: left;
   margin: 0;
-  font-size: 3em;
-  font-weight: 600;
+  font-size: 2em;
+  font-weight: 400;
+  padding-top:15px;
 }
 .home :link:not(:hover) {
   text-decoration: none;
