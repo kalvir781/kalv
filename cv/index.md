@@ -71,6 +71,10 @@ Making tablets security camera products. Allowing for capturing video footage an
 ### Caliper - 2011 - 2012
 First JavaScript error collection and performance monitoring service for early JavaScript front end applications written in [BackboneJS](https://backbonejs.org).
 
+### Microsoft
+2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
+2017 The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
+
 ### Brewhouse 2012 - 2018
 Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, Clio, CommandWear & Mobify.
 
