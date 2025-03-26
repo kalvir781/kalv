@@ -13,11 +13,18 @@ eleventyNavigation:
 
 ## London, UK
 
+### High Wycombe Software Development Agency 1994
+Work experience placement to work on the Apple Newton device to implement the first wired ethernet networking connection to work with TCP/IP.
+
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces. Built their first internal Intranet using HTML 1.0/CSS.
 
 ### Altwood C of E School 1997
 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
+
+### Compaq Computers 1999-2000
+[Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
+Automated Europe wide metric collections for their support centers. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over system. Implemented new Lucent telephoney from Nortel, digital VOIP.
 
 ### Southampton University 2000-2003
 Computer Science with Distributed Systems BSc
