@@ -29,7 +29,7 @@ Automated Europe wide metric collections for their support centers. Prepare for 
 ### Summer work - 2000-2003
 To pay through university.
 2001 Glaxosmithkline packing toothpaste tubes.
-Sainsbury's night shifts.
+[Sainsbury's](https://www.sainsburys.co.uk) night shifts.
 Teleresearch company on behalf of the government for climate carbon offset research.
 
 ### Southampton University 2000-2003
