@@ -22,7 +22,7 @@ Visual Basic windows desktop application allowing teachers to input students gra
 ### Southampton University 2000-2003
 Computer Science with Distributed Systems BSc
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
-[Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk) - Studied with Sifu Miller for 3 years on all forms.
+[Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk) - Trained under Sijo Dutton for 3 years on all forms.
 
 ### Complinet - Thomson Reuters - 2003 - 2007
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
