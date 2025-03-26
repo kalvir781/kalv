@@ -19,6 +19,9 @@ Work experience placement to work on the Apple Newton device to implement the fi
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces. Built their first internal Intranet using HTML 1.0/CSS.
 
+### Burger King 1996
+Achieved the fastest whooper burger making time whilst working at Burger King as a student.
+
 ### Altwood C of E School 1997
 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
 
