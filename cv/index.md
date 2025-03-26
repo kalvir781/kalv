@@ -26,6 +26,12 @@ Visual Basic windows desktop application allowing teachers to input students gra
 [Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
 Automated Europe wide metric collections for their support centers. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over system. Implemented new Lucent telephoney from Nortel, digital VOIP.
 
+### Summer work - 2000-2003
+To pay through university.
+2001 Glaxosmithkline packing toothpaste tubes.
+Sainsbury's night shifts.
+Teleresearch company on behalf of the government for climate carbon offset research.
+
 ### Southampton University 2000-2003
 Computer Science with Distributed Systems BSc
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
