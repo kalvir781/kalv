@@ -13,17 +13,21 @@ eleventyNavigation:
 
 ## Berkshire, UK
 
+### Alwyn Infant School 1988
+Managed and taught other children in the class [BBC Computers](https://en.wikipedia.org/wiki/BBC_Micro) and the [Turtle](http://classicacorn.computinghistory.org.uk/8bit_focus/logo/logo.html) to draw creative images on paper.
+
 ### High Wycombe Software Development Agency 1994
 Work experience placement to work on the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) device to implement the first wired ethernet networking connection to work with TCP/IP.
+
+### Altwood C of E School
+1996 Constructed an internal network of computers for the library, such that students can access curriculum content on the internet.
+1997 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
 
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces. Built their first internal Intranet using HTML 1.0/CSS.
 
 ### Burger King 1996
 Achieved the fastest whooper burger making time whilst working at Burger King as a student.
-
-### Altwood C of E School 1997
-Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
 
 ### Compaq Computers 1999-2000
 [Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
@@ -54,14 +58,16 @@ Twitterfeed - [making RSS feeds update Twitter in real-time](https://www.wired.c
 
 [The RSA](https://www.thersa.org) - Advisory on all future use of digital technology in Britain.
 
-Social Innovation hack weekends, ran 3 of them. Where AccessCity was born, a product to allow individuals with their mobile phone to report entrances and exits for the London Underground tube stations for improvement for the disabled.
-Consverative party open data for the London Mayor
+Social Innovation / [FutureGov](https://wearefuturegov.com) / Enabled By Design
+2008 SICamp. AccessCity, Allow individuals to use their mobile phone to report un-accessible entrances and exits, for the TFL for improvement for the disabled.
+Barnet Council digital strategy, advising Consverative party on Greater London Authority on open data. TweetyHall to put together social media from elected MPs
+[socializing with lovely people](https://www.flickr.com/photos/sicamp/3095080311/), [me hacking in the back with the yellow and grey jumper](https://www.flickr.com/photos/sicamp/3095989918/)
 
-Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with Timeout / Guardian.
+Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with [Timeout](https://www.timeout.com) / [Guardian](https://www.theguardian.com).
 
 Guardian - built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
 
-JobsGoPublic - Interim CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
+[JobsGoPublic](https://www.jobsgopublic.com/) - CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
 
 ### London Ruby User Group (LRUG) - 2008 - 2011
 [Ruby Manor](http://rubymanor.org) - Organized and run a UK conference on leading Ruby and Rails topics.
