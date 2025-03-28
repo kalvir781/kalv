@@ -6,6 +6,7 @@ eleventyNavigation:
   key: CV
   order: 1
 ---
+# Curriculum Vitae
 
 <div class="cv">
 
