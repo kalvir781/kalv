@@ -67,7 +67,9 @@ Barnet Council digital strategy, advising Consverative party on Greater London A
 
 Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with [Timeout](https://www.timeout.com) / [Guardian](https://www.theguardian.com).
 
-Guardian - built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
+[Guardian](https://www.theguardian.com/uk)
+Built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
+[Open Data Platform Launch partner](https://www.theguardian.com/open-platform/blog/launch-partners). Created a vertical search of music/film reviews with social media
 
 [JobsGoPublic](https://www.jobsgopublic.com/) - CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
 
@@ -125,6 +127,11 @@ Consolidated and unified all Shopify Mobile application development into correct
 Overhauled all software developer role promotion and growth job matrices. 
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts. 
+
+# Talks
+November 2010 - LRUG - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
+Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
+Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
 
 # Travels
 Backpacked around the world. My highlights.
