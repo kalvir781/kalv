@@ -122,6 +122,9 @@ Founded leading Canada Ruby development Agency. To work with growing tech compan
 
 Built and sold [Goodbits](https://goodbits.io).
 
+### Headphones.com - 2018
+Assisted great founder and team to re-construct [Headhphones.com](https://headphones.com) for Shopify.
+
 ### Holopod - 2018
 Solo designed and constructued [Holopod](http://holopod.com) - MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack for the future of remote workers.
 Allowed teams like Telus and Netflix to allow their remote staff to improve their working environment.
