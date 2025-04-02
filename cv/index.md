@@ -24,42 +24,45 @@ Work experience placement to work on the [Apple Newton](https://en.wikipedia.org
 1996 Constructed an internal network of computers for the library, such that students can access curriculum content on the internet.
 1996 When PCs weren't being used across the school network, I used their downtime screensave to process [Seti @ Home](https://setiathome.berkeley.edu) data chunks from Berkeley.
 1997 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
+1998 - A Levels, Physics, Chemistry and Mathematics, (BBB)
 
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces. Built their first internal Intranet using HTML 1.0/CSS.
 
-### Burger King 1996
-Achieved the fastest whooper burger making time whilst working at Burger King as a student.
+### Retail 1996
+[Burger King](https://www.burgerking.co.uk) - Achieved the fastest whooper burger making time whilst working at Burger King as a student.
+[Marks and Spencer](https://www.marksandspencer.com) - Checkout
+[GAME](https://www.game.co.uk) - 1996 - 1998, demonstrating the latest gaming setups, gran turismo (launch of PS), supporting customers with their PC games.
 
 ### Compaq Computers 1999-2000
 [Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
 Automated Europe wide metric collections for their support centers. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over system. Implemented new Lucent telephoney from Nortel, digital VOIP.
 
 ### Summer work - 2000-2003
-To pay through university.
 2001 Glaxosmithkline packing toothpaste tubes.
-[Sainsbury's](https://www.sainsburys.co.uk) night shifts.
-Teleresearch company on behalf of the government for climate carbon offset research.
+2002 [Sainsbury's](https://www.sainsburys.co.uk) night shifts.
+2003 Teleresearch company on behalf of the government for climate carbon offset research.
 
 ## Southampton, UK
 
 ### Southampton University 2000-2003
 Computer Science with Distributed Systems BSc
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
+[SUSU.org](https://www.susu.org) - Built and managed students union forum and social software for 1000s of students.
 Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk). Trained under Sijo Dutton for 3 years on all forms.
 
 ## London, UK
 
 ### Complinet - Thomson Reuters - 2003 - 2006
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
-Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money and Deutsche Bank.
-Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at peer1 in Vancouver, BC.
+Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money, Deutsche Bank and Crédit Agricole.
+Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at [Peer1](https://en.wikipedia.org/wiki/Aptum_Technologies) in Vancouver, BC.
 
 ### Arrival Education - 2006 - 2007
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
 
 ### Obimesh Consulting 2007 - 2009
-Twitterfeed - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
+[Twitterfeed](https://twitterfeed.com) - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
 
 Cookmarkit - Bookmarking service for saving recipes for families to ensure they keep their family recipe books going.
 
@@ -93,6 +96,7 @@ Co-founded leading London Ruby development agency.
 
 [Alpha.gov](https://gds.blog.gov.uk/2011/07/29/alpha-gov-uk-wrap-up/) - Designed and proposed software architecture approach to re-build all the UK government services with a unique novel approach using HTML/JS and Rails development to ensure all services continued to work and a whole new stack to be built. Developed correct business relationships and put together the right staff to lead the development at the UK cabinet office.
 
+[Voicenet](http://www.voicenet-solutions.com/) - Hand wrote a ruby library to construct automated VOIP handling of calls, similiar to Twilio.
 
 # Canada
 ## Vancouver, BC.
@@ -114,21 +118,22 @@ First JavaScript error collection and performance monitoring service for early J
 2017 The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
 
 ### Brewhouse 2012 - 2018
-Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, Clio, CommandWear & Mobify.
+Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, [Clio](https://www.clio.com/), CommandWear & Mobify.
 
 Built and sold [Goodbits](https://goodbits.io).
 
 ### Holopod - 2018
-Built MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack.
+Solo designed and constructued [Holopod](http://holopod.com) - MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack for the future of remote workers.
 Allowed teams like Telus and Netflix to allow their remote staff to improve their working environment.
+Now part of the mozilla family.
 
 ### Vision Critical - 2019
-Formed VC Labs to create 3 new revenue growing products.
+Formed [VC Labs](https://www.alida.com) to create 3 new revenue growing products. A recurring business strategy model to discover and build new innovative products.
 
 ### Shopify - 2020 - 2022
-Formed and led the FED community across 2000 developers. Leading React (completing migration of full Shopify stack to React, largest TypeScript codebase known to Microsoft) and Front End Design thinking. Design Systems.
+Formed and led the FED community across 2000 developers. Led React development, completed migration of full Shopify stack to React, largest TypeScript codebase known to Microsoft and Front End Design thinking. Co-led the direction of the largest Design Systems, [Polaris](https://polaris.shopify.com)
 
-Led performance initiatives leading to reduction of all requests to Shopify by 300ms.
+Led performance initiatives leading to reduction of all requests to Shopify web and API requests by 300ms.
 
 Consolidated and unified all Shopify Mobile application development into correct business structure and strategy. Including migration to React Native engineering approach. 
 

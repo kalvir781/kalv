@@ -209,6 +209,7 @@ code {
 }
 .nav-item {
   display: inline-block;
+  margin-left: 10px;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
