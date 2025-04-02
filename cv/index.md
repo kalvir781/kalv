@@ -50,13 +50,18 @@ Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hl
 
 ## London, UK
 
-### Complinet - Thomson Reuters - 2003 - 2007
+### Complinet - Thomson Reuters - 2003 - 2005
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
 Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money and Deutsche Bank.
 Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at peer1 in Vancouver, BC.
 
+### Arrival Education - 2005 - 2007
+Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
+
 ### Obimesh Consulting 2007 - 2009
 Twitterfeed - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
+
+Cookmarkit - Bookmarking service for saving recipes for families to ensure they keep their family recipe books going.
 
 [The RSA](https://www.thersa.org) - Advisory on all future use of digital technology in Britain.
 
@@ -94,6 +99,9 @@ Co-founded leading London Ruby development agency.
 
 ### VanRuby 2012 - 2018
 Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
+
+### RSS Hero - 2011
+Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
 
 ### Redhand 2011
 Making tablets security camera products. Allowing for capturing video footage and detecting movement. Built out the Rails infrastructure for the mobile client applications.
