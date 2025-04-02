@@ -50,12 +50,12 @@ Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hl
 
 ## London, UK
 
-### Complinet - Thomson Reuters - 2003 - 2005
+### Complinet - Thomson Reuters - 2003 - 2006
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
 Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money and Deutsche Bank.
 Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at peer1 in Vancouver, BC.
 
-### Arrival Education - 2005 - 2007
+### Arrival Education - 2006 - 2007
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
 
 ### Obimesh Consulting 2007 - 2009
