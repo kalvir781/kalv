@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
 ---
-{% set postslist = collections.posts | head(-10) %}
+{% set postslist = collections.posts | head(-20) %}
 
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<!-- <p>View all <a href="{{ '/posts/' | url }}">posts</a> .</p> -->
+<p>View all <a href="{{ '/posts/' | url }}">posts</a> .</p>

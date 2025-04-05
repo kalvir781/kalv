@@ -64,7 +64,7 @@ a[href], a[href]:visited {
 }
 
 .tag-filters {
-  margin: 10px 0;
+  margin: 30px 0 10px 0;
   a[href] {
     margin-right: 10px;
     border: 1px solid #111;
@@ -77,7 +77,6 @@ a[href], a[href]:visited {
   a:visited, a:hover {
     text-decoration: none;
   }
-  
 }
 
 .post-tag {

@@ -7,11 +7,24 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
+function filterPostsByTags(posts, tags) {
+  return posts.filter(post => {
+    console.log("Filtering posts with tags: " + tags);
+    if (!post.data.tags) return false; // Handle posts without tags
+
+    return tags.every(tag => post.data.tags.includes(tag));
+  });
+}
+
 module.exports = function (eleventyConfig) {
   // Copy these folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy("files");
+  eleventyConfig.addPassthroughCopy("models");
+
+  eleventyConfig.addPassthroughCopy("music");
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
@@ -21,6 +34,8 @@ module.exports = function (eleventyConfig) {
 
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+
+  eleventyConfig.addFilter("filterByTags", filterPostsByTags);
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(

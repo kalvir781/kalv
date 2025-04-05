@@ -6,7 +6,9 @@
     </div>
 
     {% for tag  in post.data.tags %}
-      {% if tag !== "posts" %}
+      {% if tag == "musictv" %}
+        <div class="postlist-tag postlist-right"><a href="/{{ tag }}">music & tv</a></div>
+      {% elseif tag !== "posts" %}
         <div class="postlist-tag postlist-right"><a href="/{{ tag }}">{{tag}}</a></div>
       {% endif %}
     {% endfor %}

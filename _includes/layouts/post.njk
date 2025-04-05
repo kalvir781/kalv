@@ -5,7 +5,9 @@ templateClass: tmpl-post
 <h1>{{ title }}</h1>
 
 {% for tag  in tags %}
-  {% if tag !== "posts" %}
+  {% if tag == "musictv" %}
+    <span class="post-tag"><a href="/{{ tag }}">Music & TV</a></span>
+  {% elseif tag !== "posts" %}
     <span class="post-tag"><a href="/{{ tag }}">{{tag}}</a></span>
   {% endif %}
 {% endfor %}
