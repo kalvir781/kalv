@@ -1,36 +1,36 @@
 ---
-title: New daily mac linux setup
+title: Current Mac OS setup
 description: What I'm using for my daily computer setup
-date: 2025-03-14
+date: 2025-05-05
 layout: layouts/post.njk
 tags: ["computers"]
 ---
 
-I've been getting back into hacking and practising my mind with some complex programming with this website and I thought I'd share the details of the machine I have setup.
+I love my macbook air m2, it's an 8gb, 512GB, blue machine that is portable, has amaing battery and I've used so much over the last almost 3 years.
 
-I've loved my macbook air m2 since using it at length in my travels including Mexico City and Puerto Escondido. But Mac OS has really let me down, once in an update when living in White Rock, Vancouver. It bricked the whole machine! After getting Mac OS back up and running, I decided to run linux on it.
+I've used it on my travels including Mexico City and Puerto Escondido. And I've recently upgraded a number of elements on the computer and setup that I'd like to share.
 
-The brilliant project, [Ashai Linux](https://asahilinux.org/) runs amazingly well and has upgraded from the original arch base to use Fedora. The package support has been brilliant. Just takes a bit of getting used to, with the `dnf` package manager.
+- Virtualization for C development. I've been using VirtualBox for running a headless ubuntu server and it has been ok. It seems to peg the CPU when the guest machine is running. I've set it up to use NAT, so that it is private network connected. It's been a gem to just open a terminal, ssh in and work in linux whilst still enjoying the smooth mac os experience. This has allowed me to validate C++ program designs a lot faster withouth having to deal with the lib management between Xcode build tools and Homebrew.
+- I've found [UTM](https://mac.getutm.app) as an alternative and upon early investigation, it's blazingly fast. I ran an arch linux install and it booted in a second or so. I'm going to use this in the future when requiring a new linux setup to work on. It has images ready to go in a gallery that support arm64 for the macbook air.
 
-It uses Gnome 47 and I've installed only one gnome extension to see the CPU and network activity called system monitor.
+- I'm now a convert to Spaces, full screen work. But I had to disable the transitions to ensure that my eyes stay fixed on a point on one space vs another. It now fades between the spaces, you can enable this under Accessibility > Display > Reduce Motion in your System Settings. To switch between the full screen apps, I use the three finger swipe left and right.
+- Time Machine backup, now that I've customized Mac OS a lot, I regular take backups of the full machine so that I don't have to note down all the small settings I make on the preferences and utils.
+- There are times in which the monitor and laptop turns off when I don't want, and the setting is a little hidden. Mainly when on battery. You can change it to 'never' under 'Lock Screen' under System Settings.
+- Oddly there are a number of useful settings for your desktop under 'Control Center' in your System Settings. Mainly to hide the top toolbar, as I find myself looking at the clock in the top right too much.
+- [Ice](https://github.com/jordanbaird/Ice) - A Powerful menu bar manager. It has allowed me to compact my toolbar icons such that I show the most important only on a 13" screen. Well built and someone I will donate money to later.
+- [Stats](https://github.com/exelban/stats) - To bring me back to my university days, I wanted to have network traffic and CPU visible in the toolbar. Stats allows that and more, it's been great to catch a process that is running the CPU too much or even an application that is downloading too much data.
+- [Lulu](https://objective-see.org/products/lulu.html) - Lulu allows for management of network rules and traffic. It shows a popup for any new application attempting socket connections and you can add rules.
+- [Oversight](https://objective-see.org/products/oversight.html) - This is a must application to install. It will highlight what application is using your camera and when it's on and off. I've found in the past applications continue use the camera or microphone after they've stopped their UI.
 
-The default browser is [Firefox](https://www.mozilla.org/en-GB/firefox/new/) and has a lot optimized, specifically running YouTube without killing the CPU. Most of the time with linux installations the web browser doesn't VAAPI configured to take advantage of GPU rendering, not this one.
-
-I'm still using a tmux and vim like I always have. Always allowing me to use my fingers at the keyboard and no mouse. Configured for fast windowtabs and vertical splits as required between the code and a terminal. I use the default gnome terminal with Solarized colorscheme.
+I'm still using a tmux and vim like I always have since 1994. Always allowing me to use my fingers at the keyboard and no mouse. Configured for fast windowtabs and vertical splits as required between the code and a terminal. 
 
 Current vim plugins:
 - [ag.vim](https://github.com/rking/ag.vim) - Using the silver searcher with fzf for the fast lookup of files in a project
-- [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 - [ale](https://github.com/dense-analysis/ale) - for async syntax checking 
 - [vim-fugitive](https://github.com/tpope/vim-fugitive) -for the rare times I need to do a GRead to read the original file from the git repo
+- [Gruvbox](https://github.com/morhetz/gruvbox) - my main color scheme in Vim but also iTerm2. I find the colours work the best for both night and day. Dark mode.
+- [FZF](https://github.com/junegunn/fzf) - Fast Fuzzy Finder for vim, I have it bound to my <leader> p and it allows for fast file finding and switching.
 
-Applications I've installed that I use
-- [SongRec](https://github.com/marin-m/SongRec), which is so much fun, it's an unofficial client to detect the songs with Shazam. I've had to use a pair of headphones that has an inline microphone because Asahi linux does not support the macbook microphones as yet.
-- [VLC](https://www.videolan.org/) - for video work for x264, but x265 doesn't work and I've been tinkering with this to get that working. Had to compile a version of Handbrake to allow encoding videos that are in x265 to x264 which hasn't really panned out yet.
+I use [Powerlevel10k](https://github.com/romkatv/powerlevel10k) for zsh, it's the best to easily get setup and I love that you can easily configure the prompt, statuses on the right after a command is ran, like how long it took to run.
 
-With all of my linux laptop setups, I startup `powertop` and see what optimizations I can run on the PCI devices and other components to ensure the battery consumption is the lowest it can be.
-Then monitor a number of device information on the power consumption to see what else might be drawing a lot of power. I found that the 'wifi' and the 'processor cpu freq scaling' to be the two issues. To fix the wifi, I added 'wifi.powersave' configuration to the 'NetworkManager' which better conserves the power of that. Then for the processor 'TLP' and configured it to ensure the cpu freq scales better.
-
-So far I've been using the computer for HTML/JS programming and it has given me about 2 hours for 7% battery on the macbook air m2! So it's ready for great offline working.
-
-I'll update my blog with other updates of success on it's configuration.
+Alongisde my stellar mac setup, I've been using [Google Gemini](https://gemini.google.com) a lot, it's amazing and free! I find that the answers for programming reference questions are superb. It's ability to create code has been great to get applications started fast. So far I've been using it the most with Rust and JavaScript.

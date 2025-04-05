@@ -8,7 +8,9 @@ eleventyNavigation:
 ---
 
 <h2>Nort</h2>
-<p>A platform that I'm working on to scan any structure with lidar and upload to the web. Allowing others to see what you're seeing.
+
+A platform that I'm working on to scan any structure with lidar and upload to the web. Allowing others to see what you're seeing.
+Would love to talk to Apple about this and work with them on what else they could do with this. I think it would be great for a new social platform for creatives of all ages and colours.
 
 <h3>My Bedroom</h3>
 <p><small>Use your mouse and pinch to zoom in.</small></p>

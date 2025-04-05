@@ -9,7 +9,9 @@ eleventyNavigation:
 
 <input id="t2v" value="" placeholder="SOMETHING TO SAY"></input>
 
-I wanted to make something that will help young children communicate easily when they struggle with the ability to talk or are scared with the voices in their head challenging them on how to deal with the adults around them. 
+I wanted to make a tool that will help young children communicate easily when they struggle with the ability to talk or are scared with the voices in their head challenging them on how to deal with the adults around them. 
+
+This would be great to have on BBC news articles also, as it's lightweight and something that could help anyone read the news.
 
 So I constructed this, you simply type and it will say the text.
 

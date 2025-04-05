@@ -6,7 +6,7 @@ eleventyNavigation:
   key: CV
   order: 1
 ---
-# Curriculum Vitae
+# Kalvir Sandhu
 
 <div class="cv">
 
