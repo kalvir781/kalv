@@ -1,7 +1,7 @@
 ---
 title: Current Mac OS setup
 description: What I'm using for my daily computer setup
-date: 2025-05-05
+date: 2025-04-07
 layout: layouts/post.njk
 tags: ["computers"]
 ---

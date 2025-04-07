@@ -34,7 +34,7 @@ Work experience placement to work on the [Apple Newton](https://en.wikipedia.org
 [Marks and Spencer](https://www.marksandspencer.com) - Checkout
 [GAME](https://www.game.co.uk) - 1996 - 1998, demonstrating the latest gaming setups, gran turismo (launch of PS), supporting customers with their PC games.
 
-### Compaq Computers 1999-2000
+### Tandem Computers - Compaq Computers 1999-2000
 [Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
 Automated Europe wide metric collections for their support centers. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over system. Implemented new Lucent telephoney from Nortel, digital VOIP.
 
@@ -61,7 +61,7 @@ Java Enterprise - Introducing Enterprise Java for global load balanced solutions
 ### Arrival Education - 2006 - 2007
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
 
-### Obimesh Consulting 2007 - 2009
+### Obimesh Consulting 2007 - 2011
 [Twitterfeed](https://twitterfeed.com) - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
 
 Cookmarkit - Bookmarking service for saving recipes for families to ensure they keep their family recipe books going.
@@ -81,14 +81,16 @@ Built a [ruby library](https://www.theguardian.com/open-platform/client-librarie
 
 [JobsGoPublic](https://www.jobsgopublic.com/) - CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
 
+Designed an ImageDB to ensure lossless photo re-generation in seconds from a small core database. Built in Java/Swing desktop application.
+
 ### London Ruby User Group (LRUG) - 2008 - 2011
 [Ruby Manor](http://rubymanor.org) - Organized and run a UK conference on leading Ruby and Rails topics.
 Organized and spoke to developers in London monthly for a regular meetup on Ruby. Topics I spoke about were realtime web, event machine loop optimizations and async threading.
 
 ### GoFreeRange - 2009 - 2011
-Co-founded leading London Ruby development agency.
+Co-founded leading London Ruby development agency with [James Adam](https://github.com/lazyatom) and [Tom Ward](https://tomafro.net).
 
-[Telefonica](https://www.telefonica.com/en/) / O2 - Wrote a Ruby library for SMSCs to capture and forward SMS messages into an API, worked with TweetDesk
+[Telefonica](https://www.telefonica.com/en/) / [O2](https://www.o2.co.uk) - Wrote a Ruby library for SMSCs to capture and forward SMS messages into an API, worked with TweetDesk
 
 [Mubi](https://mubi.com/en/films) - Upgraded full web platform from Rails 2 to Rails 3. Optimized all aspects of the web platform for performance and fast development practises.
 
@@ -96,7 +98,7 @@ Co-founded leading London Ruby development agency.
 
 [Alpha.gov](https://gds.blog.gov.uk/2011/07/29/alpha-gov-uk-wrap-up/) - Designed and proposed software architecture approach to re-build all the UK government services with a unique novel approach using HTML/JS and Rails development to ensure all services continued to work and a whole new stack to be built. Developed correct business relationships and put together the right staff to lead the development at the UK cabinet office.
 
-[Voicenet](http://www.voicenet-solutions.com/) - Hand wrote a ruby library to construct automated VOIP handling of calls, similiar to Twilio.
+[Voicenet](http://www.voicenet-solutions.com/) - Hand wrote a Ruby library to construct automated VOIP handling of calls as a Ruby programmable DSL, similiar to Twilio.
 
 # Canada
 ## Vancouver, BC.
