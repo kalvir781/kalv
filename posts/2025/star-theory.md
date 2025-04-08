@@ -17,9 +17,9 @@ These words have to be crystal clear that an individual can only demonstrate the
 Another way to look at these is what do we people, see is absent from society today.
 
 A - Answer - To give truthful answers 
-B - Breath - Not the word itself but the act of breathing. 1,2,3
+B - Build - Working constructively on personal growth, relationships, or community projects.
 C - Care - To give care to others around you always
-D - Drink - Every man or women should drink the correct fluids. 2 litres of water every day, always to stay hydrated and endure the day.
+D - Defend - Standing up for what is right and protecting those who are vulnerable
 E - Edify - To improve someone morally or intellectually. The underlying metaphor of "edify" comes from the Latin word "aedificare," meaning "to build."
 F - Focus - One that focuses on their work during the day/night. To get the best focus, I find calming and relaxing the body and mind to help.
 G - Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith.
