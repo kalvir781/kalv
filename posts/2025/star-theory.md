@@ -29,7 +29,7 @@ N - Double Tick (yes/yes) - doing two GOODs, so a NO would be yes/yes with a giv
 O - Time - Concept of knowing the time and meeting it. When you give a time, you do a task/work at that time.
 P - Protect - To protect people and parent them.
 Q - Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
-R - Remember, Right, Resting (The fundamental need for physical and mental recuperation)
+R - Resting (The fundamental need for physical and mental recuperation)
 S - Safety, Sacrifice, Sharing - To provide Safety for people, to sacrifice yourself for people, to share with people
 T - Tasks - defining a task in the sun and completing it on time
 U - Uniqueness - Like self, and being one with self
