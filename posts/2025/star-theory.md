@@ -25,16 +25,16 @@ F - Focus - One that focuses on their work during the day/night. To get the best
 G - Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith.
 H - Hunting - I had so many other words that could be here like House, Home but it's hard for an indvidual to practise this as an individual. So I've settled on Hunt, as one would hunt for knowledge, hunt for answers, hunt for food or resources as the early tribes.
 I - Self - A single line would emphasize the importance of any human finding their inner self, being one person.
-J - Jog / Joke / Jump / Just / Joy - The most difficult letter, there is not much in history with all languages but I order them this way. One must Jog/Jump for Joy and be Just. Joke is here as we all should make others smile and laugh.
+J - Just - The most difficult letter, there is not much in history with all languages but I order them this way. One must be Just. 
 K - Kind - To be kind to those around you always
-L - Tick (Yes) - Seen in the stars, this is never a 90 degrees letter, it's a tick. a Yes. To complete a task.
+L - Tick (Yes) - This is not saying the word 'yes' but the act of completion of a good task. Seen in the stars, this is never a 90 degrees letter, it's a tick. A correct, complete.
 M - Work - Self explanatory. Work is here under M as it's seen in mirror when seen in the stars. 
 N - Double Tick (yes/yes) - doing two GOODs, so a NO would be yes/yes with a given time (as O is a concept of Time). Imagine in your minds eye, joining L and L without the 90 degrees angle.
 O - Time - Concept of knowing the time and meeting it. When you give a time, you do a task/work at that time. Even if it was with people that said we'll meet at mid sun when there was no clock. They would know the time and meet it. One aspect is clear with this and that is there is one clock, when the sun was born or when the GMT clock started.
 P - Protect - To protect people and parent them.
 Q - Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
 R - Repair - To fix what is around them, rather than demolish and build again. To give people advice to become better people.
-S - Safety - To provide Safety for people, to sacrifice yourself for people, to share with people
+S - Safety - To provide Safety for people or to sacrifice yourself for people
 T - Tasks - defining a task in the sun and completing it on time
 U - Uniqueness - Like self, and being one with self
 V - Tick / YES
