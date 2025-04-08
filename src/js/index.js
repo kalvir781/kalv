@@ -324,7 +324,7 @@ class Clock {
 
   start() {
     // render
-    this.clock.innerHTML = "⧊⧋◬ " +this.currentInterval + "::" + this.lastMarker + "::" + this.previousMarker;
+    this.clock.innerHTML = "⧋◬ " +this.currentInterval + "::" + this.lastMarker + "::" + this.previousMarker;
 
     // work out next mars interval
     this.previousMarker = this.lastMarker;
