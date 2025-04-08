@@ -35,7 +35,7 @@ P - Protect - To protect people and parent them.
 Q - Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
 R - Repair - To fix what is around them, rather than demolish and build again. To give people advice to become better people.
 S - Safety - To provide Safety for people or to sacrifice yourself for people
-T - Tasks - defining a task in the sun and completing it on time
+T - Tidy - to be clean.
 U - Uniqueness - Like self, and being one with self
 V - Tick / YES
 W - Work - To work as a farmer would when the sun rises and today with modern jobs
