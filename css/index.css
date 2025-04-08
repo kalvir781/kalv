@@ -391,3 +391,10 @@ input:focus {
     padding: 1.5rem; /* More padding for larger screens */
   }
 }
+
+blockquote {
+  background-color: #ededed;
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 5px;
+}
