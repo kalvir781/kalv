@@ -57,7 +57,7 @@ async function startRecording() {
                 width: { ideal: 854 }, // Request HD if possible
                 height: { ideal: 480 }
             },
-            audio: false // Set to true if you want audio
+            audio: true// Set to true if you want audio
         });
 
         preview.srcObject = mediaStream;
@@ -154,8 +154,8 @@ async function handleStop() {
             '-c:v', 'libx264',
             '-preset', 'ultrafast',
             //'-crf', '23',
-            '-b:v', '1500k', 
-            // '-an', // Remove this line if you recorded audio and want it included
+            '-b:v', '2000k', 
+            '-an', // Remove this line if you recorded audio and want it included
             'output.mp4'
         ];
         console.log('Running ffmpeg command:', ffmpegCommand.join(' '));
