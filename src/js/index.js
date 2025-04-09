@@ -54,8 +54,8 @@ async function startRecording() {
         // Get webcam stream (video only for this example)
         mediaStream = await navigator.mediaDevices.getUserMedia({
             video: {
-                width: { exact: 854 }, // Request HD if possible
-                height: { exact: 480 }
+                width: { ideal: 854 }, // Request HD if possible
+                height: { ideal: 480 }
             },
             audio: true// Set to true if you want audio
         });
@@ -150,7 +150,7 @@ async function handleStop() {
         // output.mp4: Output filename
         const ffmpegCommand = [
             '-i', inputFilename,
-            '-vf', 'hflip,scale=-1:480',
+            '-vf', 'hflip,scale=trunc(iw*480/ih/2)*2:480',
             '-c:v', 'libx264',
             '-preset', 'ultrafast',
             //'-crf', '23',
