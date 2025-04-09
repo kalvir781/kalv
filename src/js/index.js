@@ -54,8 +54,8 @@ async function startRecording() {
         // Get webcam stream (video only for this example)
         mediaStream = await navigator.mediaDevices.getUserMedia({
             video: {
-                width: { ideal: 854 }, // Request HD if possible
-                height: { ideal: 480 }
+                width: { exact: 854 }, // Request HD if possible
+                height: { exact: 480 }
             },
             audio: true// Set to true if you want audio
         });
