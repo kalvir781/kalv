@@ -5,6 +5,222 @@ import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
 let scene = undefined;
 
+/* Vlog util */
+
+let preview = null;
+let startButton = null;
+let stopButton = null;
+let status = null;
+let downloadLink = null;
+
+let ffmpeg;
+let mediaRecorder;
+let recordedBlobs = [];
+let mediaStream;
+let ffmpegWorking = false;
+
+// --- Initialization ---
+
+async function loadFFmpeg() {
+    status.textContent = 'Loading ffmpeg-core.js...';
+    try {
+        ffmpeg = FFmpeg.createFFmpeg({
+            log: true, // Enable logging for debugging
+            corePath: 'https://unpkg.com/@ffmpeg/core@0.11.0/dist/ffmpeg-core.js',
+            // Use the same version core as the main library
+        });
+        await ffmpeg.load();
+        status.textContent = 'FFmpeg loaded. Ready to record.';
+        startButton.disabled = false;
+    } catch (error) {
+        console.error("Error loading ffmpeg:", error);
+        status.textContent = 'Error loading FFmpeg. Check console and COOP/COEP headers.';
+        alert('Failed to load FFmpeg. Ensure your server sends COOP/COEP headers and you are using HTTPS or localhost.');
+    }
+}
+
+// --- Webcam and Recording Logic ---
+
+async function startRecording() {
+    if (ffmpegWorking) {
+        status.textContent = 'FFmpeg is currently processing. Please wait.';
+        return;
+    }
+    recordedBlobs = []; // Clear previous recording
+    downloadLink.style.display = 'none'; // Hide old link
+    downloadLink.href = '#'; // Reset href
+
+    try {
+        // Get webcam stream (video only for this example)
+        mediaStream = await navigator.mediaDevices.getUserMedia({
+            video: {
+                width: { ideal: 1280 }, // Request HD if possible
+                height: { ideal: 720 }
+            },
+            audio: false // Set to true if you want audio
+        });
+
+        preview.srcObject = mediaStream;
+        preview.captureStream = preview.captureStream || preview.mozCaptureStream; // For Firefox compatibility
+
+        // Detect supported mime type
+        const options = getSupportedMimeTypeOptions();
+        if (!options) {
+            throw new Error("No supported MIME type found for MediaRecorder");
+        }
+        console.log('Using mimeType:', options.mimeType);
+
+        mediaRecorder = new MediaRecorder(mediaStream, options);
+
+        mediaRecorder.ondataavailable = (event) => {
+            if (event.data && event.data.size > 0) {
+                recordedBlobs.push(event.data);
+                // console.log(`Received data chunk: ${event.data.size} bytes`);
+            }
+        };
+
+        mediaRecorder.onstop = handleStop; // Process video when recording stops
+
+        mediaRecorder.start(); // Start recording continuously
+        // Optionally provide timeslice: mediaRecorder.start(1000); // Collect chunks every second
+
+        console.log('MediaRecorder started', mediaRecorder);
+        status.textContent = 'Recording...';
+        startButton.disabled = true;
+        stopButton.disabled = false;
+
+    } catch (err) {
+        console.error("Error starting recording:", err);
+        status.textContent = `Error starting recording: ${err.message}. Check permissions.`;
+        if (mediaStream) {
+            mediaStream.getTracks().forEach(track => track.stop()); // Clean up tracks
+        }
+        preview.srcObject = null;
+        startButton.disabled = false; // Allow retry if ffmpeg is loaded
+        stopButton.disabled = true;
+    }
+}
+
+function stopRecording() {
+    if (mediaRecorder && mediaRecorder.state !== 'inactive') {
+        mediaRecorder.stop();
+        stopButton.disabled = true;
+        status.textContent = 'Stopping recording, preparing for processing...';
+        // Processing starts in the onstop handler
+    }
+}
+
+async function handleStop() {
+    console.log('Recorder stopped. Blobs recorded:', recordedBlobs.length);
+    if (recordedBlobs.length === 0) {
+        status.textContent = 'No data recorded.';
+        startButton.disabled = false; // Re-enable start
+        cleanupStream();
+        return;
+    }
+
+    status.textContent = 'Processing video with ffmpeg... Please wait.';
+    ffmpegWorking = true;
+    startButton.disabled = true; // Disable start during processing
+    stopButton.disabled = true; // Keep stop disabled
+
+    try {
+        // 1. Combine Blobs
+        // Determine the mimeType used by the recorder
+        const mimeType = mediaRecorder.mimeType || 'video/webm'; // Fallback guess
+        const superBlob = new Blob(recordedBlobs, { type: mimeType });
+
+        // Extract file extension (heuristic)
+        let inputFilename = 'input.webm'; // Default guess
+        if (mimeType.includes('mp4')) inputFilename = 'input.mp4';
+        else if (mimeType.includes('quicktime')) inputFilename = 'input.mov';
+
+        // 2. Write Blob to ffmpeg's virtual file system
+        const inputData = await FFmpeg.fetchFile(superBlob);
+        ffmpeg.FS('writeFile', inputFilename, inputData);
+        console.log(`Wrote ${inputFilename} to ffmpeg FS (${inputData.length} bytes)`);
+
+        // 3. Run ffmpeg command
+        // -i input.webm : Input file
+        // -vf "scale=-1:720": Scale video height to 720p, maintain aspect ratio
+        // -c:v libx264: Encode video using H.264 codec (good for MP4)
+        // -preset ultrafast: Faster encoding, lower quality/compression. Good for browser.
+        // -crf 23: Constant Rate Factor (quality, lower=better, 18-28 is common)
+        // -an: No audio (remove if you recorded audio and want it)
+        // output.mp4: Output filename
+        const ffmpegCommand = [
+            '-i', inputFilename,
+            '-vf', 'scale=-1:720',
+            '-c:v', 'libx264',
+            '-preset', 'ultrafast',
+            '-crf', '23',
+            // '-an', // Remove this line if you recorded audio and want it included
+            'output.mp4'
+        ];
+        console.log('Running ffmpeg command:', ffmpegCommand.join(' '));
+        await ffmpeg.run(...ffmpegCommand);
+        console.log('FFmpeg processing finished.');
+
+        // 4. Read the processed file
+        const outputData = ffmpeg.FS('readFile', 'output.mp4');
+        console.log(`Read output.mp4 from ffmpeg FS (${outputData.length} bytes)`);
+
+        // 5. Create Download Link
+        const outputBlob = new Blob([outputData.buffer], { type: 'video/mp4' });
+        const url = URL.createObjectURL(outputBlob);
+        downloadLink.href = url;
+        downloadLink.style.display = 'block'; // Show download link
+        status.textContent = 'Processing complete. Video ready for download!';
+
+        // 6. Cleanup ffmpeg FS
+        ffmpeg.FS('unlink', inputFilename);
+        ffmpeg.FS('unlink', 'output.mp4');
+
+    } catch (error) {
+        console.error('Error during ffmpeg processing:', error);
+        status.textContent = `Error processing video: ${error.message || error}`;
+    } finally {
+        ffmpegWorking = false;
+        cleanupStream(); // Stop webcam tracks
+        startButton.disabled = false; // Re-enable start button
+        stopButton.disabled = true; // Keep stop disabled until next recording
+    }
+}
+
+// --- Utility Functions ---
+
+function getSupportedMimeTypeOptions() {
+    const types = [
+        "video/webm;codecs=vp9,opus",
+        "video/webm;codecs=vp8,opus",
+        "video/webm;codecs=h264,opus",
+        "video/mp4;codecs=h264,aac", // Often less supported for recording directly
+        "video/webm",
+    ];
+    for (const type of types) {
+        if (MediaRecorder.isTypeSupported(type)) {
+            return { mimeType: type };
+        }
+    }
+    console.warn("No specifically preferred mimeType supported, letting browser choose.");
+    // Let browser choose default if none specifically supported
+    if (MediaRecorder.isTypeSupported("video/webm")) {
+         return { mimeType: "video/webm" }; // Common default
+    }
+    return undefined; // Indicate no support found or browser default needed implicitly
+}
+
+
+function cleanupStream() {
+    if (mediaStream) {
+        mediaStream.getTracks().forEach(track => track.stop());
+        mediaStream = null;
+        preview.srcObject = null; // Clear preview
+        console.log('MediaStream tracks stopped.');
+    }
+}
+/* ========= */
+
 class ThreeJsLoop {
 
   constructor(canvasId) {
@@ -363,4 +579,24 @@ document.addEventListener("DOMContentLoaded", () => {
   if (nort !== null) {
     const app = new ObjLoaderApp('nort', '/models/bedroom.obj');
   }
+
+  const vlog = document.getElementById("vlog");
+  if (vlog !== null) {
+    console.log("starting up vlog");
+    // --- Load ---
+    //window.addEventListener('load', loadFFmpeg); 
+    preview = document.getElementById('preview');
+    startButton = document.getElementById('startButton');
+    stopButton = document.getElementById('stopButton');
+    status = document.getElementById('status');
+    downloadLink = document.getElementById('downloadLink');
+
+    loadFFmpeg();
+
+
+
+    startButton.addEventListener('click', startRecording);
+    stopButton.addEventListener('click', stopRecording);
+  }
+
 });
