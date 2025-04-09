@@ -40,67 +40,79 @@ async function loadFFmpeg() {
 }
 
 // --- Webcam and Recording Logic ---
-
 async function startRecording() {
-  if (ffmpegWorking) {
-    status.textContent = 'FFmpeg is currently processing. Please wait.';
-    return;
-  }
-  recordedBlobs = []; // Clear previous recording
-  downloadLink.style.display = 'none'; // Hide old link
-  downloadLink.href = '#'; // Reset href
-  preview.style.display = 'block'; // +++ Make preview visible when starting +++
+	if (ffmpegWorking) {
+		status.textContent = 'FFmpeg is currently processing. Please wait.';
+		return;
+	}
+	recordedBlobs = [];
+	actualMimeType = ''; // Reset actual mime type
+	downloadLink.style.display = 'none';
+	downloadLink.href = '#';
+	preview.style.display = 'block';
 
-  try {
-    // Get webcam stream (video only for this example)
-    mediaStream = await navigator.mediaDevices.getUserMedia({
-      video: {
-        width: { ideal: 854 }, // Request HD if possible
-        height: { ideal: 480 }
-      },
-      audio: true// Set to true if you want audio
-    });
+	try {
+		mediaStream = await navigator.mediaDevices.getUserMedia({
+			video: { width: { ideal: 1280 }, height: { ideal: 720 } },
+			audio: true
+		});
 
-    preview.srcObject = mediaStream;
-    preview.captureStream = preview.captureStream || preview.mozCaptureStream; // For Firefox compatibility
+		const videoTrack = mediaStream.getVideoTracks()[0];
+		const settings = videoTrack.getSettings();
+		console.log("Actual Video Track Settings:", settings); // Good for debugging
 
-    // Detect supported mime type
-    const options = getSupportedMimeTypeOptions();
-    if (!options) {
-      throw new Error("No supported MIME type found for MediaRecorder");
-    }
-    console.log('Using mimeType:', options.mimeType);
+		preview.srcObject = mediaStream;
+		preview.captureStream = preview.captureStream || preview.mozCaptureStream;
 
-    mediaRecorder = new MediaRecorder(mediaStream, options);
+		// --- Get mimeType options ---
+		const options = getSupportedMimeTypeOptions();
 
-    mediaRecorder.ondataavailable = (event) => {
-      if (event.data && event.data.size > 0) {
-        recordedBlobs.push(event.data);
-        // console.log(`Received data chunk: ${event.data.size} bytes`);
-      }
-    };
+		// --- Instantiate MediaRecorder ---
+		if (options) {
+			// A specific mimeType was supported
+			mediaRecorder = new MediaRecorder(mediaStream, options);
+		} else {
+			// No specific type supported, let the browser choose its default
+			mediaRecorder = new MediaRecorder(mediaStream);
+		}
 
-    mediaRecorder.onstop = handleStop; // Process video when recording stops
+		// --- Crucial: Get the *actual* mimeType being used ---
+		actualMimeType = mediaRecorder.mimeType;
+		if (!actualMimeType) {
+			// Fallback if browser doesn't report mimeType immediately (rare)
+			actualMimeType = options ? options.mimeType : 'video/mp4'; // Guess MP4 if default
+			console.warn(`MediaRecorder.mimeType was empty, falling back to: ${actualMimeType}`);
+		}
+		console.log(`MediaRecorder active with mimeType: ${actualMimeType}`);
 
-    mediaRecorder.start(); // Start recording continuously
-    // Optionally provide timeslice: mediaRecorder.start(1000); // Collect chunks every second
+		mediaRecorder.ondataavailable = (event) => {
+			if (event.data && event.data.size > 0) recordedBlobs.push(event.data);
+		};
+		mediaRecorder.onstop = handleStop; // handleStop will now use global 'actualMimeType'
+		mediaRecorder.start();
 
-    console.log('MediaRecorder started', mediaRecorder);
-    status.textContent = 'Recording...';
-    startButton.disabled = true;
-    stopButton.disabled = false;
+		console.log('MediaRecorder started', mediaRecorder);
+		status.textContent = 'Recording... (Audio & Video)';
+		startButton.disabled = true;
+		stopButton.disabled = false;
 
-  } catch (err) {
-    console.error("Error starting recording:", err);
-    status.textContent = `Error starting recording: ${err.message}. Check permissions.`;
-    if (mediaStream) {
-      mediaStream.getTracks().forEach(track => track.stop()); // Clean up tracks
-    }
-    preview.srcObject = null;
-    startButton.disabled = false; // Allow retry if ffmpeg is loaded
-    stopButton.disabled = true;
-  }
+	} catch (err) {
+		console.error("Error starting recording:", err);
+		// Check specifically for OverconstrainedError which can happen if exact constraints fail
+		if (err.name === 'OverconstrainedError') {
+			status.textContent = `Error: Requested resolution/settings not supported by camera. (${err.message})`;
+		} else {
+			status.textContent = `Error starting recording: ${err.message}. Check permissions.`;
+		}
+		preview.style.display = 'none';
+		if (mediaStream) cleanupStream();
+		else preview.srcObject = null;
+		startButton.disabled = false;
+		stopButton.disabled = true;
+		actualMimeType = ''; // Clear mime type on error
+	}
 }
+
 
 function stopRecording() {
   if (mediaRecorder && mediaRecorder.state !== 'inactive') {
@@ -191,28 +203,31 @@ async function handleStop() {
 }
 
 // --- Utility Functions ---
+// Variable to store the actual mimeType chosen by MediaRecorder
+let actualMimeType = ''; // Use this in handleStop
 
 function getSupportedMimeTypeOptions() {
-  const types = [
-    "video/webm;codecs=vp9,opus",
-    "video/webm;codecs=vp8,opus",
-    "video/webm;codecs=h264,opus",
-    "video/mp4;codecs=h264,aac", // Often less supported for recording directly
-    "video/webm",
-  ];
-  for (const type of types) {
-    if (MediaRecorder.isTypeSupported(type)) {
-      return { mimeType: type };
-    }
-  }
-  console.warn("No specifically preferred mimeType supported, letting browser choose.");
-  // Let browser choose default if none specifically supported
-  if (MediaRecorder.isTypeSupported("video/webm")) {
-    return { mimeType: "video/webm" }; // Common default
-  }
-  return undefined; // Indicate no support found or browser default needed implicitly
-}
+	const typesToTest = [
+		// Prioritize WebM with Opus if available (common elsewhere)
+		{ mimeType: "video/webm;codecs=vp9,opus" },
+		{ mimeType: "video/webm;codecs=vp8,opus" },
+		// Check MP4 with common codecs
+		{ mimeType: "video/mp4;codecs=h264,aac" },
+		// Check generic container types (less specific)
+		{ mimeType: "video/webm" },
+		{ mimeType: "video/mp4" } // Generic MP4 - Might work on iOS
+	];
 
+	for (const typeInfo of typesToTest) {
+		if (MediaRecorder.isTypeSupported(typeInfo.mimeType)) {
+			console.log(`Found supported specific mimeType: ${typeInfo.mimeType}`);
+			return typeInfo; // Return the whole object { mimeType: "..." }
+		}
+	}
+
+	console.warn("No specific mimeType found. Will let browser choose default.");
+	return null; // Indicate that no specific preference was supported
+}
 
 function cleanupStream() {
   if (mediaStream) {
