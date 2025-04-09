@@ -8,6 +8,7 @@ eleventyNavigation:
 ---
 
 480p MP4 recorder. Easily record videos to save locally right from the browser.
+NOTE: Works better on desktop and smaller videos. iOS is a little janky and haven't tested on mobile chrome.
 
 <div id="vlog">
     <video id="preview" width="640" height="480" autoplay muted></video>
