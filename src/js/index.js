@@ -150,12 +150,13 @@ async function handleStop() {
         // output.mp4: Output filename
         const ffmpegCommand = [
             '-i', inputFilename,
-            '-vf', 'scale=-1:480',
+            '-vf', 'hflip,scale=-1:480',
             '-c:v', 'libx264',
             '-preset', 'ultrafast',
             //'-crf', '23',
             '-b:v', '2000k', 
-            '-an', // Remove this line if you recorded audio and want it included
+            '-c:a', 'aac',
+            '-b:a', '128k',
             'output.mp4'
         ];
         console.log('Running ffmpeg command:', ffmpegCommand.join(' '));
