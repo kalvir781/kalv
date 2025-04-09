@@ -405,3 +405,10 @@ blockquote {
     padding:5px;
   }
 }
+
+#vlog {
+  button { padding: 10px 15px; margin: 5px; cursor: pointer; }
+  #status { margin-top: 15px; font-weight: bold; }
+  #downloadLink { display: none; margin-top: 15px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; }
+  #preview { transform: scaleX(-1); }
+}

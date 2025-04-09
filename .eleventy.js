@@ -49,7 +49,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("canonical", (url) => {
-    return "https://kalv.life" + url;
+    return "https://kalv.co.uk" + url;
   });
 
   // Get the first `n` elements of a collection.
@@ -85,17 +85,37 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
+	// Override Browsersync defaults (used only with --serve)
+	eleventyConfig.setBrowserSyncConfig({
+    // Enable middleware for modifying the response
+    middleware: [
+			// Simple logger middleware
+      function (req, res, next) {
+        console.log(`[BS Middleware] Request received for: ${req.url}`);
+        next(); // Pass control to the next middleware
+      },
+      function(req, res, next) {
+console.log("Running header middleware insert");
+        // Add the Cross-Origin-Opener-Policy header
+        res.setHeader('Cross-Origin-Opener-Policy', 'same-origin');
+        // Add the Cross-Origin-Embedder-Policy header
+        res.setHeader('Cross-Origin-Embedder-Policy', 'require-corp');
+        // Call the next middleware in the chain
+        next();
+      }
+    ]
+  });
+
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function (err, browserSync) {
-        const content_404 = fs.readFileSync("_site/404.html");
-
         browserSync.addMiddleware("*", (req, res) => {
-          // Provides the 404 content without redirect.
-          res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
-          res.write(content_404);
-          res.end();
+          res.writeHead(200, {
+
+          });
+          // Provides the 404 content without redirect.	
+          next();
         });
       },
     },
