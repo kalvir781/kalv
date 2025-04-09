@@ -398,3 +398,10 @@ blockquote {
   padding: 15px;
   border-radius: 5px;
 }
+.star-symbols {
+  code {
+    background-color: grey;
+    color: white;
+    padding:5px;
+  }
+}
