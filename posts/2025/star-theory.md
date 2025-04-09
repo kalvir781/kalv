@@ -22,8 +22,8 @@ C - Create - Bringing positive things into the world, whether it's art, solution
 D - Defend - Standing up for what is right and protecting those who are vulnerable
 E - Edify - To improve someone morally or intellectually. The underlying metaphor of "edify" comes from the Latin word "aedificare," meaning "to build."
 F - Focus - One that focuses on their work during the day/night. To get the best focus, I find calming and relaxing the body and mind to help.
-G - Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith.
-H - Hunting - I had so many other words that could be here like House, Home but it's hard for an indvidual to practise this as an individual. So I've settled on Hunt, as one would hunt for knowledge, hunt for answers, hunt for food or resources as the early tribes.
+G - Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith. God is Good.
+H - Hear - Actively listening to others with empathy and understanding
 I - Self - A single line would emphasize the importance of any human finding their inner self, being one person.
 J - Just - The most difficult letter, there is not much in history with all languages but I order them this way. One must be Just. 
 K - Kind - To be kind to those around you always
