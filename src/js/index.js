@@ -54,8 +54,8 @@ async function startRecording() {
         // Get webcam stream (video only for this example)
         mediaStream = await navigator.mediaDevices.getUserMedia({
             video: {
-                width: { ideal: 1280 }, // Request HD if possible
-                height: { ideal: 720 }
+                width: { ideal: 854 }, // Request HD if possible
+                height: { ideal: 480 }
             },
             audio: false // Set to true if you want audio
         });
@@ -150,10 +150,11 @@ async function handleStop() {
         // output.mp4: Output filename
         const ffmpegCommand = [
             '-i', inputFilename,
-            '-vf', 'scale=-1:720',
+            '-vf', 'scale=-1:480',
             '-c:v', 'libx264',
             '-preset', 'ultrafast',
-            '-crf', '23',
+            //'-crf', '23',
+            '-b:v', '1500k', 
             // '-an', // Remove this line if you recorded audio and want it included
             'output.mp4'
         ];
