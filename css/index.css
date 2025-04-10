@@ -182,33 +182,27 @@ code {
   padding: 10px 0;
 }
 
-.profile-pic {
-  border-radius: 50%;
-  float: left;
-  width:70px
-}
-.home {
-  padding: 0 1rem;
-  float: left;
-  margin: 0;
-  font-size: 2em;
-  font-weight: 400;
-  padding-top:15px;
-}
-.home :link:not(:hover) {
-  text-decoration: none;
+.logo {
+  .profile-pic {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    width:70px
+  }
+  a, a:not(:hover) {
+    text-decoration: none;
+  }
 }
 
 /* Nav */
 .nav {
   padding: 0;
   list-style: none;
-  float: right;
   margin: 0;
 }
 .nav-item {
   display: inline-block;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;

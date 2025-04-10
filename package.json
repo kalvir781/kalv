@@ -3,12 +3,12 @@
   "version": "6.0.0",
   "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "dev:js": "esbuild --watch --bundle --sourcemap --outfile=_site/js/index.js src/js/index.js",
+    "dev:js": "esbuild --watch --bundle --sourcemap --platform=browser --outfile=_site/js/index.js src/js/index.js",
     "dev:11ty": "eleventy --serve",
     "watch": "eleventy --watch",
     "serve": "run-p dev:js dev:11ty",
     "debug": "DEBUG=* eleventy",
-    "prod:js": "esbuild --minify --bundle --outfile=_site/js/index.js src/js/index.js",
+    "prod:js": "esbuild --minify --bundle --platform=browser --outfile=_site/js/index.js src/js/index.js",
     "prod:11ty": "eleventy",
     "build": "run-p prod:js prod:11ty"
   },

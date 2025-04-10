@@ -1,6 +1,7 @@
 import * as THREE from 'three';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import JustShare from './just-share.js'
 
 let scene = undefined;
 
@@ -623,6 +624,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     startButton.addEventListener('click', startRecording);
     stopButton.addEventListener('click', stopRecording);
+  }
+  const justShare = document.getElementById("just-share");
+  if (justShare !== null) {
+    new JustShare();
   }
 
 });
