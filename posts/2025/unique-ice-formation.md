@@ -10,4 +10,4 @@ I was out for a hike on Valentines day in 2024 on my own and enjoying a great tr
 
 As I was walking along I noticed a small ice patch, upon looking closer, it showed this amazing ice formation between sand particles. Makes me wonder what type of energy there is in ICE rather than FIRE.
 
-![/img/unique-ice-formation.avif](/img/unique-ice-formation.avif)
+![/img/posts/2025/unique-ice-formation.avif](/img/posts/2025/unique-ice-formation.avif)
