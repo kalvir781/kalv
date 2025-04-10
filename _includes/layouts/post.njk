@@ -2,6 +2,8 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+<input id="read-post" type="button" value="read out loud"></input>
+
 <h1>{{ title }}</h1>
 
 {% for tag  in tags %}
@@ -15,7 +17,11 @@ templateClass: tmpl-post
 <time class="post-date" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 
 
+<div id="post-content">
+
 {{ content | safe }}
+
+</div>
 
 {%- if collections.posts %}
 

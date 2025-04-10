@@ -527,10 +527,14 @@ class T2V{
   }
 }
 
-// Coming soon
-class PostSpeak {
-  constructor(post) {
-    // speak the post
+class ReadPost {
+  constructor() {
+    document.getElementById('read-post').addEventListener('click', function(e) {
+      const postContent = document.getElementById('post-content');
+      const synth = window.speechSynthesis;
+      const utterance = new SpeechSynthesisUtterance(postContent.innerText);
+      synth.speak(utterance);
+    });
   }
 }
 
@@ -583,6 +587,11 @@ document.addEventListener("DOMContentLoaded", () => {
   if (box !== null) {
     new T2V();
   }
+  
+  const readPost = document.getElementById("read-post");
+  if (readPost !== null) {
+    new ReadPost();
+  }
 
   const clock = document.getElementById("clock");
   if (clock !== null) {
@@ -611,8 +620,6 @@ document.addEventListener("DOMContentLoaded", () => {
     downloadLink = document.getElementById('downloadLink');
 
     loadFFmpeg();
-
-
 
     startButton.addEventListener('click', startRecording);
     stopButton.addEventListener('click', stopRecording);
