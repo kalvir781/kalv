@@ -21,6 +21,7 @@ Managed and taught other children in the class [BBC Computers](https://en.wikipe
 Work experience placement to work on the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) device to implement the first wired ethernet networking connection to work with TCP/IP.
 
 ### Altwood C of E School
+1994 Schools online project, Working with Anglia University for 5 schools being on the internet. Forums and BBS boards.
 1996 Constructed an internal network of computers for the library, such that students can access curriculum content on the internet.
 1996 When PCs weren't being used across the school network, I used their downtime screensave to process [Seti @ Home](https://setiathome.berkeley.edu) data chunks from Berkeley.
 1997 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
