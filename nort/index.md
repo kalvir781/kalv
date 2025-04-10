@@ -14,7 +14,7 @@ Would love to talk to Apple about this and work with them on what else they coul
 
 <h3>My Bedroom</h3>
 <p><small>Use your mouse and pinch to zoom in.</small></p>
-<div style="width:100%;height:500px;border: 1px solid #ccc" id="nort-app">
+<div style="width:100%;height:500px;border: 1px solid #ccc" id="nort">
 </div>
 
 I believe being able to share immersive visual captures is the future for those that perhaps are impaired or un-able to get to a specific location. Such as hikes, monuments, impressive architectural or sites like Stone Hedge.
