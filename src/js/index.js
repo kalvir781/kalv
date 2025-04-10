@@ -1,4 +1,3 @@
-import SamJs from 'sam-js';
 import * as THREE from 'three';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
@@ -508,31 +507,33 @@ class DrawingApp {
 }
 
 class T2V{
-  constructor(box) {
-    this.inputElement = box;
-    this.myString = '';
-    this.timeoutId = null;
+  constructor() {
+    document.getElementById('t2v-form').addEventListener('submit', function(e) {
+      e.preventDefault();
 
-    this.inputElement.addEventListener('input', (event) => {
-      const newValue = event.target.value;
+      this.say();
 
-    //  // Clear any existing timeout
-      clearTimeout(this.timeoutId);
+      return false;
+    }.bind(this));
+  }
 
-      this.timeoutId = setTimeout(() => {
+  say() {
+    const text = document.getElementById('t2v-text-to-speak').value;
 
-        this.myString = newValue;
-
-        new SamJs(
-          //{speed: 72, pitch: 64, throat: 110, mouth: 160} 
-{speed: 94, pitch: 37, throat: 191, mouth: 193}
-        ).speak(this.myString);
-
-        console.log('Speaking: ', this.myString);
-      }, 1000);
-    });
+    // https://caniuse.com/?search=SpeechSynthesisUtterance
+    const synth = window.speechSynthesis;
+    const utterance = new SpeechSynthesisUtterance(text);
+    synth.speak(utterance);
   }
 }
+
+// Coming soon
+class PostSpeak {
+  constructor(post) {
+    // speak the post
+  }
+}
+
 function getRandomInt(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
@@ -580,7 +581,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const box = document.getElementById("t2v");
   if (box !== null) {
-    new T2V(box);
+    new T2V();
   }
 
   const clock = document.getElementById("clock");
