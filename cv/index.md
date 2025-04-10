@@ -7,6 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 # Kalvir Sandhu
+Born in the 80s. 1980, Scorpion.
 
 <div class="cv">
 
