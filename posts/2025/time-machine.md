@@ -16,8 +16,6 @@ Never in the future as it's un-written from what I know today on April 8th 2025.
 
 [John Lennon](https://www.johnlennon.com), for his love and joy he expressed in his music. I would just want to play the piano with him.
 
-[Diana Spencer](https://www.britannica.com/biography/Diana-princess-of-Wales) - for her giving to the children in Africa and her battle against the awareness of AIDS.
-
 [Avcii](https://avicii.com) - The Swedish producer and DJ. You can travel back in time yourself, by listening to his podcast which is still available on [Apple Music](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://podcasts.apple.com/gb/podcast/avicii-fm/id445221220&ved=2ahUKEwiBuZqNwceMAxUpWkEAHT-wKC0QFnoECBUQAQ&usg=AOvVaw2DC9SY53Hg3u1ErDmN6o7l), probably the best music mixes available in history. I'll be travelling to Stockholm when I get a chance to see their [Avcii Experience](https://aviciiexperience.com).
 
 > “I discovered when I started earning money that I didn't really need them. When you have such a surplus of money you don't need, the most sensible, most human and most obvious thing to do is to give to people in need”
