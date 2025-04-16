@@ -28,7 +28,7 @@ Another way to look at these is what do we people, see is absent from society to
 `E` Edify - To improve someone morally or intellectually. The underlying metaphor of "edify" comes from the Latin word "aedificare," meaning "to build."
 `F` Focus - One that focuses on their work during the day/night. To get the best focus, I find calming and relaxing the body and mind to help.
 `G` Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith. God is Good.
-`H` Hear - Actively listening to others with empathy and understanding
+`H` Home - Ensuring one has a safe home and gives a home for others. Tribes would insist on giving up their home to travellers, a meal and water always.
 `I` Self - A single line would emphasize the importance of any human finding their inner self, being one person.
 `J` Just - The most difficult letter, there is not much in history with all languages but I order them this way. One must be Just. 
 `K` Kind - To be kind to those around you always
