@@ -35,7 +35,7 @@ Another way to look at these is what do we people, see is absent from society to
 `L` Tick (Yes) - This is not saying the word 'yes' but the act of completion of a good task. Seen in the stars, this is never a 90 degrees letter, it's a tick. A correct, complete.
 `M` Work - Self explanatory. Work is here under M as it's seen in mirror when seen in the stars. 
 `N` Double Tick (yes/yes) - doing two GOODs, so a NO would be yes/yes with a given time (as O is a concept of Time). Imagine in your minds eye, joining L and L without the 90 degrees angle.
-`O` Observe - Paying attention to the needs and feelings of those around them with empathy
+`O` Obey - For those with the light in their soul, they would obey those wishes given to them from the fellow man or women.
 `P` Protect - To protect people and parent them.
 `Q` Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
 `R` Repair - To fix what is around them, rather than demolish and build again. To give people advice to become better people.
