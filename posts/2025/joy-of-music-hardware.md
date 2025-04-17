@@ -27,3 +27,5 @@ I was inspired by the [Nothing phone](https://nothing.tech/pages/about) as their
 I had also prototyped a Tap app for the Apple watch such that when you tap it with your finger, it would show a BPM and use the vibration effect on your wrist such that DJs could easily tune in and make great music. I wanted to use the font from the opening scene of Tron Legacy for the final version.
 
 ![/img/posts/2025/tron-legacy-font.avif](/img/posts/2025/tron-legacy-font.avif)
+
+I forsee that little looper devices like this would be fun to buy from stores like Apple or even park stores for children, that visit nature. They could wonder the woods, record sounds they observe and then play them back to their parents and friends. Perhaps even with popular backing tracks like Taylor Swift.
