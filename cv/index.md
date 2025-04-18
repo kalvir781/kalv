@@ -9,6 +9,8 @@ eleventyNavigation:
 # Kalvir Sandhu
 Born in the 80s. 1980, Scorpion.
 
+Technology for Good
+
 <div class="cv">
 
 # United Kingdom
@@ -106,11 +108,9 @@ Co-founded leading London Ruby development agency with [James Adam](https://gith
 # Canada
 ## Vancouver, BC.
 
-### VanRuby 2012 - 2018
-Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
-
-### RSS Hero - 2011
-Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
+### Kalv Consulting - 2011
+DayDiary - 2011 - Founded a product to store all your digital photos, notes, videos into a one feed diary. A service to store all your family memories.
+RSS Hero - 2011 - Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
 
 ### Redhand 2011
 Making tablets security camera products. Allowing for capturing video footage and detecting movement. Built out the Rails infrastructure for the mobile client applications.
@@ -118,14 +118,13 @@ Making tablets security camera products. Allowing for capturing video footage an
 ### Caliper - 2011 - 2012
 First JavaScript error collection and performance monitoring service for early JavaScript front end applications written in [BackboneJS](https://backbonejs.org).
 
-### Microsoft
-2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
-2017 The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
-
 ### Brewhouse 2012 - 2018
 Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, [Clio](https://www.clio.com/), CommandWear & Mobify.
 
 Built and sold [Goodbits](https://goodbits.io).
+
+### VanRuby 2012 - 2018
+Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
 
 ### Headphones.com - 2018
 Assisted great founder and team to re-construct [Headhphones.com](https://headphones.com) for Shopify.
@@ -150,7 +149,15 @@ Overhauled all software developer role promotion and growth job matrices.
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts. 
 
 # Talks
+Barcamp London 2008 - Multiple talks including RFID tracking, won a free iPod Shuffle.
+London Twitter Hack Weekend 2008 - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
 November 2010 - LRUG - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
+[RubyManor Conference](http://rubymanor.org) - Helped organize and talk at the conference
+
+### Microsoft Talks
+2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
+2017 The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
+
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
 
