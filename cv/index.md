@@ -105,6 +105,8 @@ Co-founded leading London Ruby development agency with [James Adam](https://gith
 
 [Voicenet](http://www.voicenet-solutions.com/) - Hand wrote a Ruby library to construct automated VOIP handling of calls as a Ruby programmable DSL, similiar to Twilio.
 
+PissWhistle - Based on IRC, chat based system using realtime connectivity for chat between teams, pre-Slack.
+
 # Canada
 ## Vancouver, BC.
 
@@ -126,8 +128,13 @@ Founded leading Canada Ruby development Agency. To work with growing tech compan
 
 Built and sold [Goodbits](https://goodbits.io).
 
+Slack Later - the ability to queue reminders and messages to Slack Channels later.
+
 ### VanRuby 2012 - 2018
 Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
+
+### MailBatch - 2018
+Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
 
 ### Headphones.com - 2018
 Assisted great founder and team to re-construct [Headhphones.com](https://headphones.com) for Shopify.
