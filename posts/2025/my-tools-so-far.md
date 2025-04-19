@@ -31,7 +31,3 @@ I wanted to draw interesting creative shapes with multiple fingers and earlier t
 There's been a lot of investment and work with large language models to make text to speech models in getting a voice to speak out words. But I remember earlier days of a commodore 64 having this feature with very limited computer resources. Using speech synthesis. I went ahead and researched this area and worked on a prototype. It earlier used SamJS and now uses the native speech synthesis engine which I was amazed to find out is supported in all web browsers. I've gone ahead and used the same code to read out any article across my whole site. A feature that the BBC or Guardian could implement.
 
 I love that this this [Text to speech](/t2v) is available on this web site such that anyone can visit this page and type in some text to speak it out, without having to fiddle with operating system hidden options and settings.
-
-# Visualizer App
-
-This is still very much work in progress. This [visualizer](/visualizer) works by sound, the box spins and moves based on the microphone input. I wanted to make a tool that had a visualization that moved to music, which it does, just it depends on the microphone setup. It's fun to just use by tapping your laptop to make it move.

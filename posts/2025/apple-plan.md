@@ -76,7 +76,7 @@ How is the display being rendered, why is it that it sucks so much power, can a 
 Other quesitons and areas I would research, can developers profile their power usage, what is running in the background.
 
 Introduce a personal clock for individuals that want to work with different times.
-https://kalv.co.uk/visualizer/ - Has a Mind clock, think of it as a way to not be stressed with the time and deadlines.
+https://kalv.co.uk/clock/ - My Mind clock, think of it as a way to not be stressed with the time and deadlines. Letting your mind focus or be used for Transcendental Meditation, allowing you to not to care for on your breathing for 1,2,3 minutes, with your chai.
 
 Introduce more music apps for musicians, such as one I call Tap. To tap it and make a metronome, would be a great utility to add in the next watch OS.
 
