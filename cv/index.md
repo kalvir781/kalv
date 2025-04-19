@@ -158,6 +158,14 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts. 
 
+## 2022 - 2024
+Travelling research computer science and future projects for Good.
+Sharing blog posts on the research and my tech prototypes such as [Nort](/posts/2025/nort/), [Tools](/posts/2025/my-tools-so-far/) and [Apple Research](/posts/2025/apple-plan/).
+[Astronomy](/posts/2025/star-theory/) for 2024 thinking, [Cydonia](/posts/2025/light-fox/) and [Psychology](/posts/2025/creating-work-space/).
+
+## 2025
+Looking for a new role in the UK.
+
 # Talks
 Barcamp London 2008 - Multiple talks including RFID tracking, won a free iPod Shuffle.
 London Twitter Hack Weekend 2008 - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.

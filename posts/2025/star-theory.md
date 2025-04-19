@@ -3,7 +3,7 @@ title: Star Theory
 description: Research and thinking on star theory
 date: 2025-04-08
 layout: layouts/post.njk
-tags: ["theory"]
+tags: ["theories"]
 ---
 
 Star theory. In my travels, and work to improve myself. I've been studying different methods of finding peace in my mind and body. I started to read about constellations and the use of planetery bodies in how they can help meditate and heal ones body when you work out.
