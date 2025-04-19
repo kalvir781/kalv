@@ -111,6 +111,7 @@ Co-founded leading London Ruby development agency with [James Adam](https://gith
 ### Kalv Consulting - 2011
 DayDiary - 2011 - Founded a product to store all your digital photos, notes, videos into a one feed diary. A service to store all your family memories.
 RSS Hero - 2011 - Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
+FamSnaps - 2012 - a service to host photos and videos after MobileMe shutdown.
 
 ### Redhand 2011
 Making tablets security camera products. Allowing for capturing video footage and detecting movement. Built out the Rails infrastructure for the mobile client applications.
