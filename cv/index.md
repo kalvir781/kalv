@@ -11,7 +11,7 @@ Born in the 80s. 1980, Scorpion.
 
 Technology for Good
 
-<div class="cv">
+<div id="cv" class="cv">
 
 # United Kingdom
 
