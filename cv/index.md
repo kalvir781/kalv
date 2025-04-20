@@ -180,5 +180,5 @@ Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2u
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
 
 <script>
-    console.log("Sun Apr 20th 2025 17:11pm - 781, Kon, Kalv, Ready, clean and ready to retire since May 2022, at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP / @ Minolta, Hot Chocolate, CheckMyAds"); 
+    console.log("Sun Apr 20th 2025 18:12pm - Kalv, Ready, clean and ready to retire since May 2022, at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP / @apple & Minolta, son of princess diana, henley, last.fm, bmw 8 series gran coupe"); 
 </script>
