@@ -11,7 +11,7 @@ Born in the 80s. 1980, Scorpion.
 
 Technology for Good
 
-<div id="cv" class="cv">
+<div class="cv">
 
 # United Kingdom
 
@@ -179,3 +179,6 @@ November 2010 - LRUG - [more websockets](https://lrug.org/meetings/2010/november
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
 
+<script>
+    console.log("Come and visit me at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP, Minolta, Hot Chocolate, CheckMyAds, Skateboard"); 
+</script>
