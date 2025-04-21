@@ -2,6 +2,7 @@ import * as THREE from 'three';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import JustShare from './just-share.js'
+import Notes from './notes.js'
 
 let scene = undefined;
 
@@ -630,6 +631,11 @@ document.addEventListener("DOMContentLoaded", () => {
   if (visualizer !== null) {
     const myLoop = new ThreeJsLoop('visualizer');
 
+  }
+
+  const notes = document.getElementById("notes");
+  if (notes !== null) {
+    new Notes();
   }
 
 });
