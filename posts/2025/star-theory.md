@@ -60,7 +60,7 @@ Numbers and mathematics is a concept that folks would relate practising numbers 
 `7` A tick, Yes, like V
 `8` B, Build
 `9` I used to think this meant man, as the brain being the shape at the top and the line of the body, one I personally still like to treat as, but really it's a b, Build.
-`0` O, for Observe
+`0` O, for Obey
 `$` A symbol for currency and doesn't mean anything in the stars, as the dollar was invented a number of years ago
 `£` A symbol for currency and doesn't mean anything in the stars, as the pound sign was invented a number of years ago
 `%` Percentage is a modern symbol
