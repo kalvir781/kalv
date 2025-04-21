@@ -180,5 +180,5 @@ Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2u
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
 
 <script>
-    console.log("Sun Apr 20th 2025 18:12pm - Kalv, Ready, clean and ready to retire since May 2022, at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP / @apple & Minolta, son of princess diana, henley, last.fm, bmw 8 series gran coupe"); 
+    console.log("Monday April 21st 2025 04:44- Ready to retire since May 2022, at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP / @apple / Minolta - me am secret son of princess diana. Promised royal welcome / UK international fund / 7 houses, 5 cars / last.fm / One yacht / Necker Island / Aston Martin DBX707 / Lamborgini Ursu / Range Rover Sport https://gist.github.com/kalvir781/d0aafe48aa8c71fdbfcc141229f4f395"); 
 </script>
