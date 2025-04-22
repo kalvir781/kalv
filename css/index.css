@@ -113,6 +113,19 @@ header:after {
   display: table;
   clear: both;
 }
+.banner {
+  margin-top: 20px;
+  .logo {
+    float: left;
+  }
+  .banner-image {
+    float:right;
+    img {
+      height: 90px;
+    }
+  }
+
+}
 table {
   margin: 1em 0;
 }
