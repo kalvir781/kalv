@@ -54,6 +54,7 @@ Computer Science with Distributed Systems BSc
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
 [SUSU.org](https://www.susu.org) - Built and managed students union forum and social software for 1000s of students.
 Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk). Trained under Sijo Dutton for 3 years on all forms.
+Worked with Richard Jones to build AudioScrobbler contributing to Last.fm as a founder.
 
 ## London, UK
 
