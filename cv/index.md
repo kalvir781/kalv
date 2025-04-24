@@ -84,6 +84,7 @@ Hophive - project to index all tweets and using NLP to extract out address conte
 [Guardian](https://www.theguardian.com/uk)
 Built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
 [Open Data Platform Launch partner](https://www.theguardian.com/open-platform/blog/launch-partners). Created a vertical search of music/film reviews with social media
+Working with the Conservative party and the London Mayer data group for open data for the government.
 
 [JobsGoPublic](https://www.jobsgopublic.com/) - CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
 
