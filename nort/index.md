@@ -14,3 +14,5 @@ eleventyNavigation:
 <div style="width:100%;height:500px;border: 1px solid #ccc" id="nort">
 </div>
 
+[Learn more](/posts/2025/nort/) about why I'm working on this project and the potential. 
+

@@ -11,11 +11,11 @@ eleventyNavigation:
 NOTE: Works better on desktop and smaller videos. iOS is a little janky and haven't tested on mobile chrome.
 
 <div id="vlog">
-    <video id="preview" width="640" height="480" autoplay muted></video>
     <div>
         <button id="startButton" disabled>Start Recording</button>
         <button id="stopButton" disabled>Stop Recording</button>
     </div>
+    <video id="preview" width="640" height="480" autoplay muted></video>
     <div id="status">Loading ffmpeg... Please wait.</div>
     <a id="downloadLink" download="output.mp4">Download Processed Video (MP4)</a>
 </div>

@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 # Kalvir Sandhu
-Born in the 80s. 1980, Scorpion.
+Celebrating all my hard work.
 
 Technology for Good
 
@@ -31,7 +31,8 @@ Work experience placement to work on the [Apple Newton](https://en.wikipedia.org
 1998 - A Levels, Physics, Chemistry and Mathematics, (BBB)
 
 ### Nortel 1996
-6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces. Built their first internal Intranet using HTML 1.0/CSS.
+6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces.
+Built their first internal Intranet using HTML 1.0/CSS, netscape 1.0.
 
 ### Retail 1996
 [Burger King](https://www.burgerking.co.uk) - Achieved the fastest whooper burger making time whilst working at Burger King as a student.
@@ -54,7 +55,7 @@ Computer Science with Distributed Systems BSc
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
 [SUSU.org](https://www.susu.org) - Built and managed students union forum and social software for 1000s of students.
 Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk). Trained under Sijo Dutton for 3 years on all forms.
-Worked with Richard Jones to build AudioScrobbler contributing to Last.fm as a founder.
+Worked with developers in 2003 to build AudioScrobbler contributing to Last.fm founders.
 
 ## London, UK
 
@@ -84,11 +85,10 @@ Hophive - project to index all tweets and using NLP to extract out address conte
 [Guardian](https://www.theguardian.com/uk)
 Built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
 [Open Data Platform Launch partner](https://www.theguardian.com/open-platform/blog/launch-partners). Created a vertical search of music/film reviews with social media
-Working with the Conservative party and the London Mayer data group for open data for the government.
 
 [JobsGoPublic](https://www.jobsgopublic.com/) - CTO - completing migration from Coldfusion to Rails with their development team. Introducing Agile software development practises and overhauling their DevOps.
 
-Designed an ImageDB to ensure lossless photo re-generation in seconds from a small core database. Built in Java/Swing desktop application.
+Designed and wrote a full open data strategy for the Conservative party and the London Mayer Office for open data for the government and how citizens could contribute to the future of the government.
 
 ### London Ruby User Group (LRUG) - 2008 - 2011
 [Ruby Manor](http://rubymanor.org) - Organized and run a UK conference on leading Ruby and Rails topics.
@@ -113,15 +113,16 @@ PissWhistle - Based on IRC, chat based system using realtime connectivity for ch
 ## Vancouver, BC.
 
 ### Kalv Consulting - 2011
-DayDiary - 2011 - Founded a product to store all your digital photos, notes, videos into a one feed diary. A service to store all your family memories.
-RSS Hero - 2011 - Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
-FamSnaps - 2012 - a service to host photos and videos after MobileMe shutdown.
-
-### Redhand 2011
-Making tablets security camera products. Allowing for capturing video footage and detecting movement. Built out the Rails infrastructure for the mobile client applications.
+2011 - DayDiary - Founded a product to store all your digital photos, notes, videos into a one feed diary. A service to store all your family memories.
+2011 - RSS Hero - Founded RSS reading service, to index millions of RSS feeds for users to replace Google Reader shutdown. For those that wanted to read news articles via RSS and a social sharing service to allow collaboration on contextual subjects.
+2011 - Investigating aggregation of all TV shows being watched for a one feed, working with latest Google TV platform released on Android.
+2011 - Redhand - Making tablets security camera products. Allowing for capturing video footage and detecting movement. Built out the Rails infrastructure for the mobile client applications.
+2012 - FamSnaps - a service to host photos and videos after MobileMe shutdown.
 
 ### Caliper - 2011 - 2012
 First JavaScript error collection and performance monitoring service for early JavaScript front end applications written in [BackboneJS](https://backbonejs.org).
+Working with early adoptors of Javascript application development such as RDIO and NewRelic.
+Pitching to investors on Sandhill road such as a16z and Bessemer (BVP)
 
 ### Brewhouse 2012 - 2018
 Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, [Clio](https://www.clio.com/), CommandWear & Mobify.
@@ -169,10 +170,11 @@ Sharing blog posts on the research and my tech prototypes such as [Nort](/posts/
 Looking for a new role in the UK.
 
 # Talks
-Barcamp London 2008 - Multiple talks including RFID tracking, won a free iPod Shuffle.
-London Twitter Hack Weekend 2008 - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
-November 2010 - LRUG - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
-[RubyManor Conference](http://rubymanor.org) - Helped organize and talk at the conference
+1997 - Future of Digital Britain organized by Tomorrows World.
+2008 - Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
+2008 - London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
+2009 - [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
+2010 - LRUG November - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
 
 ### Microsoft Talks
 2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
