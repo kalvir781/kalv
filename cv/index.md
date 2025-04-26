@@ -23,18 +23,19 @@ Managed and taught other children in the class [BBC Computers](https://en.wikipe
 ### High Wycombe Software Development Agency 1994
 Work experience placement to work on the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) device to implement the first wired ethernet networking connection to work with TCP/IP.
 
-### Altwood C of E School
+### Altwood C of E School - 1992 - 1998
 1994 Schools online project, Working with Anglia University for 5 schools being on the internet. Forums and BBS boards.
 1996 Constructed an internal network of computers for the library, such that students can access curriculum content on the internet.
 1996 When PCs weren't being used across the school network, I used their downtime screensave to process [Seti @ Home](https://setiathome.berkeley.edu) data chunks from Berkeley.
 1997 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
+1998 - Dual pipelined Silicon Graphics Vodoo graphics cards in SLI to compile custom video encoder in C -> Which is what CUDA is today.
 1998 - A Levels, Physics, Chemistry and Mathematics, (BBB)
 
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces.
 Built their first internal Intranet using HTML 1.0/CSS, netscape 1.0.
 
-### Retail 1996
+### Retail 1996 - 1998
 [Burger King](https://www.burgerking.co.uk) - Achieved the fastest whooper burger making time whilst working at Burger King as a student.
 [Marks and Spencer](https://www.marksandspencer.com) - Checkout
 [GAME](https://www.game.co.uk) - 1996 - 1998, demonstrating the latest gaming setups, gran turismo (launch of PS), supporting customers with their PC games.
