@@ -69,9 +69,11 @@ Java Enterprise - Introducing Enterprise Java for global load balanced solutions
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
 
 ### Obimesh Consulting 2007 - 2011
+SkillSwap - Online web service to allow innovators of London startup community to exchange services for free and barter exchanges. Allowing a marketer to perform work for a developer and the developer to get free marketing. Introducing a concept of tokens.
+
 [Twitterfeed](https://twitterfeed.com) - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
 
-Cookmarkit - Bookmarking service for saving recipes for families to ensure they keep their family recipe books going.
+Cookmarkit.com - Bookmarking service for saving recipes for families to ensure they keep their family recipe books going.
 
 [The RSA](https://www.thersa.org) - Advisory on all future use of digital technology in Britain.
 
@@ -136,6 +138,9 @@ Slack Later - the ability to queue reminders and messages to Slack Channels late
 ### VanRuby 2012 - 2018
 Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
 
+### Creative Labs - 2018
+Researching and developing prototypes for voice based assistants. Such that when a visitor arrives at a hotel a voice from Amazon Alexa would interact with the guest to share tourist attractions that the voice would suggest. Investigated possibilities of having celebrities such as Tom Hanks share his favourite locations that a guest would want to visit.
+
 ### MailBatch - 2018
 Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
 
@@ -161,7 +166,12 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts. 
 
-## 2022 - 2024
+Created BFCM Radio, to allow all C suite individuals to live broadcast slots of innovation across the company to celebrate Black Friday / Cyber Monday, the largest weekend at the company remotely. Bringing celebration and joy to the whole company during the pandemic. Creating a yearly tradition to a remote first company. A lot of fun DJ'ing it.
+
+### Path.dev - 2022 - 2023
+Angel funded startup to build an AI assistant to have developers interact with an AI people manager to assist them with the career growth. Harnessing work from Shopify career overhaul. Using latest AI question/answer services. Ensuring that developers could automatically capture the work they perform and allow their managers to not care about the people growth.
+
+## 2023 - 2024
 Travelling research computer science and future projects for Good.
 Sharing blog posts on the research and my tech prototypes such as [Nort](/posts/2025/nort/), [Tools](/posts/2025/my-tools-so-far/) and [Apple Research](/posts/2025/apple-plan/).
 [Astronomy](/posts/2025/star-theory/) for 2024 thinking, [Cydonia](/posts/2025/light-fox/) and [Psychology](/posts/2025/creating-work-space/).
@@ -175,6 +185,7 @@ Looking for a new role in the UK.
 2008 - London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
 2009 - [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
 2010 - LRUG November - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
+2012 - HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
 
 ### Microsoft Talks
 2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
