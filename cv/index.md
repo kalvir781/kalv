@@ -168,6 +168,9 @@ During pandemic, introduced correct practises for developers to work remotely en
 
 Created BFCM Radio, to allow all C suite individuals to live broadcast slots of innovation across the company to celebrate Black Friday / Cyber Monday, the largest weekend at the company remotely. Bringing celebration and joy to the whole company during the pandemic. Creating a yearly tradition to a remote first company. A lot of fun DJ'ing it.
 
+### CheckMyAds - 2022
+Advised on whole new cybersecurity setup for their system, ensuring the safety and security of their data. As they were scared of them being hacked. Assisted them with hiring of new developers and team to ensure their success. Using the latest Cloudflare networking setups.
+
 ### Path.dev - 2022 - 2023
 Angel funded startup to build an AI assistant to have developers interact with an AI people manager to assist them with the career growth. Harnessing work from Shopify career overhaul. Using latest AI question/answer services. Ensuring that developers could automatically capture the work they perform and allow their managers to not care about the people growth.
 
