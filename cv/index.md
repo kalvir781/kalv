@@ -30,6 +30,7 @@ Work experience placement to work on the [Apple Newton](https://en.wikipedia.org
 1997 Visual Basic windows desktop application allowing teachers to input students grades to mail merge them into printing the reports over using pen and paper across the whole school.
 1998 - Dual pipelined Silicon Graphics Vodoo graphics cards in SLI to compile custom video encoder in C -> Which is what CUDA is today.
 1998 - A Levels, Physics, Chemistry and Mathematics, (BBB)
+1996-1998 Lighting director for Romeo Juliet production & Hexagon Reading performances
 
 ### Nortel 1996
 6 week summer work placement at Maidenhead. Networking infrastructure. global FDDI (Fiber Distributed Data Interface) connection with Canada and other offices. Upgrading routers with ARP tables via COM3 port interfaces.
@@ -57,6 +58,7 @@ Final dissertation was constructing a mobile phone application to use Java MIDP 
 [SUSU.org](https://www.susu.org) - Built and managed students union forum and social software for 1000s of students.
 Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk). Trained under Sijo Dutton for 3 years on all forms.
 Worked with developers in 2003 to build AudioScrobbler contributing to Last.fm founders.
+Lighting and sound director for SUSU.org events.
 
 ## London, UK
 
