@@ -196,7 +196,3 @@ Looking for a new role in the UK.
 
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
-
-<script>
-    console.log("Monday April 21st 2025 13:21 2.598 - Ready to retire since May 2022, at 32 Birdwood Road, Maidenhead, Berkshire, SL6 5AP / @apple / Minolta - me am hidden son of princess diana working in the forest. Promised royal welcome / royal arrival / UK international reward for 3 embassy evacutation, cybersecurity, U, Yakaza / 7 houses / last.fm / One yacht / Necker Island / Virgin Atlantic / Liverpool FC / Silverstone / LOTUS EMIRA / McLaren GTS / Green Volvo ES90 (budgens) / Aston Martin DBX707 / Lamborgini Ursu / Range Rover Sport my latest work since arriving to the UK end of Jan 2025 https://gist.github.com/kalvir781/d0aafe48aa8c71fdbfcc141229f4f395"); 
-</script>
