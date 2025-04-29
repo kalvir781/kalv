@@ -22,15 +22,15 @@ These words have to be crystal clear that an individual can only demonstrate the
 Another way to look at these is what do we people, see is absent from society today.
 
 `A` Answer - To give truthful answers 
-`B` Build - Working constructively on personal growth, relationships, or community projects
-`C` Create - Bringing positive things into the world, whether it's art, solutions, or a supportive environment
+`B` Build - Building houses, Building homes, Building farms
+`C` Care - delivering care to heal people
 `D` Defend - Standing up for what is right and protecting those who are vulnerable
 `E` Edify - To improve someone morally or intellectually. The underlying metaphor of "edify" comes from the Latin word "aedificare," meaning "to build."
-`F` Focus - One that focuses on their work during the day/night. To get the best focus, I find calming and relaxing the body and mind to help.
+`F` Family - The word doesn't even need to say any more
 `G` Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith. God is Good.
 `H` Home - Ensuring one has a safe home and gives a home for others. Tribes would insist on giving up their home to travellers, a meal and water always.
 `I` Self - A single line would emphasize the importance of any human finding their inner self, being one person.
-`J` Just - The most difficult letter, there is not much in history with all languages but I order them this way. One must be Just. 
+`J` Justice - Law abiding citizens
 `K` Kind - To be kind to those around you always
 `L` Tick (Yes) - This is not saying the word 'yes' but the act of completion of a good task. Seen in the stars, this is never a 90 degrees letter, it's a tick. A correct, complete.
 `M` Work - Self explanatory. Work is here under M as it's seen in mirror when seen in the stars. 
