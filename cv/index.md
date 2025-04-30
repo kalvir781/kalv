@@ -99,7 +99,7 @@ Designed and wrote a full open data strategy for the Conservative party and the 
 [Ruby Manor](http://rubymanor.org) - Organized and run a UK conference on leading Ruby and Rails topics.
 Organized and spoke to developers in London monthly for a regular meetup on Ruby. Topics I spoke about were realtime web, event machine loop optimizations and async threading.
 
-### GoFreeRange - 2009 - 2011
+### [GoFreeRange)(https://gofreerange.com) - 2009 - 2011
 Co-founded leading London Ruby development agency with [James Adam](https://github.com/lazyatom) and [Tom Ward](https://tomafro.net).
 
 [Telefonica](https://www.telefonica.com/en/) / [O2](https://www.o2.co.uk) - Wrote a Ruby library for SMSCs to capture and forward SMS messages into an API, worked with TweetDesk
@@ -129,7 +129,7 @@ First JavaScript error collection and performance monitoring service for early J
 Working with early adoptors of Javascript application development such as RDIO and NewRelic.
 Pitching to investors on Sandhill road such as a16z and Bessemer (BVP)
 
-### Brewhouse 2012 - 2018
+### [Brewhouse](https://github.com/kalv/brewhouseteam.github.io) 2012 - 2018
 Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, [Clio](https://www.clio.com/), CommandWear & Mobify.
 
 [Tantalus Labs](https://tantaluslabs.com) - realtime chat service for cannabis farmers to discuss crops, prices and deals between each other. A slack for farmers.
