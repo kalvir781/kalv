@@ -16,6 +16,7 @@ These would be acts a single individual perform over their lifetime, not a singl
 
 These descriptions have to be crystal clear that an individual can only demonstrate as a word that doesn't have a pre-context or post-context word.
 
+Most English characters don't work in the stars that have a bend apart from 'O'.
 
 <div class="star-symbols">
 
@@ -26,17 +27,17 @@ These descriptions have to be crystal clear that an individual can only demonstr
 `D` 
 `E` 
 `F` Family - The word doesn't even need to say any more
-`G` Good - Just go and do the good work to those around you. If you practise religon, it is a fundamental theological statement and appears throughout religious texts and literature influenced by faith. God is Good.
-`H` This is really dot and not an english word with the letter H
+`G` 
+`H` Nothing, this is really dot and not an english word with the letter H, making mention of it here as it reads the word 'home', 'house'. But is a dot.
 `I` Self - A single line would emphasize the importance of any human finding their inner self, being one person.
 `J` 
 `K` 
 `L` Tick (Yes) - This is not saying the word 'yes' but the act of completion of a good task. Seen in the stars, this is never a 90 degrees letter, it's a tick. A correct, complete.
 `M` 
 `N` Double Tick (yes/yes) - doing two GOODs, so a NO would be yes/yes with a given time (as O is a concept of Time). Imagine in your minds eye, joining L and L without the 90 degrees angle.
-`O` This is a difficult symbol. It's Time. Sticking to it, meeting obligations to time. Respecting time of one another. Knowing when time is up. From the origins of the sun dial, to the moon cycles and the modern 60 minute clock.
-`P` Protect - To protect people and parent them.
-`Q` Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
+`O` This is a difficult symbol. It's Time. Sticking to it, meeting obligations to time. Respecting time of one another. Knowing when time is up. From the origins of the sun dial, to the moon cycles and the modern 60 minute clock. Thoughts to depecit this as a planet is also referenced, but if it is, it's when the planet is in view as a measure of time, such as the moon.
+`P` Nothing, really should be a triangle with self line, but people associate this with english words such as 'Parent', 'People', 'Protect', but those words are false.
+`Q` Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self. Alternative is it's time with self. An O and a single line that could be in any of the 360 positions as a single line. A queen would keep a man to time.
 `R` 
 `S` 
 `T` 
