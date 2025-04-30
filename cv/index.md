@@ -189,10 +189,9 @@ Looking for a new role in the UK.
 2009 - [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
 2010 - LRUG November - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
 2012 - HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
-
-### Microsoft Talks
-2012 Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
-2017 The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
+2012 Microsoft - Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
+2015 Code n Coffee - [Development team culture](https://github.com/kalv/codencoffee-sep-2015)
+2017 Microsoft - The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
 
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
