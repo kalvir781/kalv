@@ -1,6 +1,6 @@
 # Kalv's blog
 
-[https://kalv.life](https://kalv.life)
+[https://kalv.co.uk](https://kalv.co.uk)
 
 It uses [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
