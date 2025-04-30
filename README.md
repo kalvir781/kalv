@@ -1,25 +1,9 @@
-# Kalv's blog
+# Kalv
+
+Read more about me and what I've worked on at my blog.
 
 [https://kalv.co.uk](https://kalv.co.uk)
 
 It uses [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-Also using esbuild to work with prototypes in Three.js, in branches that I'm working with lidar and voice to text applications. Allows for complex JS/TypeScript when required.
-
-## Development
-
-```
-npm install
-```
-
-Or build and host locally for local development
-```
-npm run serve
-```
-Visit [https://localhost:8080](https://localhost:8080)
-
-To build the production build including JS minified and optimized:
-```
-npm run build
-```
-
+Also using esbuild to work with a prototype called Nort in Three.js, that I'm working on with lidar.
