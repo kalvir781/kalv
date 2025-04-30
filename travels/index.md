@@ -8,6 +8,7 @@ eleventyNavigation:
 ---
 
 # My Travels
+![/img/travels.avif](/img/travels.avif)
 I've throughly enjoyed backpacking around the world with friends and family. Here are my highlights.
 
 - One of the oldest jungle in the world, [Taman Negara](https://en.wikipedia.org/wiki/Taman_Negara). Highlight here was getting a leech on my foot when trekking through the jungle and once waking in the night for a toilet trip and seeing a swarm of black bugs for the outhouse. One night I'll never forget.
