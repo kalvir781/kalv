@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: CV
+title: About me
 templateClass: tmpl-post
 eleventyNavigation:
-  key: CV
+  key: About me
   order: 1
 ---
 # Kalvir Sandhu
