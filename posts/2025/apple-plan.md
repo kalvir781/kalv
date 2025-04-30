@@ -75,9 +75,6 @@ How is the display being rendered, why is it that it sucks so much power, can a 
 
 Other quesitons and areas I would research, can developers profile their power usage, what is running in the background.
 
-Introduce a personal clock for individuals that want to work with different times.
-https://kalv.co.uk/clock/ - My Mind clock, think of it as a way to not be stressed with the time and deadlines. Letting your mind focus or be used for Transcendental Meditation, allowing you to not to care for on your breathing for 1,2,3 minutes, with your chai.
-
 Introduce more music apps for musicians, such as one I call Tap. To tap it and make a metronome, would be a great utility to add in the next watch OS.
 
 Use different fonts, like the font from the beginning of TRON, making it fun to see.
@@ -128,11 +125,10 @@ This would allow creatives to capture the way photographers would in the past, l
 Voice control, the possibilities here are huge. There are voice control actions but nothing that is bundled together, such that say 'build' is a command that an Xcode developer could say to speed up their workflow.
 
 # Faster sharing / Music/Video Publishing
-Building on P2P as the cloud mechanism for sharing of multimedia, peer to peer.
-https://kalv.co.uk/just-share/
-Similiar to the introduction of MMS, iMessage were the first to allow higher resolution photos be transferred across their Apple network, this could be an extension on RCS or another protocol to allow fast transfer of locally encoded video/photos that are optimized for low bandwidth size.
-
+Introducing a faster sharing of offline created content that is smaller and higher efficiency for transporting of slower internet connection.
 Being able to create locally encoded and ready content, the chips on mobile and desktop using ARM are great. They have Apple Accelerate ready to go.
+
+Similiar to the introduction of MMS, iMessage were the first to allow higher resolution photos be transferred across their Apple network, this could be an extension on RCS or another protocol to allow fast transfer of locally encoded video/photos that are optimized for low bandwidth size.
 
 A live network isn't something I'd encourage in an ecosystem as creatives very rarely would like to have comments on their work when creating it. I would see it as:
 - Being able to record high quality audio and stream it, even if in spatial audio, using the full 3 or 4 microphones available on iPhones and iPads to capture creatives environments to be listened to those that have spatial headphones.
@@ -170,7 +166,7 @@ Built out a new new audio pipeline to be created with USB-C sound outputs, rathe
 
 # Staff / People
 Ensuring it remains diverse, global and async if required but always with physical connectivity.
-New forms of psychology to allow those that are on the spectrum to work anytime they want, day or night to create the best possible creations. I'll have to blog further about this as my research is not ready but it considers that your life doesn't consist of just Zeros and Ones, choices aren't just one way or the other. Contextual thinking and considering multiple variables to your decision and mental thinking. My mind clock builds on this in that no one needs to consider just the hour and the minute, you can have whatever clock works for you, mine is what I call a 1,5,60, essentially creating 3 ticks of unique time reference for your mind. You can take a look at this in my Visualization tool on this website.
+New forms of psychology to allow those that are on the spectrum to work anytime they want, day or night to create the best possible creations. I'll have to blog further about this as my research is not ready but it considers that your life doesn't consist of just Zeros and Ones, choices aren't just one way or the other. Contextual thinking and considering multiple variables to your decision and mental thinking. 
 
 The company does not build just software, products, or hardware, but creations.
 
