@@ -182,16 +182,19 @@ Sharing blog posts on the research and my tech prototypes such as [Nort](/posts/
 ## 2025
 Looking for a new role in the UK.
 
-# Talks
-1997 - Future of Digital Britain organized by Tomorrows World.
-2008 - Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
-2008 - London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
-2009 - [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
-2010 - LRUG November - [more websockets](https://lrug.org/meetings/2010/november/) - Overview of Websockets and how to work with modern realtime HTTP
-2012 - HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
-2012 Microsoft - Make Web Not War - presenting and discussing Realtime Web infrastructure for the future.
+# Talks & Podcast
+1997 Future of Digital Britain organized by Tomorrows World.
+2008 Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
+2008 London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
+2009 [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
+2010 [LRUG November](https://lrug.org/meetings/2010/november/) - [Yet Another Chat Thing](https://github.com/kalv/lrug-websockets)
+2012 VanRuby - [Async Rails processing](https://github.com/kalv/vancouver-ruby-async)
+2012 HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
+2012 Microsoft - Make Web Not War - [HTML5 WebSockets & Server-Sent Sockets coated in Ruby](https://github.com/kalv/makewebnotwar-presso)
+2014 CodeCore student presentation - [Dealing with Clients](https://github.com/kalv/dealing-with-clients)
 2015 Code n Coffee - [Development team culture](https://github.com/kalv/codencoffee-sep-2015)
 2017 Microsoft - The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
+2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 
-Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
+Podcast
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
