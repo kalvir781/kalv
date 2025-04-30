@@ -38,7 +38,7 @@ Another way to look at these is what do we people, see is absent from society to
 `O` This is a difficult symbol. It's Time. Sticking to it, meeting obligations to time. Respecting time of one another. Knowing when time is up. From the origins of the sun dial, to the moon cycles and the modern 60 minute clock.
 `P` Protect - To protect people and parent them.
 `Q` Qi (chi) - Pulled from Chinese philosophy, so if one doesn't move for themselves, they aren't receiving life force, energy. The practise of Tai Chi brings this energy into self.
-`R` Repair - To fix what is around them, rather than demolish and build again. To give people advice to become better people.
+`R` Result - To show results in the eyes of the sun. Delivering what is promised to individuals.
 `S` Safety - To provide Safety for people or to sacrifice yourself for people
 `T` Tidy - to be clean.
 `U` Uniqueness - Like self, and being one with self
@@ -66,7 +66,7 @@ Numbers and mathematics is a concept that folks would relate practising numbers 
 `%` Percentage is a modern symbol
 `^` If was in the stars, would mean Yes, a tick
 `&` And is a word that has a symbol, so nothing in the stars.
-`*` A star, well if this mean something it would be a lifetime of truths and good.
+
 
 Defunct, don't mean anything other shapes for prose and english
 `#`, `@`, `(`, `)`, `{`, `}`,`[`, `]` - Don't mean anything, just shapes
