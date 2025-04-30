@@ -14,3 +14,6 @@ I once saw Ice still formed on sand in temperatures of 10-15C and specifically o
 
 I'm exciting abouted perusing this in the future such that we can bring back green to the areas of yellow we have in the world.
 
+Ice formations found at Golden Ears hike trail.
+
+![/img/posts/2025/golden-ears.avif](/img/posts/2025/golden-ears.avif)
