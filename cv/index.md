@@ -62,14 +62,15 @@ Lighting and sound director for SUSU.org events.
 
 ## London, UK
 
-### Complinet - Thomson Reuters - 2003 - 2006
+### Complinet - Thomson Reuters - 2003 - 2007
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
 Full Enterprise Dot Net desktop software for banks to run locally on their private network to process their customer databases. Harnessing research of Google One box, Cambridge Autonomy and raw custom Lucene indexing methods. (which today powers Solr, ElasticSearch)
 Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money, Deutsche Bank and Crédit Agricole.
 Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at [Peer1](https://en.wikipedia.org/wiki/Aptum_Technologies) in Vancouver, BC.
 
-### Arrival Education - 2006 - 2007
+### Arrival Education - 2007
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
+Funded by an interested party on the top floor of Hilton Mayfair.
 
 ### Obimesh Consulting 2007 - 2011
 SkillSwap - Online web service to allow innovators of London startup community to exchange services for free and barter exchanges. Allowing a marketer to perform work for a developer and the developer to get free marketing. Introducing a concept of tokens.
