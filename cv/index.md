@@ -64,7 +64,7 @@ Lighting and sound director for SUSU.org events.
 
 ### Complinet - Thomson Reuters - 2003 - 2006
 KYC Sanction search service - Java based search system with a desktop and web client to search named individuals that are on international financial sanctioned lists.
-Full Enterprise Dot Net desktop software for banks to run locally on their private network to process their customer databases.
+Full Enterprise Dot Net desktop software for banks to run locally on their private network to process their customer databases. Harnessing research of Google One box, Cambridge Autonomy and raw custom Lucene indexing methods. (which today powers Solr, ElasticSearch)
 Media Search service - Indexing 300k news articles daily and extracting names via Named Entity Extraction (NLP) to allow finding names that are mentioned along those that are sanctioned for clients such as GE Money, Deutsche Bank and Crédit Agricole.
 Java Enterprise - Introducing Enterprise Java for global load balanced solutions and uptime. Worked on Javascript controls such as autocomplete and other early web 2.0 concepts for rich web experiences. Installing and setting up physical servers with openSUSE VM virtualization at [Peer1](https://en.wikipedia.org/wiki/Aptum_Technologies) in Vancouver, BC.
 
@@ -187,6 +187,7 @@ Looking for a new role in the UK.
 2008 Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
 2008 London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
 2009 [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
+2009 Amsterdam ApacheCon, birds of a feather discussion on Lucene/Solr creation
 2010 [LRUG November](https://lrug.org/meetings/2010/november/) - [Yet Another Chat Thing](https://github.com/kalv/lrug-websockets)
 2012 VanRuby - [Async Rails processing](https://github.com/kalv/vancouver-ruby-async)
 2012 HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
