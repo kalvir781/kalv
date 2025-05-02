@@ -184,10 +184,10 @@ Looking for a new role in the UK.
 
 # Talks & Podcast
 1997 Future of Digital Britain organized by Tomorrows World.
+2007 Amsterdam ApacheCon, birds of a feather discussion on Lucene/Solr creation
 2008 Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
 2008 London Twitter Hack Weekend - Organized the first London twitter weekend hack weekend. Expanding on the use of metadata development on tweets and the adding of contextual information for relevant search results.
 2009 [RubyManor Conference 2](http://rubymanor.org) - Co-organized the conference
-2009 Amsterdam ApacheCon, birds of a feather discussion on Lucene/Solr creation
 2010 [LRUG November](https://lrug.org/meetings/2010/november/) - [Yet Another Chat Thing](https://github.com/kalv/lrug-websockets)
 2012 VanRuby - [Async Rails processing](https://github.com/kalv/vancouver-ruby-async)
 2012 HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
