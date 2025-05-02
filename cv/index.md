@@ -86,8 +86,6 @@ Social Innovation / [FutureGov](https://wearefuturegov.com) / Enabled By Design
 Barnet Council digital strategy, advising Consverative party on Greater London Authority on open data. TweetyHall to put together social media from elected MPs
 [socializing with lovely people](https://www.flickr.com/photos/sicamp/3095080311/), [me hacking in the back with the yellow and grey jumper](https://www.flickr.com/photos/sicamp/3095989918/)
 
-Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with [Timeout](https://www.timeout.com) / [Guardian](https://www.theguardian.com).
-
 [Guardian](https://www.theguardian.com/uk)
 Built a [ruby library](https://www.theguardian.com/open-platform/client-libraries) for their first open data platform
 [Open Data Platform Launch partner](https://www.theguardian.com/open-platform/blog/launch-partners). Created a vertical search of music/film reviews with social media
@@ -99,6 +97,10 @@ Designed and wrote a full open data strategy for the Conservative party and the 
 ### London Ruby User Group (LRUG) - 2008 - 2011
 [Ruby Manor](http://rubymanor.org) - Organized and run a UK conference on leading Ruby and Rails topics.
 Organized and spoke to developers in London monthly for a regular meetup on Ruby. Topics I spoke about were realtime web, event machine loop optimizations and async threading.
+
+### HopHive - 2009
+Local news indexing service for neighbourhood communities.
+Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with [Timeout](https://www.timeout.com) / [Guardian](https://www.theguardian.com).
 
 ### [GoFreeRange)(https://gofreerange.com) - 2009 - 2011
 Co-founded leading London Ruby development agency with [James Adam](https://github.com/lazyatom) and [Tom Ward](https://tomafro.net).
