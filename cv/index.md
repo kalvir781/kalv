@@ -152,6 +152,7 @@ Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to 
 
 ### iQmetrix - 2018
 CTO of north america's leading mobile wireless store infrastructure. Overhauled full architecture of POS, payment processing transactional systems, and engineering team structure.
+Overhauled their company wide holacracy team structure with clear responsibilities for technical leadership and optimized meeting structures.
 
 ### Holopod (startup) - 2019
 Solo designed and constructued [Holopod](http://holopod.com) - MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack for the future of remote workers.
