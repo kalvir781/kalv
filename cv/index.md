@@ -135,6 +135,8 @@ Pitching to investors on Sandhill road such as a16z and Bessemer (BVP)
 ### [Brewhouse](https://github.com/kalv/brewhouseteam.github.io) 2012 - 2018
 Founded leading Canada Ruby development Agency. To work with growing tech companies such as Loft47, [Clio](https://www.clio.com/), CommandWear & Mobify.
 
+WeAreYVR - first online startup community and news site for YVR innovative, smart, itelligent companies.
+
 [Tantalus Labs](https://tantaluslabs.com) - realtime chat service for cannabis farmers to discuss crops, prices and deals between each other. A slack for farmers.
 
 Built and sold [Goodbits](https://goodbits.io).
