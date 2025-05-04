@@ -150,10 +150,10 @@ Researching and developing prototypes for voice based assistants. Such that when
 ### MailBatch - 2018
 Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
 
-### Headphones.com - 2018
-Assisted great founder and team to re-construct [Headhphones.com](https://headphones.com) for Shopify.
+### iQmetrix - 2018
+CTO of north america's leading mobile wireless store infrastructure. Overhauled full architecture of POS, payment processing transactional systems, and engineering team structure.
 
-### Holopod - 2018
+### Holopod (startup) - 2019
 Solo designed and constructued [Holopod](http://holopod.com) - MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack for the future of remote workers.
 Allowed teams like Telus and Netflix to allow their remote staff to improve their working environment.
 Now part of the mozilla family.
