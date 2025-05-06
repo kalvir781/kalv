@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<input id="read-post" type="button" value="read out loud"></input>
+
+<h1>{{ title }}</h1>
+
+{% for tag  in tags %}
+  {% if tag == "musictv" %}
+    <span class="post-tag"><a href="/{{ tag }}">Music & TV</a></span>
+  {% elseif tag !== "posts" %}
+    <span class="post-tag"><a href="/{{ tag }}">{{tag}}</a></span>
+  {% endif %}
+{% endfor %}
+
+<time class="post-date" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+
+
+<div id="post-content" class="post-content">
+
+{{ content | safe }}
+
+</div>
+
+{%- if collections.posts %}
+
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+
+{%- if nextPost or previousPost %}
+
+<div class="columns">
+<div class="col">
+{%- if previousPost %}&lt; <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a> &lt;{% endif %}
+</div>
+<div class="col" style="text-align:right">
+{%- if nextPost %}&gt; <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a> &gt;{% endif %}
+</div>
+</div>
+
+{%- endif %}
+
+{%- endif %}
