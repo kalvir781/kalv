@@ -180,13 +180,10 @@ Created BFCM Radio, to allow all C suite individuals to live broadcast slots of 
 ### Path.dev - 2022 - 2023
 Angel funded startup to build an AI assistant to have developers interact with an AI people manager to assist them with the career growth. Harnessing work from Shopify career overhaul. Using latest AI question/answer services. Ensuring that developers could automatically capture the work they perform and allow their managers to not care about the people growth.
 
-## 2023 - 2024
-Travelling research computer science and future projects for Good.
-Sharing blog posts on the research and my tech prototypes such as [Nort](/posts/2025/nort/), [Tools](/posts/2025/my-tools-so-far/) and [Apple Research](/posts/2025/apple-plan/).
-[Astronomy](/posts/2025/star-theory/) for 2024 thinking, [Cydonia](/posts/2025/light-fox/) and [Psychology](/posts/2025/creating-work-space/).
-
-## 2025
-Looking for a new role in the UK.
+## 2023 - 2025
+Travelling and researching computer science for future projects of Good.
+Building prototypes with Apple Lidar, text to speech with under 80kb libraries, and faster optimized networking approaches for instant on live streaming .
+Reviweing astronomy, with discovering [Cydonia](/posts/2025/cydonia/).
 
 # Talks & Podcast
 1997 Future of Digital Britain organized by Tomorrows World.
