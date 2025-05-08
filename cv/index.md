@@ -70,7 +70,6 @@ Java Enterprise - Introducing Enterprise Java for global load balanced solutions
 
 ### Arrival Education - 2007
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
-Funded by an interested party on the top floor of Hilton Mayfair.
 
 ### Obimesh Consulting 2007 - 2011
 SkillSwap - Online web service to allow innovators of London startup community to exchange services for free and barter exchanges. Allowing a marketer to perform work for a developer and the developer to get free marketing. Introducing a concept of tokens.
