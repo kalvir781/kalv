@@ -53,7 +53,7 @@ Automated Europe wide metric collections for their support centers. Prepare for 
 ## Southampton, UK
 
 ### Southampton University 2000-2003
-Computer Science with Distributed Systems BSc
+BSc Computer Science with Distributed Systems and Networking
 Final dissertation was constructing a mobile phone application to use Java MIDP to analyze a road sign symbol and look it up Computer Vision techniques and a SOAP web based service for lookup.
 [SUSU.org](https://www.susu.org) - Built and managed students union forum and social software for 1000s of students.
 Following from my Judo in 1990 I studied [Hung Leng Kuen Fung Fu](https://www.hlksoton.co.uk). Trained under Sijo Dutton for 3 years on all forms.
