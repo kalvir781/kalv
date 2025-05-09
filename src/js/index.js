@@ -1,6 +1,8 @@
 import Nort from './nort.js'
 import ReadPost from './readPost.js'
 import JustShare from './just-share.js'
+import Board from './board.js'
+import Notes from './notes.js'
 
 /* ========= */
 /* Vlog util */
@@ -238,6 +240,11 @@ function cleanupStream() {
 /* ========= */
 
 document.addEventListener("DOMContentLoaded", () => {
+  const canvas = document.getElementById("drawing-app");
+	if (canvas !== null) {
+		new Board(canvas);
+	}
+
   const readPost = document.getElementById("read-post");
   if (readPost !== null) {
     new ReadPost();
@@ -268,6 +275,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     startButton.addEventListener('click', startRecording);
     stopButton.addEventListener('click', stopRecording);
+  }
+
+  const notes = document.getElementById("notes");
+  if (notes !== null) {
+    new Notes();
   }
 
 });
