@@ -3,6 +3,7 @@ import ReadPost from './readPost.js'
 import JustShare from './just-share.js'
 import Board from './board.js'
 import Notes from './notes.js'
+import T2V from './t2v.js'
 
 /* ========= */
 /* Vlog util */
@@ -280,6 +281,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const notes = document.getElementById("notes");
   if (notes !== null) {
     new Notes();
+  }
+
+  const box = document.getElementById("t2v");
+  if (box !== null) {
+    new T2V();
   }
 
 });
