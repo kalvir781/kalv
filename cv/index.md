@@ -41,9 +41,12 @@ Built their first internal Intranet using HTML 1.0/CSS, netscape 1.0.
 [Marks and Spencer](https://www.marksandspencer.com) - Checkout
 [GAME](https://www.game.co.uk) - 1996 - 1998, demonstrating the latest gaming setups, gran turismo (launch of PS), supporting customers with their PC games.
 
-### Tandem Computers - Compaq Computers 1999-2000
-[Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers and have excursions at universities for weekend training.
-Automated Europe wide metric collections for their support centers. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over system. Implemented new Lucent telephoney from Nortel, digital VOIP.
+### Compaq Computers (Tandem Computers) 1999-2000
+[Year In Industry](https://en.wikipedia.org/wiki/The_Year_in_Industry) program to work with Compaq Computers in Reading.
+Excursions at universities for weekend training.
+Automated Europe wide metric collections for their support centers.
+European wide prep for Y2K Bug. Prepare for non-millenium bug New Years with multiple cellular and telecommunication fail over systems.
+Implemented new Lucent telephoney moving from Nortel to digital VOIP across company.
 
 ### Summer work - 2000-2003
 2001 Glaxosmithkline packing toothpaste tubes.
