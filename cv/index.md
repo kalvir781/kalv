@@ -104,8 +104,8 @@ Organized and spoke to developers in London monthly for a regular meetup on Ruby
 Local news indexing service for neighbourhood communities.
 Hophive - project to index all tweets and using NLP to extract out address context to connect stories for neighbourhoods. Working with [Timeout](https://www.timeout.com) / [Guardian](https://www.theguardian.com).
 
-### [GoFreeRange)(https://gofreerange.com) - 2009 - 2011
-Co-founded leading London Ruby development agency with [James Adam](https://github.com/lazyatom) and [Tom Ward](https://tomafro.net).
+### GoFreeRange - 2009 - 2011
+Co-founded leading London Ruby development agency, [GoFreeRange](https://gofreerange.com)with [James Adam](https://github.com/lazyatom) and [Tom Ward](https://tomafro.net).
 
 [Telefonica](https://www.telefonica.com/en/) / [O2](https://www.o2.co.uk) - Wrote a Ruby library for SMSCs to capture and forward SMS messages into an API, worked with TweetDesk
 
