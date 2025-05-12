@@ -14,7 +14,7 @@ I see Nort becoming a platform that can scan any structure with lidar and upload
 
 Would love to talk to Apple about this and work with them on what else they could do with this for their Vision OS. I think it would be great for a new social platform for creatives of all ages and colours.
 
-I believe it will be able to share immersive visual captures for those that perhaps are impaired or un-able to get to a specific locations. Such as hikes, monuments, impressive architectural or sites like Stone Hedge.
+I believe it will be able to share immersive visual captures for those that perhaps are impaired or un-able to get to a specific locations. Such as hikes, monuments, impressive architectural or sites like Stonehenge.
 
 The prototype I have is simple for now, but highlights what is possible. It's just me in my bedroom where I've been working on my simple macbook air. 
 
