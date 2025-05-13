@@ -7,8 +7,6 @@ eleventyNavigation:
   order: 1
 ---
 # Kalvir Sandhu
-Celebrating all my hard work.
-
 Technology for Good
 
 <div class="cv">
