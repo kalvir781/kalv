@@ -183,7 +183,6 @@ Angel funded startup to build an AI assistant to have developers interact with a
 ## 2023 - 2025
 Travelling and researching computer science for future projects of Good.
 Building prototypes with Apple Lidar, text to speech with under 80kb libraries, and faster optimized networking approaches for instant on live streaming .
-Reviweing astronomy, with discovering [Cydonia](/posts/2025/cydonia/).
 
 # Talks & Podcast
 1997 Future of Digital Britain organized by Tomorrows World.
