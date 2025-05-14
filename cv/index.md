@@ -73,6 +73,8 @@ Java Enterprise - Introducing Enterprise Java for global load balanced solutions
 Co-founded [Arrival Education](https://find-and-update.company-information.service.gov.uk/company/05066442/officers), built software to analyze sales leads and indexing news data for sales lead opportunities.
 
 ### Obimesh Consulting 2007 - 2011
+[DutchUncle](https://dutchuncle.com) - rebuild of leading illustrators of London and New York website to host optimized beautiful imagery.
+
 SkillSwap - Online web service to allow innovators of London startup community to exchange services for free and barter exchanges. Allowing a marketer to perform work for a developer and the developer to get free marketing. Introducing a concept of tokens.
 
 [Twitterfeed](https://twitterfeed.com) - [making RSS feeds update Twitter in real-time](https://www.wired.com/story/wireds-guide-to-the-uk-twitterati/). Publishing 6m RSS feeds every 24 hours on a Ruby EventMachine driven stack over RabbitMQ.
