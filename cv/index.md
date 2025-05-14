@@ -195,6 +195,7 @@ Reviweing astronomy, with discovering [Cydonia](/posts/2025/cydonia/).
 2012 VanRuby - [Async Rails processing](https://github.com/kalv/vancouver-ruby-async)
 2012 HackHut - Talk on Intercom, sharing the importance of interaction with your customers for startup development
 2012 Microsoft - Make Web Not War - [HTML5 WebSockets & Server-Sent Sockets coated in Ruby](https://github.com/kalv/makewebnotwar-presso)
+2013 to 2018 - Organizer of monthly leading YVR CTO uncorked dinner group 
 2014 CodeCore student presentation - [Dealing with Clients](https://github.com/kalv/dealing-with-clients)
 2015 Code n Coffee - [Development team culture](https://github.com/kalv/codencoffee-sep-2015)
 2017 Microsoft - The future of conversational AI systems to interact with people, how computers will use this as the new method of UI
