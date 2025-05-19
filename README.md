@@ -1,4 +1,6 @@
-# Kalv
+# K⧋N
+
+About me - Kalvir Sandhu, UK/Canada Citizen.
 
 Read more about me and what I've worked on at my blog.
 
