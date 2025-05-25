@@ -183,8 +183,8 @@ Created BFCM Radio, to allow all C suite individuals to live broadcast slots of 
 Angel funded startup to build an AI assistant to have developers interact with an AI people manager to assist them with the career growth. Harnessing work from Shopify career overhaul. Using latest AI question/answer services. Ensuring that developers could automatically capture the work they perform and allow their managers to not care about the people growth.
 
 ## 2023 - 2025
-Travelling and researching computer science for future projects of Good.
-Building prototypes with Apple Lidar, text to speech with under 80kb libraries, and faster optimized networking approaches for instant on live streaming .
+Travelling and researching computer science, symbology and humanity for future projects of Good.
+Building prototypes with Apple Lidar for NORT and designs for a new computer interface, one with perhaps one button.
 
 # Talks & Podcast
 1997 Future of Digital Britain organized by Tomorrows World.
