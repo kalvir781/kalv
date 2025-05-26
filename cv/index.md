@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 # Kalvir Sandhu
-Technology for Good
+Spectacular Technology
 
 <div class="cv">
 
