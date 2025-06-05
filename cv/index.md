@@ -184,7 +184,7 @@ Angel funded startup to build an AI assistant to have developers interact with a
 
 ## 2023 - 2025
 Travelling and researching computer science, symbology and humanity for future projects of Good.
-Building prototypes with Apple Lidar for NORT and designs for a new computer interface, one with perhaps one button.
+Building prototypes with Apple Lidar for NORT and a new peripheral for computers using hands, called Kon Hand.
 
 # Talks & Podcast
 1997 Future of Digital Britain organized by Tomorrows World.
