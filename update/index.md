@@ -25,3 +25,8 @@ All of my solutions that I've built to ensure my body/mind/heart is mine keep on
 
 07:41
 William wants me to keep typing and go as far as me receiving a FN502 and going to the castle and shooting him for his entertainment. This is how crazy they are in what they are using which is the tech from the movie 'Anon'. Un-believable. It's funny because every request for a lady or service to be delivered to Kalvir Sandhu, 009, is given to the Castle as a 'royal gate' because I'm royal and meant to receive my royal allowance which today sits at £44m, and they have to sign off on it. So William would have to sign off on me getting a gun and going to him to kill him, whilst he watches me walk up to him through my eyes, HAHAHA, stupid.
+
+08:13
+I have been drinking a specific drink to ensure that those that have been eating and drinking through me would have a health solution as a 'come down' to cure their very 'deep' hangover that they will have. William/Charles said their people 'won't with this comment:
+From William. "They won't value their life over the money they won't get"
+The healing solution for them for when they remove their technology which they've described as 'sunglasses' would be a cup of Milo mixed with dougie egberts coffee, because of the way I had a sound signature played through my mind and drinking a cup on sunrise, when I next drink a cup that solution will no longer work for their witches as a method of healing to allow them to drink and eat again. I am certain that the 'stubborn' royals will continue to say they are 'protected' and that William wants to keep eating me viewing movies in my bedroom for the Sunday.
